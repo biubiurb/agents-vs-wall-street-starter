@@ -224,6 +224,7 @@ def _validate_payload(
     )
     comparables = []
     seen_companies = set()
+    seen_company_references = set()
     for raw in raw_comparables:
         if not isinstance(raw, Mapping):
             raise ValueError("every comparable must be a mapping")
@@ -249,6 +250,10 @@ def _validate_payload(
         normalized["report_date"] = report_date.isoformat()
         comparables.append(normalized)
         seen_companies.add(peer.casefold())
+        seen_company_references.add(peer.casefold())
+        ticker = str(raw.get("ticker") or "").strip()
+        if ticker:
+            seen_company_references.add(ticker.casefold())
 
     expected = {item["label"]: item["unit"] for item in metrics}
     adjustments = []
@@ -274,7 +279,11 @@ def _validate_payload(
         referenced = raw.get("comparable_companies")
         if not isinstance(referenced, Sequence) or isinstance(referenced, (str, bytes)):
             raise ValueError(f"comparable_companies for {metric} must be a list")
-        unknown = [str(item) for item in referenced if str(item).strip().casefold() not in seen_companies]
+        unknown = [
+            str(item)
+            for item in referenced
+            if str(item).strip().casefold() not in seen_company_references
+        ]
         if unknown:
             raise ValueError(f"comparable adjustment for {metric} cites unknown companies: {unknown}")
         normalized = dict(raw)

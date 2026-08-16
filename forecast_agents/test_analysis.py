@@ -92,6 +92,20 @@ class ForecastAnalysisTests(unittest.TestCase):
                 analyzer=lambda *_: self._comparable_payload(report_date="2026-06-01"),
             )
 
+    def test_comparable_adjustments_can_reference_a_peer_ticker(self):
+        payload = self._comparable_payload()
+        payload["metric_adjustments"][0]["comparable_companies"] = ["PEER"]
+
+        summary = comparable_analysis(
+            "Example Co",
+            "FY2026Q2",
+            "2026-08-20",
+            ["Revenue|USDm"],
+            analyzer=lambda *_: payload,
+        )
+
+        self.assertIn("Revenue: 2 USDm", summary)
+
     def test_shared_boundary_normalizers_produce_canonical_contracts(self):
         self.assertEqual(normalize_period("Q3 FY2026"), ("Q3 2026", "Q3_2026"))
         self.assertEqual(normalize_period("1H2026"), ("H1 2026", "H1_2026"))
