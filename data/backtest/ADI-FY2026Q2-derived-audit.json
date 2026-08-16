@@ -1,0 +1,377 @@
+{
+  "company": "Analog Devices",
+  "target_period": "Q2 2026",
+  "news_start_date": "2026-02-19",
+  "information_cutoff": "2026-05-19",
+  "guidance_summary": "GUIDANCE ANALYSIS: Analog Devices — Q1 2026\n\nMETRIC: Revenue\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: $3.5 billion, +/- $100 million\nUNIT: USD\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Reported/company revenue outlook; no organic or constant-currency basis stated.\nMAIN RATIONALE/DRIVERS:\n- Management cited broad Industrial strength, record Data Center orders, cyclical recovery, and secular growth tailwinds.\n- Macro and geopolitical conditions remain challenging.\n\nMETRIC: Revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: About 11% sequential growth at the midpoint; excluding pricing uplift, more like 7% sequential growth\nUNIT: sequential growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Company revenue outlook at midpoint; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- About one-third of the midpoint quarter-over-quarter revenue increase is expected to come from pricing.\n- Excluding pricing, expected growth remains above typical Q2 seasonality of 4%-5%.\n\nMETRIC: Reported operating margin\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Approximately 36.4%, +/- 150 basis points\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: GAAP; at the midpoint of the revenue outlook.\nMAIN RATIONALE/DRIVERS:\n- Formal earnings-release outlook.\n\nMETRIC: Adjusted operating margin\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Approximately 47.5%, +/- 100 basis points\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Adjusted/non-GAAP; at the midpoint of the revenue outlook.\nMAIN RATIONALE/DRIVERS:\n- Expected sequential improvement reflects gross-margin expansion and lower OpEx as a percentage of revenue.\n\nMETRIC: Reported diluted EPS\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: $2.19, +/- $0.15\nUNIT: USD per diluted share\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: GAAP.\nMAIN RATIONALE/DRIVERS:\n- Formal earnings-release outlook.\n\nMETRIC: Adjusted diluted EPS\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: $2.88, +/- $0.15\nUNIT: USD per diluted share\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Adjusted/non-GAAP.\nMAIN RATIONALE/DRIVERS:\n- Based on the revenue, operating-margin, and tax-rate outlook inputs.\n\nMETRIC: Tax rate\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Between 11% and 13%\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Management earnings-model outlook; the call did not explicitly label this range GAAP or non-GAAP.\nMAIN RATIONALE/DRIVERS:\n- Used as an input to the adjusted EPS outlook.\n\nMETRIC: Adjusted gross margin\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: 100 basis points of reported sequential expansion; essentially 150 basis points versus Q1 excluding Q1 discrete items\nUNIT: basis points\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Non-GAAP/adjusted gross-margin bridge discussed on the call.\nMAIN RATIONALE/DRIVERS:\n- Favorable mix and pricing are expected to drive the increase.\n- Management expects only modest further upside from utilization because it has moved closer to the optimal utilization level.\n- The outlook includes 50 basis points from one-time channel-inventory repricing.\n\nMETRIC: Channel-inventory repricing contribution to gross margin\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: 50 basis points will not repeat\nUNIT: basis points\nTIMEFRAME/TARGET PERIOD: Fiscal Q3 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Non-GAAP/adjusted gross-margin outlook; relates to the one-time effect of repricing inventory in the channel.\nMAIN RATIONALE/DRIVERS:\n- The Q2 price-related margin uplift from channel inventory repricing is one-time and therefore is not expected to recur in Q3.\n\nMETRIC: Operating expenses growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Mid-single-digit growth\nUNIT: sequential growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Operating-expense outlook; non-GAAP basis consistent with management's call remarks.\nMAIN RATIONALE/DRIVERS:\n- No shutdown is expected in Q2.\n- ADI is continuing to hire in strategic investment areas.\n- Higher bonus factor and the GTC conference are expected expense drivers.\n\nMETRIC: Operating expenses growth relative to revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: OpEx growth expected to trail revenue growth by roughly half\nUNIT: relative growth rate\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Full-year operating-expense growth outlook; non-GAAP basis consistent with management's call remarks.\nMAIN RATIONALE/DRIVERS:\n- Management expects operating leverage to continue as revenue grows.\n\nMETRIC: Capital expenditures\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: 4%-6% of revenue\nUNIT: percent of revenue\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Capital expenditures within ADI's long-term model.\nMAIN RATIONALE/DRIVERS:\n- Capex is expected to support operations and strategic investments.\n\nMETRIC: Industrial revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Up 20% sequentially and about 50% year over year\nUNIT: revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: End-market revenue outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- Cyclical recovery.\n- Strength in automated test equipment (ATE) and aerospace and defense.\n- Management expects all Industrial segments to increase.\n\nMETRIC: ATE revenue growth within Industrial\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Greater than 30% sequential growth\nUNIT: sequential revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Industrial end-market outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- ATE is expected to lead Industrial growth amid strong bookings and backlog.\n\nMETRIC: Communications revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Up high single digits sequentially and about 60% year over year\nUNIT: revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: End-market revenue outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- AI-driven data-center demand for optical and power portfolios.\n- Wireless cyclical recovery.\n\nMETRIC: Automotive revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Flat to down sequentially\nUNIT: sequential revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: End-market revenue outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- Below-seasonal outlook is attributed to the unwind of tariff- and macro-related order pull-ins.\n- Greater China exposure is typically seasonally light in Q2 because of Chinese New Year.\n\nMETRIC: Consumer revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Down mid-single digits sequentially\nUNIT: sequential revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: End-market revenue outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- Expected to be in line with normal seasonality.\n\nMETRIC: Revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Typically up low single digits\nUNIT: sequential growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q3 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Typical company seasonal pattern; management explicitly stated it does not otherwise guide Q3.\nMAIN RATIONALE/DRIVERS:\n- Management characterized this as normal Q3 seasonality rather than a formal Q3 outlook.\n\nMETRIC: Pricing contribution to revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: About one-third of the midpoint quarter-over-quarter revenue increase\nUNIT: share of sequential revenue increase\nTIMEFRAME/TARGET PERIOD: Fiscal Q2 2026\nTIMEFRAME SCOPE: Quarter\nBASIS: Midpoint company revenue outlook; contribution from recent pricing actions.\nMAIN RATIONALE/DRIVERS:\n- Recent channel-partner price adjustments took effect at the start of Q2.\n- Annual direct-customer negotiations are largely complete, so Q2 is expected to reflect the full scope of recent pricing actions.\n- Roughly half of the price lift is related to channel-inventory repricing.\n\nMETRIC: Pricing contribution to revenue growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: About 50 basis points of incremental growth in each quarter\nUNIT: basis points of sequential revenue growth\nTIMEFRAME/TARGET PERIOD: Fiscal Q3 and Fiscal Q4 2026\nTIMEFRAME SCOPE: Multi Year\nBASIS: Incremental sequential revenue-growth contribution from pricing.\nMAIN RATIONALE/DRIVERS:\n- Excludes the nonrecurring Q2 benefit from repricing channel inventory.\n\nMETRIC: Automotive revenue\nGUIDANCE TYPE: Qualitative\nNUMERICAL GUIDANCE: None stated; use management rationale only\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: End-market revenue outlook; reported basis not otherwise specified.\nMAIN RATIONALE/DRIVERS:\n- Management expects Automotive to grow versus record fiscal 2025 after first-half headwinds pass.\n- Underlying content growth and share positions, including connectivity and functionally safe power for ADAS, remain intact.\n\nMETRIC: Data-center and automated-test-equipment growth\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: Double-digit growth\nUNIT: growth rate\nTIMEFRAME/TARGET PERIOD: Over the next several years\nTIMEFRAME SCOPE: Multi Year\nBASIS: Management long-term growth outlook for these areas.\nMAIN RATIONALE/DRIVERS:\n- AI infrastructure demand supports data-center optical and power portfolios.\n- Increasing semiconductor complexity and connected intelligent devices support ATE demand.\n\nMETRIC: Customer ordering and inventory restocking\nGUIDANCE TYPE: Qualitative\nNUMERICAL GUIDANCE: None stated; use management rationale only\nTIMEFRAME/TARGET PERIOD: Not explicitly stated\nTIMEFRAME SCOPE: Not Stated\nBASIS: Demand and channel-inventory outlook.\nMAIN RATIONALE/DRIVERS:\n- Management believes customers are broadly nearing, or are, ordering to consumption after digestion.\n- Management sees no evidence of restocking activity across its portfolio.\n\nMETRIC: Fiscal 2026 overall business outlook\nGUIDANCE TYPE: Qualitative\nNUMERICAL GUIDANCE: None stated; use management rationale only\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Management overall company outlook.\nMAIN RATIONALE/DRIVERS:\n- Management believes fiscal 2026 has the potential to be a banner year, supported by a strong Q2 outlook and improving demand signals.\n- This outlook is conditional on no unforeseen material changes in the macroeconomic and geopolitical backdrop.\n\nMETRIC: Free-cash-flow return to shareholders\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: 100% of free cash flow returned to shareholders; 40%-60% used for dividends and the remainder for share-count reduction\nUNIT: percent of free cash flow\nTIMEFRAME/TARGET PERIOD: Over the long term\nTIMEFRAME SCOPE: Multi Year\nBASIS: Long-term capital-return target.\nMAIN RATIONALE/DRIVERS:\n- Management intends to use dividends and share repurchases/share-count reduction to return free cash flow to shareholders.\n\nMETRIC: Quarterly cash dividend\nGUIDANCE TYPE: Quantitative\nPROJECTION/GUIDANCE: $1.10 per outstanding share; expected total approximately $537 million\nUNIT: USD per share; USD total\nTIMEFRAME/TARGET PERIOD: March 17, 2026 payment date\nTIMEFRAME SCOPE: Date Range\nBASIS: Board-declared quarterly cash dividend.\nMAIN RATIONALE/DRIVERS:\n- Payable to shareholders of record at the close of business on March 3, 2026.\n\nMETRIC: Quarterly dividends\nGUIDANCE TYPE: Qualitative\nNUMERICAL GUIDANCE: None stated; use management rationale only\nTIMEFRAME/TARGET PERIOD: Future periods\nTIMEFRAME SCOPE: Other\nBASIS: Capital-allocation outlook.\nMAIN RATIONALE/DRIVERS:\n- Management currently expects quarterly dividends to continue, subject to Board determination and declaration.\n- Future dividends depend on financial performance, outlook, and liquidity.\n",
+  "comparable_summary": "COMPARABLE EARNINGS ANALYSIS: Analog Devices — Q2 2026\nSTRICT REPORT WINDOW: 2026-04-05 to 2026-05-19\n\nCOMPARABLE: Texas Instruments (TXN)\nREPORT DATE: 2026-04-22\nREPORTED PERIOD: Q1 2026 (three months ended March 31, 2026)\nWHY COMPARABLE: Direct large-scale analog and embedded-semiconductor comparable. Its reported analog demand and end-market trends are directly relevant to Analog Devices through overlapping industrial, automotive, communications-equipment and data-center signal-chain/power demand.\nSHARED EXPOSURES:\n- Industrial automation and broad industrial semiconductor demand\n- Automotive semiconductor demand\n- Data-center power and signal-chain content\n- Communications-equipment demand\n- Analog semiconductor cycle and customer inventory/capacity conditions\nTRANSFERABLE EARNINGS POINTS:\n- Broad industrial-demand acceleration [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: TI said industrial revenue increased more than 20% sequentially and more than 30% year over year, broadly across sectors and regions. Total Q1 revenue was $4.825 billion, up 9% sequentially; the company identified industrial as a principal contributor to revenue above its outlook range.\n  READ-THROUGH TO TARGET: Positive demand read-through for Analog Devices' industrial exposure, but not a percentage transfer: customer mix, channel model, product content and fiscal-period timing can differ.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n- Data-center and communications-equipment demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: TI reported data-center revenue up more than 25% sequentially and about 90% year over year; communications-equipment revenue was up more than 30% sequentially and about 25% year over year. The company said the overall semiconductor-market recovery was continuing.\n  READ-THROUGH TO TARGET: Constructive read-through for Analog Devices products exposed to data-center power/signal-chain and communications infrastructure. The strength may not translate proportionately because TI's sockets and customer base differ.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n- Automotive demand [INDUSTRY, NEUTRAL]\n  IMPACT ON COMPARABLE: TI reported automotive revenue approximately flat sequentially, although up mid-single digits year over year.\n  READ-THROUGH TO TARGET: Offsets some of the stronger industrial and data-center signal: the reported automotive environment does not support assuming a broad sequential automotive uplift for Analog Devices.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n- Higher utilization associated with recovery [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: TI's gross profit margin was 58.0% of revenue, up 210 basis points sequentially, alongside 9% sequential revenue growth. This is consistent with favorable volume/utilization leverage during recovery, although TI did not quantify a standalone industry-price effect.\n  READ-THROUGH TO TARGET: Directionally favorable for Analog Devices gross-margin and profit conversion if it experiences comparable incremental factory utilization; no basis exists to carry over TI's 210-basis-point change.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\nEARNINGS SOURCE: https://investor.ti.com/news-releases/news-release-details/ti-reports-first-quarter-2026-financial-results-and-shareholder\nEARNINGS SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n\nCOMPARABLE: NXP Semiconductors (NXPI)\nREPORT DATE: 2026-04-28\nREPORTED PERIOD: Q1 2026 (three months ended March 29, 2026)\nWHY COMPARABLE: Direct automotive and industrial/IoT semiconductor comparable, with overlapping analog, mixed-signal, processing, connectivity and edge-system content in industrial automation and vehicles.\nSHARED EXPOSURES:\n- Automotive semiconductor production and content demand\n- Industrial and IoT demand\n- Communications infrastructure and edge-computing demand\n- Semiconductor channel inventory and production planning\nTRANSFERABLE EARNINGS POINTS:\n- Industrial and IoT demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: NXP's Industrial & IoT revenue was $628 million, up 24% year over year, though down 2% sequentially. Management described broad-based improvement across its focus end markets.\n  READ-THROUGH TO TARGET: Positive year-over-year industrial-cycle evidence for Analog Devices, tempered by the sequential decline and by NXP's processor-heavy product mix.\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n- Automotive demand [INDUSTRY, MIXED]\n  IMPACT ON COMPARABLE: NXP automotive revenue was $1.782 billion, up 6% year over year but down 5% sequentially.\n  READ-THROUGH TO TARGET: Indicates underlying year-over-year automotive improvement but no clean sequential uplift. This is a mixed read-through for Analog Devices' automotive business rather than a basis for a numerical extrapolation.\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n- Communications-infrastructure demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: NXP communications infrastructure and other revenue was $380 million, up 14% sequentially and 21% year over year.\n  READ-THROUGH TO TARGET: Constructive for Analog Devices infrastructure-oriented signal-chain exposure, while recognizing that NXP's reported category includes products and applications not shared with Analog Devices.\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\nEARNINGS SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n\nCOMPARABLE: Monolithic Power Systems (MPWR)\nREPORT DATE: 2026-04-30\nREPORTED PERIOD: Q1 2026 (three months ended March 31, 2026)\nWHY COMPARABLE: Direct power-management semiconductor comparable. Its disclosed automotive, industrial, communications and enterprise-data power trends provide a targeted read-through to Analog Devices' power and data-center-related demand, rather than merely a broad semiconductor comparison.\nSHARED EXPOSURES:\n- Power-management content in AI servers and data centers\n- Automotive power and ADAS demand\n- Industrial power demand\n- Communications and networking power demand\nTRANSFERABLE EARNINGS POINTS:\n- AI-server and enterprise-data power demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: MPS enterprise-data revenue was $262.8 million, up 12.6% sequentially and 97.7% year over year, driven by higher sales of power-management solutions for AI and server applications.\n  READ-THROUGH TO TARGET: Positive directional signal for Analog Devices data-center power and associated signal-chain demand, but MPS's concentrated AI-server exposure is not a valid percentage proxy for Analog Devices.\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n- Communications and networking power demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: MPS communications revenue was $111.5 million, up 33.1% sequentially and 55.5% year over year, primarily from higher power-solution sales for optical modules and switches.\n  READ-THROUGH TO TARGET: Constructive for Analog Devices infrastructure exposure, especially where demand is linked to networking equipment. The product-level overlap is partial.\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n- Automotive and industrial demand divergence [INDUSTRY, MIXED]\n  IMPACT ON COMPARABLE: MPS automotive revenue rose 0.9% sequentially, with higher ADAS power-solution sales partly offset by lower USB sales. Industrial revenue declined 11.2% sequentially. Non-GAAP gross margin was flat sequentially at 55.5%.\n  READ-THROUGH TO TARGET: The mixed auto/industrial evidence argues against applying the stronger data-center and communications results broadly to Analog Devices' industrial or automotive revenue, or to its gross margin.\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\nEARNINGS SOURCE: https://www.globenewswire.com/news-release/2026/04/30/3285426/0/en/monolithic-power-systems-reports-first-quarter-results-on-april-30-2026.html\nEARNINGS SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n\nCOMPARABLE: onsemi (ON)\nREPORT DATE: 2026-05-04\nREPORTED PERIOD: Q1 2026 (quarter ended April 3, 2026)\nWHY COMPARABLE: Direct power, sensing and automotive/industrial semiconductor comparable with overlapping electrification, industrial automation and data-center power exposures.\nSHARED EXPOSURES:\n- Automotive electrification and vehicle electronics\n- Industrial automation and energy infrastructure\n- AI data-center power demand\n- Power-management and sensing semiconductor cycle\nTRANSFERABLE EARNINGS POINTS:\n- Strengthening semiconductor demand and AI-data-center power demand [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: onsemi stated that demand strengthened during Q1 and that AI-data-center business grew more than 30% sequentially and more than doubled year over year. Total revenue was $1.513 billion, down 1% sequentially but up 5% year over year.\n  READ-THROUGH TO TARGET: Positive for Analog Devices data-center-oriented power/signal-chain demand, but onsemi's AI power-tree exposure and growth rate should not be transferred to Analog Devices.\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n- Automotive and industrial end-market conditions [INDUSTRY, MIXED]\n  IMPACT ON COMPARABLE: onsemi described long-term opportunities in automotive and industrial applications, but its Advanced Mobility Group revenue declined 3% sequentially and its Intelligent Sensing Group declined 5% sequentially. Its Power Solutions Group increased 2% sequentially.\n  READ-THROUGH TO TARGET: Mixed sector read-through: power demand improved modestly, while reported automotive/sensing trends do not substantiate a broad sequential improvement assumption for Analog Devices.\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n- Volume and operating leverage in recovery [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: GAAP gross margin rose to 38.5% from 36.0% sequentially, while non-GAAP gross margin rose to 38.5% from 38.2%. Management attributed operating-income improvement to operating leverage and an optimized cost structure as market conditions improved.\n  READ-THROUGH TO TARGET: Directionally supportive of Analog Devices margin conversion if its volume and factory-utilization trajectory similarly improves, but onsemi's manufacturing mix and starting margin are too different for a numerical gross-margin transfer.\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\nEARNINGS SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n\nCOMPARABLE: Microchip Technology (MCHP)\nREPORT DATE: 2026-05-07\nREPORTED PERIOD: Q4 fiscal 2026 (three months ended March 31, 2026)\nWHY COMPARABLE: Direct analog, microcontroller, mixed-signal and embedded-control comparable. Its disclosed recovery in customer inventory, bookings, sell-through and industrial operating leverage is relevant to Analog Devices' broad industrial and embedded semiconductor exposure.\nSHARED EXPOSURES:\n- Industrial and embedded-control demand\n- Automotive and broad-market semiconductor demand\n- Distribution/channel inventory normalization\n- Customer bookings, sell-through and expedite activity\n- Recovery-phase volume and operating leverage\nTRANSFERABLE EARNINGS POINTS:\n- Broad demand recovery and channel-inventory normalization [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: Microchip reported March-quarter net sales of $1.311 billion, up 10.6% sequentially and 35.1% year over year. Management attributed the result to broad-based improvement, improved demand conditions, normalized customer inventory, stronger bookings and sell-through, and strong expedite activity.\n  READ-THROUGH TO TARGET: Positive recovery-cycle signal for Analog Devices, particularly in broad industrial/embedded channels. It is not a direct numerical read-through because Microchip's customer mix, distributor concentration and recovery starting point differ.\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n- Recovery-phase volume leverage [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: Microchip's Q4 fiscal 2026 non-GAAP gross margin was 61.6%, versus 52.0% in the prior-year quarter, while non-GAAP EPS was $0.57, above its prior $0.48-to-$0.52 guidance range. Management cited meaningful operating leverage alongside improving demand.\n  READ-THROUGH TO TARGET: Supports the qualitative proposition that a broad analog/embedded recovery can aid profitability. The change contains company-specific recovery and cost actions, so it cannot support a transferable gross-margin or EPS percentage.\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n- Near-term demand momentum [INDUSTRY, POSITIVE]\n  IMPACT ON COMPARABLE: For the June 2026 quarter, Microchip guided to $1.456 billion at the midpoint, implying 11.0% sequential sales growth. This was guidance given in the qualifying May 7, 2026 earnings release.\n  READ-THROUGH TO TARGET: Provides a positive near-term broad-market demand indicator, but remains a guidance datapoint for Microchip rather than evidence that Analog Devices has the same order cadence or channel exposure.\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\nEARNINGS SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n\nPRELIMINARY COMPARABLE-ONLY METRIC ADD-ONS:\n- Revenue: 0 USDm (NEUTRAL)\n  CALCULATION: Signed comparable signal is qualitatively positive but numerically non-transferable. Calculation: 0 USDm = no defensible Analog Devices-specific scaling of the qualifying peers' reported revenue/end-market changes. A valid conversion would require Analog Devices revenue base × relevant end-market mix × peer-to-Analog-Devices exposure coefficient × fiscal-period alignment. Those target-company inputs are prohibited by the requested comparable-only methodology, and the peers provide conflicting industrial, automotive and product-mix signals.\n  ASSUMPTION: Only the five qualifying earnings releases above are used.\n  ASSUMPTION: Industrial and data-center signals were positive at TXN and MCHP, while NXP, MPS and onsemi showed mixed sequential automotive and/or industrial outcomes.\n  ASSUMPTION: No target-company revenue base, target end-market mix, order data, pricing data, channel inventory data or later result was used.\n  ASSUMPTION: Zero is therefore the central signed add-on under the instruction to return zero where there is no defensible mapping.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n- Adjusted diluted EPS: 0 USD / share (NEUTRAL)\n  CALCULATION: 0.00 USD/share = Revenue add-on (0 USDm) × an unprovided Analog Devices incremental after-tax profit-conversion rate ÷ an unprovided Analog Devices adjusted diluted-share count. Peer EPS changes were not transferred because they embed different tax rates, share counts, capital structures, non-GAAP definitions, manufacturing models and company-specific operating-cost actions.\n  ASSUMPTION: Only qualifying comparable releases are used.\n  ASSUMPTION: No target-company margin, tax, interest, other-income or share-count input was used.\n  ASSUMPTION: TI's discrete tax benefit, NXP's asset-sale gain, and company-specific restructuring or cost actions at other peers were excluded from the mapping.\n  ASSUMPTION: Zero is required because no defensible comparable-only conversion exists from peer demand data to Analog Devices adjusted diluted EPS.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n- Adjusted gross margin: 0 % (NEUTRAL)\n  CALCULATION: 0.0 percentage points = no defensible weighted transfer of peer gross-margin movement. The observable evidence is not directionally uniform or compositionally comparable: TI's GAAP gross margin increased 2.1 points sequentially, onsemi's non-GAAP gross margin increased 0.3 points, MPS's non-GAAP gross margin was flat, and the other companies' margin changes reflect different reporting bases and product/factory mixes. No weighting by Analog Devices product mix or manufacturing exposure is permitted without target-company inputs.\n  ASSUMPTION: Percentage change is expressed in percentage points.\n  ASSUMPTION: Only qualifying peer earnings releases and calls are used.\n  ASSUMPTION: Gross-margin effects from discrete tax, acquisition, restructuring, stock-compensation and other non-comparable adjustments were not treated as shared industry effects.\n  ASSUMPTION: The peer evidence supports a qualitative possibility of recovery-driven utilization leverage, but not a numerical Analog Devices adjusted-gross-margin add-on.\n  SOURCE: https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe\n  SOURCE: https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/\n  SOURCE: https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf\n  SOURCE: https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results\n  SOURCE: https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm\n",
+  "previous_actuals": {
+    "Revenue": 3160.0,
+    "Adjusted diluted EPS": 2.46,
+    "Adjusted gross margin": 71.2
+  },
+  "offline_context_files": [
+    "challenge/offline-data/analog-devices/call-transcripts/2026-03-03__adi-us-20260303-call-conf-qna__662485.md",
+    "challenge/offline-data/analog-devices/call-transcripts/2026-03-03__adi-us-20260303-call-conf-pres__662484.md",
+    "challenge/offline-data/analog-devices/filings/2026-02-18__adi-us-20260218-q1-8k-2__602115.md",
+    "challenge/offline-data/analog-devices/filings/2026-02-18__adi-us-20260218-q1-10q__602087.md"
+  ],
+  "events": [
+    {
+      "event_id": "E1",
+      "title": "Opening of advanced manufacturing and test facility in Chonburi, Thailand",
+      "first_reported_at": "2026-03-19T10:02:00Z",
+      "last_reported_at": "2026-03-19T10:02:00Z",
+      "summary": "Analog Devices announced the opening of an advanced manufacturing facility in Chonburi, Thailand. The site expands manufacturing and test capacity for wafer-level processing, chip-scale packaging and final integrated-circuit test, serving industrial, automotive, communications, consumer and healthcare markets. ADI described the expansion as part of its hybrid internal-factory, foundry and OSAT manufacturing strategy.",
+      "source_headlines": [
+        "Analog Devices Strengthens Global Manufacturing Resilience with New Thailand Facility"
+      ],
+      "source_urls": [
+        "https://www.prnewswire.com/news/analog-devices-thailand-%28adth%29/"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "depreciation",
+        "capex",
+        "property, plant and equipment",
+        "inventory",
+        "working capital",
+        "operating cash flow",
+        "free cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E2",
+      "title": "Agreement to acquire Empower Semiconductor for $1.5 billion in cash",
+      "first_reported_at": "2026-05-19T20:02:00Z",
+      "last_reported_at": "2026-05-19T20:02:00Z",
+      "summary": "Analog Devices and Empower Semiconductor entered a definitive agreement under which ADI will acquire Empower for $1.5 billion in cash. Empower's silicon capacitors were already in production, and its integrated-voltage-regulator programs were advancing with leading hyperscalers and AI-silicon providers. The transaction was expected to close in the second half of calendar 2026, subject to customary closing conditions and Hart-Scott-Rodino review.",
+      "source_headlines": [
+        "Analog Devices to Acquire Empower Semiconductor, Expanding its Next-Generation High-Density Power Portfolio for the AI Era"
+      ],
+      "source_urls": [
+        "https://www.prnewswire.com/news-releases/analog-devices-to-acquire-empower-semiconductor-expanding-its-next-generation-high-density-power-portfolio-for-the-ai-era-302776701.html"
+      ],
+      "financial_statement_lines": [
+        "cash and cash equivalents",
+        "cash flow from investing activities",
+        "goodwill",
+        "intangible assets",
+        "revenue/sales",
+        "COGS",
+        "R&D expense",
+        "SG&A expense",
+        "transaction and integration expense",
+        "operating income",
+        "EPS",
+        "working capital"
+      ]
+    }
+  ],
+  "metric_impacts": [
+    {
+      "metric": "Revenue",
+      "unit": "USDm",
+      "projected_change": 340,
+      "direction": "increase",
+      "metric_total_calculation": "Q2 FY2026 forecast revenue = Q1 FY2026 reported revenue of $3,160m + $340m = $3,500m. Total change of +$340m equals GUIDANCE (+$340m) + E1 ($0m) + E2 ($0m) + COMPARABLES ($0m).",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "Sales volume, selling price and end-market/product mix.",
+          "transmission_path": "Industrial and communications/data-center volume growth plus Q2 pricing actions flow to revenue. Revenue change = guided Q2 midpoint revenue - Q1 reported revenue; revenue then supports fixed-cost absorption and adjusted operating leverage.",
+          "assumptions": [
+            "Standalone fiscal-quarter alignment: both the prior actual and outlook are ADI fiscal quarters; no FY-to-quarter interpolation is required.",
+            "Use management's stated Q2 midpoint of $3,500m, not the upper or lower end of the $3,400m-$3,600m range.",
+            "The qualitative drivers explain the midpoint only; the stated revenue outlook supplies the numerical estimate.",
+            "Management stated that roughly one-third of sequential growth comes from pricing, including channel-inventory repricing; this is already embedded in the $3,500m midpoint."
+          ],
+          "calculation": "GUIDANCE synthetic event. Q2 revenue forecast = $3,500m. Change versus prior reported Q1 revenue = $3,500m - $3,160m = +$340m.",
+          "projected_change": 340,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-fiscal-first-quarter-2026-financial/",
+            "https://investor.analog.com/static-files/3ebfdc7f-b046-475c-93a0-f5e8b165293a"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "Manufacturing/test capacity, production cost, depreciation and capex.",
+          "transmission_path": "Additional wafer-level processing, packaging and test capacity could ultimately improve supply availability and factory cost absorption; in the target quarter, no disclosed capacity increment, qualification timing, utilization ramp, incremental depreciation, or customer shipment amount permits a measurable revenue recognition effect.",
+          "assumptions": [
+            "DISCRETE/TIMED ROUTE: the March 19 facility-opening announcement is a capacity/resilience milestone, not a quantified Q2 shipment or pricing event.",
+            "The Q2 midpoint already reflected management's then-current operating plan; no evidence supports changing it for an unquantified facility ramp.",
+            "No revenue contribution is recognized merely from capacity becoming available."
+          ],
+          "calculation": "Incremental Q2 revenue effect = disclosed incremental Q2 shipments ($0m defensibly measurable) = $0m. This is not assumed to be negative or positive because the announcement provides no Q2 revenue or ramp quantification.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.analog.com/en/newsroom/press-releases/2026/3-19-2026-adi-strengthens-global-manufacturing-resilience-thailand-facility.html"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "Acquired-business revenue, transaction/integration costs, cash and financing.",
+          "transmission_path": "A closed acquisition could add acquired revenue and create purchase-accounting, transaction-cost, financing and integration effects. The May 19 agreement, however, specified an expected second-half-calendar-2026 close, so no acquired operations are consolidated into the guided fiscal Q2 result.",
+          "assumptions": [
+            "DISCRETE/TIMED ROUTE: do not spread the $1.5bn purchase price or prospective acquisition revenue into Q2.",
+            "The announcement contains no Q2 revenue contribution or quantified pre-close operating effect.",
+            "The transaction was announced after the February Q2 outlook, but its expected close is outside the target quarter; therefore it changes the longer-term narrative, not the Q2 revenue forecast."
+          ],
+          "calculation": "Incremental Q2 consolidated acquired revenue = $0m because transaction closing/consolidation is expected in H2 calendar 2026, not Q2 FY2026.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-acquire-empower-semiconductor-expanding-its-next/",
+            "https://investor.analog.com/static-files/b620e212-42eb-4374-9a7b-35ae3a40e227"
+          ]
+        },
+        {
+          "event_id": "COMPARABLES",
+          "affected_line": "Industry sales volume and product/end-market mix.",
+          "transmission_path": "Peer industrial, data-center and communications demand data could affect ADI order volume and revenue, but the peer signals are mixed across automotive and industrial, and their product/customer/channel exposures differ from ADI's. Management's Q2 guide already incorporates ADI's own bookings, orders and pricing actions.",
+          "assumptions": [
+            "Only the qualifying same-season comparable releases are considered.",
+            "No peer percentage growth rate is transferred mechanically to ADI.",
+            "The peers provide positive recovery evidence but no defensible incremental mapping to ADI's Q2 revenue after the company-specific $3,500m outlook.",
+            "This avoids double counting the industrial, data-center, communications, pricing and recovery drivers already incorporated in GUIDANCE."
+          ],
+          "calculation": "Comparable revenue add-on = $0m: no supportable conversion from peer results to incremental ADI Q2 sales after ADI-specific guidance and target-company information.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe",
+            "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/",
+            "https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf",
+            "https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results",
+            "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm"
+          ]
+        }
+      ],
+      "earnings_bridge": null
+    },
+    {
+      "metric": "Adjusted diluted EPS",
+      "unit": "USD / share",
+      "projected_change": 0.42024879183819586,
+      "direction": "increase",
+      "metric_total_calculation": "Derived Q2 adjusted diluted EPS forecast = $2.88 per share, rounded: [(Q2 revenue $3,500m × adjusted operating margin 47.5%) - adjusted net nonoperating expense $53.305m] × (1 - 12.0%) ÷ 491.656m diluted shares = $2.880. Change versus prior reported adjusted diluted EPS of $2.46 = +$0.42. Total change equals GUIDANCE (+$0.42) + E1 ($0.00) + E2 ($0.00) + COMPARABLES ($0.00).",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "Sales volume, selling price, gross-margin mix, COGS utilization, and adjusted operating expenses.",
+          "transmission_path": "Guided revenue, gross-margin expansion/mix and lower adjusted OpEx as a percentage of revenue produce a guided 47.5% adjusted operating margin. Adjusted operating income less adjusted net nonoperating expense yields pretax income; applying the 12% guided tax-rate midpoint and diluted shares derives EPS.",
+          "assumptions": [
+            "Standalone fiscal-quarter alignment: management specifically guided Q2 FY2026 revenue, adjusted operating margin, adjusted EPS and tax rate; no annual interpolation is required.",
+            "Use the tax-rate midpoint of 12.0% from the 11%-13% guidance range.",
+            "Use Q1 adjusted net nonoperating expense of $53.305m as the unchanged Q2 central estimate because no Q2-specific nonoperating-expense outlook was supplied.",
+            "Use Q1 diluted shares of 491.656m as a conservative share-count estimate; management's repurchase program creates modest potential upside but no Q2 share-count guidance was disclosed.",
+            "The resulting $2.880 is a derived result that reconciles to, rather than copies, management's $2.88 adjusted-EPS midpoint."
+          ],
+          "calculation": "GUIDANCE synthetic event, operating-margin route: adjusted operating income = $3,500m × 47.5% = $1,662.500m. Pretax adjusted income = $1,662.500m - $53.305m + $0m = $1,609.195m. Adjusted net income = $1,609.195m × (1 - 12.0%) + $0m = $1,416.092m. Derived adjusted diluted EPS = $1,416.092m ÷ 491.656m = $2.880. Change versus prior reported $2.46 = +$0.42/share.",
+          "projected_change": 0.42,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-fiscal-first-quarter-2026-financial/",
+            "https://investor.analog.com/static-files/3ebfdc7f-b046-475c-93a0-f5e8b165293a"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "Production cost, depreciation and potential factory utilization.",
+          "transmission_path": "A facility ramp could affect COGS through startup cost, depreciation and utilization; adjusted EPS would change only through a disclosed, incremental Q2 operating-income impact after tax and shares. No such amount was disclosed.",
+          "assumptions": [
+            "The facility announcement changes long-term manufacturing resilience and capacity narrative but provides no quantified Q2 P&L effect.",
+            "No incremental Q2 revenue, COGS, adjusted OpEx, tax, interest or share-count effect is supportably measurable.",
+            "No double counting with the utilization and mix improvement already embedded in management's adjusted operating-margin guidance."
+          ],
+          "calculation": "Incremental adjusted operating income = $0m; after-tax income effect = $0m × (1 - 12.0%) = $0m; EPS effect = $0m ÷ 491.656m = $0.00/share.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.analog.com/en/newsroom/press-releases/2026/3-19-2026-adi-strengthens-global-manufacturing-resilience-thailand-facility.html"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "Transaction and integration expense, acquired revenue/COGS, cash, interest and tax.",
+          "transmission_path": "If closed, Empower could affect consolidated operating income through acquired operations and transaction/integration costs, with possible financing and tax effects below operating income. Because closing is expected in H2 calendar 2026, there is no Q2 consolidation or quantified Q2 pre-close expense to transmit into adjusted EPS.",
+          "assumptions": [
+            "DISCRETE/TIMED ROUTE: do not allocate a future transaction or possible integration expense across Q2 absent disclosed accounting recognition.",
+            "The $1.5bn cash purchase price is a balance-sheet/investing-cash-flow item at closing, not Q2 adjusted EPS expense.",
+            "Any acquisition-related expense would also require assessment of ADI's non-GAAP exclusion policy; no Q2 amount was disclosed."
+          ],
+          "calculation": "Incremental Q2 adjusted operating income = $0m; net nonoperating impact = $0m; after-tax income effect = $0m; EPS effect = $0m ÷ 491.656m = $0.00/share.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-acquire-empower-semiconductor-expanding-its-next/",
+            "https://investor.analog.com/static-files/b620e212-42eb-4374-9a7b-35ae3a40e227"
+          ]
+        },
+        {
+          "event_id": "COMPARABLES",
+          "affected_line": "Industry volume/utilization and gross-profit conversion.",
+          "transmission_path": "Peer demand and margin results could influence an ADI revenue or gross-margin assumption, then adjusted operating income, tax and EPS. But no incremental ADI-specific revenue, margin, tax-rate or diluted-share mapping remains after the explicit Q2 guide; peer EPS is not transferable across non-GAAP definitions, capital structures and tax profiles.",
+          "assumptions": [
+            "Exclude peer-specific tax benefits, asset-sale gains, restructuring, manufacturing-cost actions and non-GAAP definition differences.",
+            "Peer industrial/data-center signals are constructive but mixed with respect to automotive and certain industrial exposures.",
+            "Use zero rather than infer a precision-adjusted operating leverage coefficient unsupported by ADI-specific incremental evidence."
+          ],
+          "calculation": "Comparable EPS add-on = incremental revenue ($0m) × unproven ADI after-tax conversion ÷ diluted shares; because the incremental revenue and margin add-ons are $0m and 0 points, EPS add-on = $0.00/share.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe",
+            "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/",
+            "https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf",
+            "https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results",
+            "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm"
+          ]
+        }
+      ],
+      "earnings_bridge": {
+        "route": "operating_margin",
+        "linked_revenue_metric": "Revenue",
+        "linked_operating_income_metric": "",
+        "revenue": 3500,
+        "gross_margin_percent": null,
+        "operating_expenses": null,
+        "other_operating_income": 0,
+        "operating_margin_percent": 47.5,
+        "operating_income": null,
+        "net_nonoperating_expense": 53.305,
+        "pretax_adjustments": 0,
+        "tax_rate_percent": 12,
+        "net_income_adjustments": 0,
+        "diluted_shares": 491.656,
+        "eps_unit_multiplier": 1,
+        "calculation": "Adjusted operating income = $3,500m × 47.5% + $0m = $1,662.500m. Pretax adjusted income = $1,662.500m - $53.305m + $0m = $1,609.195m. Adjusted net income = $1,609.195m × (1 - 12.0%/100) + $0m = $1,416.092m. Adjusted diluted EPS = $1,416.092m ÷ 491.656m shares × 1 = $2.880, rounded to $2.88.",
+        "assumptions": [
+          "Revenue is the linked consolidated Q2 Revenue forecast of $3,500m.",
+          "47.5% is management's Q2 adjusted operating-margin midpoint.",
+          "$53.305m is Q1 adjusted nonoperating expense carried forward because no Q2-specific amount was given.",
+          "12.0% is the midpoint of management's 11%-13% tax-rate range.",
+          "491.656m is Q1 diluted shares held constant; all amounts are USD millions and shares are millions.",
+          "Adjusted operating margin and adjusted nonoperating expense are used consistently with ADI's non-GAAP framework; no unquantified acquisition, special-charge, or tax-related adjustment is added."
+        ],
+        "evidence_urls": [
+          "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-fiscal-first-quarter-2026-financial/",
+          "https://investor.analog.com/static-files/3ebfdc7f-b046-475c-93a0-f5e8b165293a"
+        ]
+      },
+      "derived_eps_calculation": {
+        "operating_income": 1662.5,
+        "pretax_income": 1609.195,
+        "net_income": 1416.0916,
+        "derived_eps": 2.880248791838196
+      }
+    },
+    {
+      "metric": "Adjusted gross margin",
+      "unit": "%",
+      "projected_change": 1,
+      "direction": "increase",
+      "metric_total_calculation": "Q2 FY2026 adjusted gross-margin forecast = Q1 FY2026 adjusted gross margin of 71.2% + 1.0 percentage point guidance expansion = 72.2%. Total change of +1.0 percentage point equals GUIDANCE (+1.0 point) + E1 (0.0 points) + E2 (0.0 points) + COMPARABLES (0.0 points).",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "Selling price, end-market/product mix, COGS utilization and channel-inventory repricing.",
+          "transmission_path": "Pricing and favorable industrial/communications mix raise gross profit per revenue dollar; utilization provides a smaller incremental contribution because management indicated factories are closer to optimal utilization. A one-time channel-inventory repricing component is included in Q2 gross margin.",
+          "assumptions": [
+            "Standalone fiscal-quarter alignment: the gross-margin commentary specifically addressed Q2 sequential movement.",
+            "Use the disclosed 100-basis-point reported sequential expansion as the central adjusted-gross-margin bridge from Q1's 71.2% adjusted gross margin to Q2.",
+            "The 50-basis-point channel-inventory repricing benefit is included once in Q2 guidance and is not separately added again.",
+            "The alternative 150-basis-point comparison excluding Q1 discrete items is explanatory; it is not added to the 100-basis-point guided sequential movement."
+          ],
+          "calculation": "GUIDANCE synthetic event. Q2 adjusted gross margin = Q1 adjusted gross margin 71.2% + 1.0 percentage point = 72.2%. Change versus Q1 = +1.0 percentage point.",
+          "projected_change": 1,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-fiscal-first-quarter-2026-financial/",
+            "https://investor.analog.com/static-files/6040f10c-669c-487e-bfa8-60eb1db6c369"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "COGS, depreciation, startup cost and utilization.",
+          "transmission_path": "The Thailand facility could eventually change unit manufacturing cost, depreciation and factory loading. Its opening announcement does not quantify Q2 production volume, startup cost, depreciation, yield, or utilization; therefore no measurable incremental gross-margin effect can be separated from management's existing utilization/mix outlook.",
+          "assumptions": [
+            "No numerical Q2 COGS or gross-profit impact was disclosed.",
+            "Do not infer a margin benefit merely from added capacity; early ramp effects could be positive or negative.",
+            "Management's guide already describes the near-term utilization contribution as modest."
+          ],
+          "calculation": "Incremental adjusted gross-margin effect = incremental Q2 gross profit rate not disclosed = 0.0 percentage points under the no-invented-precision rule.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.analog.com/en/newsroom/press-releases/2026/3-19-2026-adi-strengthens-global-manufacturing-resilience-thailand-facility.html"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "Acquired COGS, purchase accounting and integration cost.",
+          "transmission_path": "After closing, acquired product mix and purchase-accounting effects could affect consolidated gross margin. Before an expected H2-calendar-2026 close, no Empower revenue or COGS is consolidated and no Q2 gross-margin transmission is supportable.",
+          "assumptions": [
+            "The announced purchase price is not a Q2 COGS item.",
+            "No Q2 purchase-accounting or integration-cost amount was disclosed.",
+            "No future acquired-margin assumption is introduced into the target quarter."
+          ],
+          "calculation": "Incremental Q2 adjusted gross-margin effect = 0.0 percentage points because no acquired operations are expected to be consolidated in Q2.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.analog.com/news-releases/news-release-details/analog-devices-acquire-empower-semiconductor-expanding-its-next/",
+            "https://investor.analog.com/static-files/b620e212-42eb-4374-9a7b-35ae3a40e227"
+          ]
+        },
+        {
+          "event_id": "COMPARABLES",
+          "affected_line": "Industry utilization, product mix and production cost.",
+          "transmission_path": "Peer gross-margin changes are directionally relevant to analog-cycle utilization, but their reported bases and manufacturing/product mixes differ. The peer set therefore cannot be converted into an incremental ADI adjusted-gross-margin percentage-point effect beyond ADI's explicit guided expansion.",
+          "assumptions": [
+            "TI reported a stronger GAAP gross-margin increase, onsemi a smaller non-GAAP increase, and MPS flat non-GAAP margin; the evidence is not uniform on a comparable basis.",
+            "Do not transfer peer gross-margin movements into ADI because GAAP/non-GAAP definitions, factory utilization, product mix and starting margins differ.",
+            "The possibility of recovery-driven utilization leverage is already qualitatively consistent with, and does not increment, ADI guidance."
+          ],
+          "calculation": "Comparable adjusted-gross-margin add-on = 0.0 percentage points: no defensible ADI mix-weighted, basis-consistent incremental margin mapping remains.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://investor.ti.com/static-files/9d0b308f-8b7e-4e0c-9377-5fa5877243fe",
+            "https://investors.nxp.com/news-releases/news-release-details/nxp-semiconductors-reports-first-quarter-2026-results/",
+            "https://www.monolithicpower.com/media/investor-relations/press-releases/Q1_2026_MPS_Earnings_Commentary.pdf",
+            "https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-first-quarter-2026-results",
+            "https://ir.microchip.com/sec-filings/all-sec-filings/content/0000827054-26-000012/exhibit991q4fy26.htm"
+          ]
+        }
+      ],
+      "earnings_bridge": null
+    }
+  ],
+  "target_report_date": "2026-05-20",
+  "previous_period": "Q1 2026",
+  "previous_report_date": "2026-02-18",
+  "report_context_file": "data/backtest/earnings_Analog_Devices_Q2_2026.json",
+  "guidance_file": "data/backtest/guidance_Analog_Devices_Q1_2026.txt",
+  "news_file": "data/backtest/news_Analog_Devices_2026-02-19_to_2026-05-19.txt",
+  "predicted_changes": {
+    "Revenue": {
+      "predicted_change": 340.0,
+      "unit": "USDm"
+    },
+    "Adjusted diluted EPS": {
+      "predicted_change": 0.42024879183819586,
+      "unit": "USD / share"
+    },
+    "Adjusted gross margin": {
+      "predicted_change": 1.0,
+      "unit": "%"
+    }
+  },
+  "predicted_values": {
+    "Revenue": {
+      "predicted_value": 3500.0,
+      "unit": "USDm"
+    },
+    "Adjusted diluted EPS": {
+      "predicted_value": 2.880248791838196,
+      "unit": "USD / share"
+    },
+    "Adjusted gross margin": {
+      "predicted_value": 72.2,
+      "unit": "%"
+    }
+  }
+}
