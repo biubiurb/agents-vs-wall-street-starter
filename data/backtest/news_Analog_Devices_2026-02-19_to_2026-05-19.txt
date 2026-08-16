@@ -1,0 +1,26 @@
+EARNINGS-RELEVANT NEWS: Analog Devices
+DATE RANGE: 2026-02-19 to 2026-05-19 (inclusive)
+
+RELEASE TIME: 2026-05-19T20:02:00Z
+NEWS SOURCE: Analog Devices, Inc. / PR Newswire (official_company)
+SOURCE URL: https://www.prnewswire.com/news-releases/analog-devices-to-acquire-empower-semiconductor-expanding-its-next-generation-high-density-power-portfolio-for-the-ai-era-302776701.html
+
+HEADLINE: Analog Devices to Acquire Empower Semiconductor, Expanding its Next-Generation High-Density Power Portfolio for the AI Era
+CATEGORY: COMPANY
+IMPACT SCORE: 5/5
+FINANCIAL STATEMENT LINE(S): cash and cash equivalents, cash flow from investing activities, goodwill, intangible assets, revenue/sales, COGS, R&D expense, SG&A expense, transaction and integration expense, operating income, EPS, working capital
+WHY IT COULD AFFECT EARNINGS: ADI agreed to pay $1.5 billion in cash for Empower, making the transaction unusually consequential for investing cash flow and the post-close balance sheet, including acquired intangible assets and goodwill. Empower’s integrated-voltage-regulator and silicon-capacitor products are already in production and its programs are advancing with hyperscalers and AI-silicon providers, creating a concrete route to incremental data-center power revenue and mix after closing. Transaction, integration and retention costs can initially increase operating expenses and dilute EPS; timing remains subject to closing conditions.
+CONTENT (Summary from accessible article): ADI and Empower Semiconductor entered a definitive agreement under which ADI will acquire Empower for $1.5 billion in cash. ADI said Empower’s silicon capacitors are already in production and its integrated-voltage-regulator programs are advancing with leading hyperscalers and AI-silicon providers. The transaction was expected to close in the second half of calendar 2026, subject to customary conditions and Hart-Scott-Rodino review.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-19T10:02:00Z
+NEWS SOURCE: Analog Devices, Inc. / PR Newswire (official_company)
+SOURCE URL: https://www.prnewswire.com/news/analog-devices-thailand-%28adth%29/
+
+HEADLINE: Analog Devices Strengthens Global Manufacturing Resilience with New Thailand Facility
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, depreciation, capex, property, plant and equipment, inventory, working capital, operating cash flow, free cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: ADI opened an advanced Thailand facility that adds cleanroom and backend capacity for wafer-level processing, chip-scale packaging and final IC test. Bringing additional capacity and automation into the production network can support higher sales volumes and service levels while changing manufacturing efficiency and unit costs. The facility also entails capital deployed into the manufacturing base, with related PP&E, depreciation, capex and cash-flow effects; ramping operations can affect inventory and working capital.
+CONTENT (Summary from accessible article): ADI announced the opening of an advanced manufacturing facility in Chonburi, Thailand. The site expands ADI’s manufacturing and test capacity and supports wafer-level processing, chip-scale packaging and final IC test for industrial, automotive, communications, consumer and healthcare markets. ADI described the expansion as part of its hybrid internal-factory, foundry and OSAT manufacturing strategy.

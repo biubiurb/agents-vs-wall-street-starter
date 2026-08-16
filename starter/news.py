@@ -167,7 +167,13 @@ def _research_schema() -> dict[str, object]:
         "additionalProperties": False,
         "properties": {
             "headline": {"type": "string"},
-            "published_at": {"type": "string"},
+            "published_at": {
+                "type": "string",
+                "pattern": (
+                    r"^\d{4}-\d{2}-\d{2}"
+                    r"(?:T\d{2}:\d{2}(?::\d{2})?(?:Z|[+-]\d{2}:\d{2}))?$"
+                ),
+            },
             "source_name": {"type": "string"},
             "source_url": {"type": "string"},
             "source_type": {"type": "string", "enum": sorted(SOURCE_TYPES)},

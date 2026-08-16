@@ -1,0 +1,14 @@
+{
+  "Worldwide net sales and revenues": {
+    "predicted_value": 13000.0,
+    "unit": "USDm"
+  },
+  "Diluted EPS (GAAP)": {
+    "predicted_value": 5.42,
+    "unit": "USD / share"
+  },
+  "Production & Precision Ag operating profit": {
+    "predicted_value": 539.0,
+    "unit": "USDm"
+  }
+}

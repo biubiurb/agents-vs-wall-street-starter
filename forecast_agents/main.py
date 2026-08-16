@@ -22,6 +22,7 @@ from ._common import (
     request_structured_output,
     safe_filename,
 )
+from .comparable_analysis import DEFAULT_SEASON_LOOKBACK_DAYS, comparable_analysis
 from .guidance_analysis import guidance_analysis
 from .news_analysis import news_analysis
 
@@ -262,6 +263,7 @@ def run_analysis(
     metrics: MetricCollection,
     *,
     target_period: str | None = None,
+    comparable_summary: str | None = None,
     data_dir: str | Path = DEFAULT_DATA_DIR,
     guidance_path: str | Path | None = None,
     news_path: str | Path | None = None,
@@ -288,6 +290,7 @@ def run_analysis(
         metrics,
         target_period=target_period,
         guidance_summary=guidance_summary,
+        comparable_summary=comparable_summary,
         data_dir=data_dir,
         news_path=news_path,
         offline_data_dir=offline_data_dir,
@@ -307,6 +310,9 @@ def forecast_company(
     report_path: str | Path | None = None,
     guidance_path: str | Path | None = None,
     news_path: str | Path | None = None,
+    comparable_summary: str | None = None,
+    comparable_companies: Sequence[str] | None = None,
+    comparable_season_lookback_days: int = DEFAULT_SEASON_LOOKBACK_DAYS,
     as_of_date: str | date | None = None,
     details_output_path: str | Path | None = None,
     offline_data_dir: str | Path = DEFAULT_CONFIG.parent / "offline-data",
@@ -319,6 +325,8 @@ def forecast_company(
     guidance_researcher: object | None = None,
     news_researcher: object | None = None,
     guidance_analyzer: object | None = None,
+    guidance_fallback_analyzer: object | None = None,
+    comparable_analyzer: object | None = None,
     event_analyzer: object | None = None,
     impact_analyzer: object | None = None,
 ) -> dict[str, dict[str, float | str]]:
@@ -407,7 +415,24 @@ def forecast_company(
         model=model,
         timeout=timeout,
         analyzer=guidance_analyzer,
+        fallback_analyzer=guidance_fallback_analyzer,
     )
+    if comparable_summary is None:
+        comparable_summary = comparable_analysis(
+            canonical,
+            display_target,
+            target_report_date,
+            normalized_metrics,
+            information_cutoff=cutoff,
+            season_lookback_days=comparable_season_lookback_days,
+            comparable_companies=comparable_companies,
+            api_key=api_key,
+            model=model,
+            timeout=timeout,
+            analyzer=comparable_analyzer,
+        )
+    elif not str(comparable_summary).strip():
+        raise ValueError("comparable_summary cannot be empty")
     raw_previous_actuals = context["previous_actuals"]
     if not isinstance(raw_previous_actuals, Sequence) or isinstance(
         raw_previous_actuals, (str, bytes)
@@ -425,6 +450,7 @@ def forecast_company(
         normalized_metrics,
         target_period=display_target,
         guidance_summary=guidance_summary,
+        comparable_summary=comparable_summary,
         previous_actuals=previous_actuals,
         data_dir=root,
         news_path=news_file,

@@ -1,0 +1,531 @@
+FORWARD GUIDANCE RESEARCH: Home Depot
+EARNINGS PERIOD: Q4 2025
+LOCAL DOCUMENTS FOUND: 2
+ONLINE SOURCES FOUND: 5
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24
+SOURCE: Offline corpus — challenge/offline-data/home-depot/call-transcripts/2026-02-24__hd-us-20260224-call-pres__629730.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q4 2025
+
+TITLE: Fourth Quarter and Fiscal Year Earnings Call
+
+# Fourth Quarter and Fiscal Year Earnings Call
+Unknown speaker: Greetings, and welcome to The Home Depot Fourth Quarter 2025 Earnings Conference Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. If anyone should require operator assistance during the conference, please press star zero on your telephone keypad. As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, Isabel Janci. Please go ahead.
+
+Unknown speaker: Thank you, Christine. Good morning, everyone. Welcome to The Home Depot's Fourth Quarter and Fiscal Year 2025 Earnings Call. Joining us on our call today are Ted Decker, Chair, President, and CEO, Ann-Marie Campbell, Senior Executive Vice President, Billy Bastek, Executive Vice President of Merchandising, and Richard McPhail, Executive Vice President and Chief Financial Officer. Following our prepared remarks, the call will be open for questions. Questions will be limited to analysts and investors, and as a reminder, please limit yourself to one question with one follow-up. If we are unable to get to your question during the call, please call our investor relations department at 770-384-2387.
+
+Unknown speaker: Before I turn the call over to Ted, let me remind you that today's press release and the presentations made by our executives include forward-looking statements under the federal securities laws, including as defined in the Private Securities Litigation Reform Act of 1995. These statements are subject to risks and uncertainties that could cause actual results to differ materially from our expectations and projections. These risks and uncertainties include, but are not limited to.
+
+Unknown speaker: The factors identified in the release in our most recent annual report on Form 10-K and in our other filings with the Securities and Exchange Commission. Today's presentation will also include certain non-GAAP measures, including, but not limited to, adjusted operating margin, adjusted diluted earnings per share, and return on invested capital. For a reconciliation of these and other non-GAAP measures to the corresponding GAAP measures, please refer to our earnings press release in our website. Now, let me turn the call over to Ted.
+
+Unknown speaker: Thank you, Isabel, and good morning, everyone. Sales for fiscal 2025 were $164.7 billion, an increase of 3.2% from the same period last year. Comp sales increased 0.3% from the same period last year, and comps in the U.S. increased 0.5%. Adjusted diluted earnings per share were $14.69, compared to $15.24 in the prior period. In the fourth quarter, comp sales increased 0.4% from last year, and comps in the U.S. were up 0.3%. Adjusted diluted earnings per share were $2.72, compared to $3.13 in the prior year. In the quarter, our regional performance varied, with our Northern and Western division posting positive comps. In local currency, Mexico reported positive comps and Canada reported negative comps.
+
+Unknown speaker: Our fourth quarter results were largely in line with our expectations, reflecting the lack of storm activity in the third quarter and ongoing consumer uncertainty and pressure in housing. Additionally, storm activity in January provided a sales benefit in the quarter. Adjusting for storms, underlying demand was relatively stable throughout the year. As you'll hear from Billy, we are growing market share by delivering the best value proposition in home improvements. As we shared with you at our Investor and Analyst Conference in December, we are uniquely positioned to grow share of wallet with all our customers. We are investing across the business to drive our core and culture, deliver a frictionless, interconnected experience, and win the pro. As Anne will detail, our teams did an incredible job staying engaged, focusing on the customer, and elevating the customer experience.
+
+Unknown speaker: In fact, our customers are telling us that our associates continue to deliver exceptional service. In addition, our merchants continue to offer tremendous value, as evidenced by record-setting events in the quarter. We're also encouraged by the traction we see with the pro. Pros who are utilizing our pro ecosystem of capabilities are spending more with us, and we remain focused on enhancing our capabilities, from sales support to project management to delivery, all to better support pros throughout the life of their projects. This year, SRS grew organic sales by a low single-digit % and expanded market share, despite pressured industry demand and lack of storms in the back half of the year. This is a testament to their strong value proposition, customer relationships, and consistent execution. In addition to the GMS acquisition, they completed several tuck-in acquisitions and opened a number of greenfield locations across their verticals.
+
+Unknown speaker: Going forward, we will continue to support SRS's momentum, and we expect their organic sales to grow mid-single digits in fiscal 2026. Looking ahead to fiscal 2026, we expect total sales growth of approximately 2.5%-4.5%, comparable sales growth of approximately flat to 2%, and adjusted diluted earnings per share to grow approximately flat to 4%. We remain focused on delivering the best customer experience and value proposition in home improvement.... We have a clear growth strategy, and we're investing in our stores, in our interconnected shopping experience, and in the Pro to grow share in any market environment. I want to close by thanking our associates for their hard work and dedication to serving our customers in a dynamic year. With that, let me turn the call over to Anne.
+
+Unknown speaker: Thanks, Ted. Good morning, everyone. First, I want to thank our associates who did a great job serving our customers during the recent Winter Storm Fern that impacted many of our communities we serve, particularly in our northern and southern divisions. Our priority in situations like these is always the safety of our associates and customers. We activated our emergency response protocols, working with our vendors and merchants teams to deliver essential products to the appropriate stores. This ensured we remained in stock and ready to serve our communities before, during, and after the storm. As always, I'm extremely proud of how our team showed up for each other and our customers. That commitment continues to be a defining part of who we are as a company. As you heard from us in December, we are focused on the core and culture of our company.
+
+Unknown speaker: Our associates are the key to delivering an exceptional customer experience. Their passion, knowledge, and expertise are critical to solving customers' problems and fulfilling their dreams. Over the last year, we have talked about how we have enabled tools and processes for our associates to better serve our customers. These changes not only increase associate engagement, but also it enhances store performance by driving higher sales, productivity, and efficiency in our operations. We're also improving the customer experience by transitioning tasking to our MET team. Our MET team's core competency is servicing our base and executing merchandising changes in our stores. By transitioning tasking to them, our Orange Apron associates have more time to engage with customers and drive sales. While this transition is not complete, in our pilot stores, we have already seen a meaningful increase in labor productivity.
+
+Unknown speaker: Over the years, our business has evolved to meet the needs of our interconnected and Pro customers. As you know, over 50% of our online orders are fulfilled through our stores. Ensuring that our orders are picked, staged, and delivered in a reliable and repeatable fashion is critical to providing a frictionless customer experience, regardless of the type of fulfillment, whether picked up in store or delivered the same day to a home or job site. As a result, we have realigned certain positions in our stores to better drive the outcomes we desire. We now have an operations experience manager who is responsible for managing customer service more broadly, including driving uniform operational processes to enhance the interconnected and fulfillment experiences.
+
+Unknown speaker: For Pros, our dedicated unified Pro team, including a Pro customer experience manager, continues to elevate the Pro experience in our stores by assisting Pros and serving as a main point of contact, ensuring a superior and cohesive shopping and fulfillment experience for our customers inside and outside of our stores. As a result, we've seen increased engagement, higher Pro sales, and continued growth in our Pro Xtra loyalty program. We're excited about all of the progress we have made in our stores this year.
+
+Unknown speaker: Our efforts are paying off. This year, our customer satisfaction score increased every quarter, and our tenure with hourly associates is the highest it's been since 2017. Our associates continue to go above and beyond to serve our customers despite a challenging environment, and I'd like to close by thanking them for all that they do. We are relentlessly focused on delivering the best customer experience in home improvement, and we know that our efforts are positioning us well to grow share in the market. With that, let me turn the call over to Billy.
+
+Unknown speaker: Thank you, Anne. Good morning, everyone. I want to start by also thanking all of our associates, supplier, and supply chain partners for their ongoing commitment to serving our customers and communities. As you heard from Ted, our performance during the fourth quarter was largely in line with expectations, with underlying demand in the quarter similar to what we've seen throughout the year. Turning to our merchandising department comp performance for the fourth quarter, eight of our 16 merchandising departments posted positive comps, including power, electrical, storage, indoor garden, hardware, plumbing, bath, and kitchen. During the fourth quarter, our comp average ticket increased 2.4%, and comp transactions decreased 1.6%. The growth in comp average ticket primarily reflects some price increases, a greater mix of higher ticket items, and customers continuing to trade up for new and innovative products.
+
+Unknown speaker: Big ticket comp transactions for those over $1,000 were positive 1.3% compared to the fourth quarter of last year. We were pleased with the performance we saw in categories such as power, plumbing, and electrical. Larger discretionary projects remain under pressure. During the fourth quarter, Pro posted positive comps and outperformed DIY. We saw strength across pro-heavy categories like gypsum, wire, concrete, and plumbing. In DIY, we saw strength across our gift center events, hand tools, storage, portable power, and hardscapes. Turning to total company online comp sales leveraging our digital platforms increased approximately 11% compared to the fourth quarter of last year. We're excited about the continued success we are seeing across our interconnected platforms. This quarter, we continued to enhance delivery, reliability, and communication with the rollout of real-time delivery tracking for big and bulky deliveries across all categories.
+
+Unknown speaker: This enhancement gives our customers greater visibility and certainty on the timing of their delivery. We know that as we remove friction from the experience, we see incremental customer engagement, leading to greater sales across all points of interaction. During the fourth quarter, we hosted our appliance, gift center, and Black Friday events. We saw strong engagement across all of these events, with our gift center and Black Friday events posting record sales years. We are looking forward to the year ahead, particularly with the spring selling season right around the corner, and we have a great lineup of innovative products that provide our customers with tremendous value, from outdoor living products, including patio and grills, to our lineup of outdoor power equipment.
+
+Unknown speaker: Whether it's our Ryobi 40-volt lawnmower with a brushless motor and lithium-ion batteries, which deliver more power and longer runtimes, or our Milwaukee 18-volt string trimmer kit, designed to meet the needs of the landscape professionals. Our spring gift center event continues to lean into cordless technology with a wide assortment of products from Ryobi, Milwaukee, Makita, and DeWalt, many of which are exclusive to The Home Depot in the big box retail channel.
+
+Unknown speaker: We're also excited about our live goods program. Every year, our merchants partner with our national and regional growers to provide our customers with new and improved varieties to enhance the overall garden experience. Investing in our relationships with our growers allows us to continue to drive innovation and value to meet the needs of our customers and improves their shopping experience while building loyalty to The Home Depot. We remain focused on delivering the best brands, assortment, and value to our customers. With that, I'd like to turn the call over to Richard.
+
+Unknown speaker: Thank you, Billy. Good morning, everyone. Before I comment on our results, I would like to remind everyone that fiscal 2025 consisted of 52 weeks, while fiscal 2024 consisted of 53 weeks. The extra week added approximately $2.5 billion in sales to the fourth quarter of fiscal 2024. When we report our comparable sales or comps, we report them on a 52-week to 52-week basis by comparing weeks one through 52 of fiscal 2025 with weeks two through 53 of fiscal 2024. In the fourth quarter of 2025, total sales were $38.2 billion, a decrease of $1.5 billion, or approximately 3.8% from last year.
+
+Unknown speaker: During the fourth quarter, our total company comps were positive 0.4%, with comps of negative 0.2% in November, positive 0.1% in December, and positive 1.3% in January. Comps in the U.S. were positive 0.3% for the quarter, with comps of negative 0.3% in November, negative 0.2% in December, and positive 1.4% in January. For the year, our sales totaled $164.7 billion, an increase of $5.2 billion, or 3.2% versus fiscal 2024. For the year, total company comp sales increased 0.3%, and U.S. comp sales increased 0.5%.
+
+Unknown speaker: In the fourth quarter, our gross margin was approximately 32.6%, a decrease of approximately 20 basis points from the fourth quarter last year, primarily reflecting a change in mix as a result of the GMS acquisition, which was in line with our expectations. For the year, our gross margin was approximately 33.3%, a decrease of 10 basis points from last year, which was in line with our expectations. During the fourth quarter, operating expense as a percent of sales increased approximately 105 basis points to 22.6% compared to the fourth quarter of 2024. Our operating expense performance reflects natural deleverage from top-line results as well as lapping the 53rd week. For the year, operating expenses were approximately 20.6% of sales, representing an increase of approximately 70 basis points from fiscal 2024.
+
+Unknown speaker: Our operating margin for the fourth quarter was 10.1%, compared to 11.3% in the fourth quarter of 2024. Excluding intangible asset amortization in the quarter, our adjusted operating margin for the fourth quarter was 10.5%, compared to 11.7% in the fourth quarter of 2024. Our operating margin for the year was 12.7%, compared to 13.5% in 2024. Excluding intangible asset amortization, our adjusted operating margin for the year was 13.1%, compared to 13.8% in 2024. Interest and other expense for the fourth quarter decreased by $57 million to $551 million. In the fourth quarter, our effective tax rate was 22%, and for the year was 23.9%.
+
+Unknown speaker: Our diluted earnings per share for the fourth quarter were $2.58, a decrease of 14.6% compared to the fourth quarter of 2024. Diluted earnings per share for fiscal 2025 were $14.23, a decrease of 4.6% compared to fiscal 2024. Excluding intangible asset amortization, our adjusted diluted earnings per share for the fourth quarter were $2.72, a decrease of 13.1% compared to the fourth quarter of 2024. Adjusted diluted earnings per share for fiscal 2025 were $14.69, a decrease of 3.6% compared to fiscal 2024. Recall that fiscal 2024 included a 53rd week, which added approximately $0.30 to diluted earnings per share and adjusted diluted earnings per share for the fourth quarter and the year.
+
+Unknown speaker: During the year, we opened 12 new stores, bringing our store count to 2,359 at the end of fiscal 2025. At the end of the quarter, merchandise inventories were $25.8 billion, up approximately $2.4 billion versus last year, reflecting higher inventory costs and the acquisition of GMS. Inventory turns were 4.4 times, down from 4.7 times last year. Turning to capital allocation. During the fourth quarter, we invested approximately $1.1 billion back into our business in the form of capital expenditures. This brings total capital expenditures for fiscal 2025 to approximately $3.7 billion. During the year, we paid approximately $9.2 billion in dividends to our shareholders.
+
+Unknown speaker: Today, we announced our board of directors increased our quarterly dividend by 1.3% to $2.33 per share, which equates to an annual dividend of $9.32 per share. Computed on an average of beginning and ending long-term debt and equity for the trailing 12 months, return on invested capital was approximately 25.7%, down from 31.3% in the fourth quarter of fiscal 2024. I will comment on our outlook for 2026. As we shared at our Investor and Analyst Conference in December, there are a number of dynamics we are observing that are pressuring housing and home improvement demand. The current mortgage rate environment and significant increase in home prices since 2019 have impacted housing affordability.
+
+Unknown speaker: Housing turnover has remained at historical lows since 2023, which has significantly reduced demand for projects and other purchases associated with buying and selling a home. Our customers also tell us they have concerns over general economic uncertainty, including inflation, growing job concerns, and higher financing costs. As we look ahead to fiscal 2026, we anticipate these pressures will persist, as we have not yet seen a catalyst for an inflection in housing activity. As a result, we affirm the preliminary fiscal 2026 guidance we provided at our investor conference. We expect to continue to grow our market share and for our comp sales to range between flat to 2% growth, with total sales growth of between approximately 2.5% and 4.5%, reflecting the contribution of the GMS acquisition, new stores, branches, and tuck-in acquisitions.
+
+Unknown speaker: For the year, we expect SRS to deliver mid-single-digit % organic sales growth. We plan to open approximately 15 new stores and 40-50 new SRS locations. Our gross margin is expected to be approximately 33.1%. Further, we expect operating margin of approximately 12.4%-12.6% and adjusted operating margin of approximately 12.8%-13%. Our effective tax rate is targeted at approximately 24.3%. We expect net interest expense of approximately $2.3 billion.
+
+Unknown speaker: We expect our diluted earnings per share and adjusted diluted earnings per share to both increase approximately flat to 4% compared to fiscal 2025. We plan to continue investing in our business with capital expenditures of approximately 2.5% of sales for fiscal 2026. We believe that we will grow market share in any environment by strengthening our competitive position with our customers and delivering the best customer experience in home improvement. Thank you for your participation in today's call, and Christine, we are now ready for questions.
+
+Unknown speaker: Thank you. We will now be conducting a question-and-answer session. If you would like to ask a question, please press star one on your telephone keypad. A confirmation tone will indicate your line is in the question queue. You may press star two if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. One moment, please, while we poll for questions. Thank you. Our first question comes from the line of Steven Forbes with Guggenheim. Please proceed with your question.
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24
+SOURCE: Offline corpus — challenge/offline-data/home-depot/filings/2026-02-24__hd-us-20260224-q4-8k__615609.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Filing
+REPORTING PERIOD: Q4 2025
+
+TITLE: Fourth Quarter and Fiscal Year Results; Dividend Increase; Fiscal Year Guidance
+
+# Fourth Quarter and Fiscal Year Results; Dividend Increase; Fiscal Year Guidance
+Exhibit 99.1
+The Home Depot Announces Fourth Quarter and Fiscal 2025 Results;
+Increases Quarterly Dividend by 1.3%;
+Provides Fiscal 2026 Guidance
+ATLANTA, February 24, 2026 -- The Home Depot, the world's largest home improvement retailer,
+today reported fourth quarter and fiscal 2025 results.
+Fourth Quarter 2025
+Sales for the fourth quarter of fiscal 2025 were $38.2 billion, a decrease of $1.5 billion, or 3.8% from the
+fourth quarter of fiscal 2024. The fourth quarter of fiscal 2025 consisted of 13 weeks compared with 14
+weeks for the prior year. The 14th week in fiscal 2024 added approximately $2.5 billion of sales to the
+fourth quarter and the year.
+Comparable sales for the fourth quarter of fiscal 2025 increased 0.4%, and comparable sales in the U.S.
+increased 0.3%.
+Net earnings for the fourth quarter of fiscal 2025 were $2.6 billion, or $2.58 per diluted share, compared
+with net earnings of $3.0 billion, or $3.02 per diluted share, in the same period of fiscal 2024. The 14th
+week in fiscal 2024 added approximately $0.30 to diluted earnings per share to the fourth quarter and
+the year.
+Adjusted diluted earnings per share for the fourth quarter of fiscal 2025 were $2.72, compared with
+adjusted diluted earnings per share of $3.13 in the same period of fiscal 2024. The 14th week in fiscal
+2024 added approximately $0.30 to adjusted diluted earnings per share to the fourth quarter and the
+year.
+Fiscal 2025
+Sales for fiscal 2025 were $164.7 billion, an increase of $5.2 billion, or 3.2% from fiscal 2024.
+Comparable sales for fiscal 2025 increased 0.3%, and comparable sales in the U.S. increased 0.5%.
+Net earnings for fiscal 2025 were $14.2 billion, or $14.23 per diluted share, compared with net earnings
+of $14.8 billion, or $14.91 per diluted share in fiscal 2024.
+Adjusted diluted earnings per share for fiscal 2025 were $14.69, compared with adjusted diluted
+earnings per share of $15.24 in fiscal 2024.
+(1)    The Company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). As used in this
+earnings release, adjusted operating income, adjusted operating margin, and adjusted diluted earnings per share are non-GAAP
+financial measures. Refer to the end of this release for an explanation of these non-GAAP financial measures and reconciliations to the
+most directly comparable GAAP measures.
+®
+(1)
+(1)
+
+
+<!-- PAGE 1 -->
+
+<!-- image -->
+
+## The Home Depot Announces Fourth Quarter and Fiscal 2025 Results; Increases Quarterly Dividend by 1.3%; Provides Fiscal 2026 Guidance
+
+ATLANTA, February 24, 2026 -The Home Depot , the world's largest home improvement retailer, today reported fourth quarter and fiscal 2025 results. ®
+
+## Fourth Quarter 2025
+
+Sales for the fourth quarter of fiscal 2025 were $38.2 billion, a decrease of $1.5 billion, or 3.8% from the fourth quarter of fiscal 2024. The fourth quarter of fiscal 2025 consisted of 13 weeks compared with 14 weeks for the prior year. The 14th week in fiscal 2024 added approximately $2.5 billion of sales to the fourth quarter and the year.
+
+Comparable sales for the fourth quarter of fiscal 2025 increased 0.4%, and comparable sales in the U.S. increased 0.3%.
+
+Net earnings for the fourth quarter of fiscal 2025 were $2.6 billion, or $2.58 per diluted share, compared with net earnings of $3.0 billion, or $3.02 per diluted share, in the same period of fiscal 2024. The 14th week in fiscal 2024 added approximately $0.30 to diluted earnings per share to the fourth quarter and the year.
+
+Adjusted diluted earnings per share for the fourth quarter of fiscal 2025 were $2.72, compared with adjusted diluted earnings per share of $3.13 in the same period of fiscal 2024. The 14th week in fiscal 2024 added approximately $0.30 to adjusted diluted earnings per share to the fourth quarter and the year. (1)
+
+## Fiscal 2025
+
+Sales for fiscal 2025 were $164.7 billion, an increase of $5.2 billion, or 3.2% from fiscal 2024. Comparable sales for fiscal 2025 increased 0.3%, and comparable sales in the U.S. increased 0.5%.
+
+Net earnings for fiscal 2025 were $14.2 billion, or $14.23 per diluted share, compared with net earnings of $14.8 billion, or $14.91 per diluted share in fiscal 2024.
+
+Adjusted diluted earnings per share for fiscal 2025 were $14.69, compared with adjusted diluted earnings per share of $15.24 in fiscal 2024. (1)
+
+(1)    The Company reports its financial results in accordance with U.S. generally accepted accounting principles (GAAP). As used in this earnings release, adjusted operating income, adjusted operating margin, and adjusted diluted earnings per share are non-GAAP financial measures. Refer to the end of this release for an explanation of these non-GAAP financial measures and reconciliations to the most directly comparable GAAP measures.
+
+<!-- PAGE 2 -->
+
+'Throughout fiscal 2025, our teams did an incredible job engaging with our customers and growing market share, and I would like to thank them for their hard work and dedication,' said Ted Decker, chair, president and CEO. 'For the fourth quarter, our results were largely in-line with our expectations, reflecting the lack of storm activity in the third quarter and ongoing consumer uncertainty and pressure in housing. Adjusting for storms, underlying demand was relatively stable throughout the year.'
+
+## Dividend Declaration
+
+The Company today announced that its board of directors approved a 1.3% increase in its quarterly dividend to $2.33 per share, which equates to an annual dividend of $9.32 per share.
+
+The dividend is payable on March 26, 2026, to shareholders of record at the close of business on March 12, 2026. This is the 156th consecutive quarter the Company has paid a cash dividend.
+
+## Fiscal 2026 Guidance
+
+The company provides the following guidance for fiscal 2026:
+
+- Total sales growth of approximately 2.5% to 4.5%
+- Comparable sales growth of approximately flat to 2.0%
+- Approximately 15 new stores
+- Gross margin of approximately 33.1%
+- Operating margin of approximately 12.4% to 12.6%
+- Adjusted operating margin of approximately 12.8% to 13.0% (1)
+- Effective tax rate of approximately 24.3%
+- Net interest expense of approximately $2.3 billion
+- Diluted earnings-per-share to grow approximately flat to 4.0% from $14.23 in fiscal 2025
+- Adjusted diluted earnings-per-share to grow approximately flat to 4.0% from $14.69 in fiscal 2025 (1)
+- Capital expenditures of approximately 2.5% of total sales
+
+The Home Depot will conduct a conference call today at 9 a.m. ET to discuss information included in this news release and related matters. The conference call will be available in its entirety through a webcast and replay at ir.homedepot.com/events-and-presentations.
+
+At the end of the fourth quarter, the company operated a total of 2,359 retail stores and over 1,250 SRS locations across all 50 states, the District of Columbia, Puerto Rico, the U.S. Virgin Islands, Guam, 10 Canadian provinces and Mexico. The Company employs over 470,000 associates. The Home Depot's stock is traded on the New York Stock Exchange (NYSE: HD) and is included in the Dow Jones industrial average and Standard &amp; Poor's 500 index.
+
+###
+
+<!-- PAGE 3 -->
+
+## Cautionary Note Regarding Forward-Looking Statements
+
+Certain statements contained herein constitute "forward-looking statements" under the federal securities laws, including as defined in the Private Securities Litigation Reform Act of 1995. Forward-looking statements are based on currently available information and our current assumptions, expectations and projections about future events, and use words such as 'may,' 'will,'  'could,'  'should,'  'would,'  'anticipate,'  'intend,'  'estimate,'  'project,'  'plan,'  'believe,'  'expect,'  'target,'  "prospects,' 'potential,'  "commit'  and  "forecast,'  or  words  of  similar  import  or  meaning  or  refer  to  future  time  periods.  Forward-looking statements may relate to, among other things: our brand and reputation; the demand for our products and services, including as a result of macroeconomic conditions and changing customer preferences and expectations; net sales growth; comparable sales; the effects of competition; implementation of interconnected retail, store, supply chain, technology, innovation and other strategic initiatives, including with respect to real estate; inventory, on-shelf availability, and in-stock positions; the state of the economy; the state of the housing and home improvement markets; the state of the credit markets, including mortgages, home equity loans, and consumer and trade credit; the impact of tariffs; trade policy changes or restrictions, or international trade disputes and efforts and ability to continue to diversify our supply chain; issues related to the payment methods we accept;  demand  for  credit  offerings  including  trade  credit;  management  of  relationships  with  our  associates,  jobseekers, suppliers and service providers; cost and availability of labor; costs of fuel and other energy sources; events that could disrupt our business, supply chain, technology infrastructure, or demand for our products and services, such as tariffs, trade policy changes or restrictions or international trade disputes, natural disasters, climate change, public health issues, cybersecurity events, labor disputes, geopolitical tensions or conflicts, military conflicts, or acts of war; our ability to maintain a safe and secure store environment; our ability to address expectations regarding sustainability and human capital management matters and meet related goals; continuation or suspension of share repurchases; net earnings and margin performance; earnings per share;  future  dividends;  capital  allocation  and  expenditures;  productivity;  liquidity;  return  on  invested  capital;  expense  and debt leverage; changes in interest rates; changes in foreign currency exchange rates; commodity or other price inflation and deflation; our ability to issue debt on terms and at rates acceptable to us; the impact and expected outcome of investigations, inquiries,  claims,  and  litigation,  including  compliance  with  related  settlements;  the  challenges  of  operating  in  international markets;  the  adequacy  of  insurance  coverage;  the  effect  of  accounting  charges;  the  effect  of  adopting  certain  accounting standards;  the  impact  of  legal  and  regulatory  changes,  including  executive  orders  and  other  administrative  or  legislative actions, such as changes to tax laws and regulations; store openings and closures; financial outlook, including guidance for fiscal 2026; and the impact of acquired companies, including SRS and GMS, on our organization and the ability to recognize the anticipated benefits of completed or pending acquisitions.
+
+These statements are not guarantees of future performance and are subject to future events, risks and uncertainties - many of which are beyond our control, dependent on the actions of third parties, or currently unknown to us - as well as potentially inaccurate assumptions that could cause actual results to differ materially from our historical experience and our expectations and  projections.  These  risks  and  uncertainties  include,  but  are  not  limited  to,  those  described  in  Part  I,  Item  1A.  "Risk Factors," and elsewhere in our Annual Report on Form 10-K for our fiscal year ended February 2, 2025 and also as described from  time  to  time  in  reports  subsequently  filed  with  the  Securities  and  Exchange  Commission.  There  also  may  be  other factors that we cannot anticipate or that are not described herein, generally because we do not currently perceive them to be material. Such factors could cause results to differ materially from our expectations. Forward-looking statements speak only as of the date they are made, and we do not undertake to update these statements other than as required by law. You are advised,  however,  to  review  any  further  disclosures  we  make  on  related  subjects  in  our  filings  with  the  Securities  and Exchange Commission and in our other public statements.
+
+## Non-GAAP Financial Measures
+
+To provide additional transparency, we supplement our disclosure with certain non-GAAP financial measures. When used in conjunction  with  our  GAAP  financial  measures,  we  believe  these  supplemental  non-GAAP  financial  measures  will  help management  and  investors  to  better  understand  and  analyze  our  performance.  However,  this  supplemental  information should not be considered in isolation or as a substitute for the related GAAP measures. Refer to the end of this release for an explanation and definitions of these non-GAAP financial measures and reconciliations to the most directly comparable GAAP measures.
+
+<!-- PAGE 4 -->
+
+## For more information, contact :
+
+Financial Community Isabel Janci Vice President of Investor Relations and Treasurer 770-384-2666 isabel\_janci@homedepot.com
+
+News Media Sara Gorman Senior Director of Corporate Communications 770-384-2852 sara\_gorman@homedepot.com
+
+<!-- PAGE 5 -->
+
+## THE HOME DEPOT, INC. CONDENSED CONSOLIDATED STATEMENTS OF EARNINGS
+
+(Unaudited)
+
+|         | Three Months Ended (1)   | Three Months Ended (1)   |         | Fiscal Year Ended (2)   | Fiscal Year Ended (2)   |         |
+|-------------------------------------------------|--------------------------|--------------------------|---------|-------------------------|-------------------------|---------|
+| in millions, except per share data         | February 1, 2026         | February 2, 2025         | %Change | February 1, 2026        | February 2, 2025        | %Change |
+| Net sales         | $ 38,198         | $ 39,704         | (3.8)%  | $ 164,683         | $ 159,514         | 3.2%    |
+| Cost of sales         | 25,732         | 26,670         | (3.5)   | 109,818         | 106,206         | 3.4     |
+| Gross profit         | 12,466         | 13,034         | (4.4)   | 54,865         | 53,308         | 2.9     |
+| Operating expenses:         |         |         |         |         |         |         |
+| Selling, general and administrative         | 7,772         | 7,725         | 0.6     | 30,702         | 28,748         | 6.8     |
+| Depreciation and amortization         | 845         | 814         | 3.8     | 3,273         | 3,034         | 7.9     |
+| Total operating expenses         | 8,617         | 8,539         | 0.9     | 33,975         | 31,782         | 6.9     |
+| Operating income         | 3,849         | 4,495         | (14.4)  | 20,890         | 21,526         | (3.0)   |
+| Interest and other (income) expense: Interest income and other, net | (43)         | (30)         | 43.3    | (124)         | (201)         | (38.3)  |
+| Interest expense         | 594         | 638         | (6.9)   | 2,412         | 2,321         | 3.9     |
+| Interest and other, net         | 551         | 608         | (9.4)   | 2,288         | 2,120         | 7.9     |
+| Earnings before provision for income taxes         | 3,298         | 3,887         | (15.2)  | 18,602         | 19,406         | (4.1)   |
+| Provision for income taxes         | 727         | 890         | (18.3)  | 4,446         | 4,600         | (3.3)   |
+| Net earnings         | $ 2,571         | $ 2,997         | (14.2)% | $ 14,156         | $ 14,806         | (4.4)%  |
+| Basic weighted average common shares         | 993         | 991         | 0.2%    | 993         | 990         | 0.3%    |
+| Basic earnings per share         | $ 2.59         | $ 3.02         | (14.2)  | $ 14.26         | $ 14.96         | (4.7)   |
+| Diluted weighted average common shares         | 995         | 994         | 0.1%    | 995         | 993         | 0.2%    |
+| Diluted earnings per share         | $ 2.58         | $ 3.02         | (14.6)  | $ 14.23         | $ 14.91         | (4.6)   |
+
+|         | Three Months Ended (1)   | Three Months Ended (1)   |         | Fiscal Year Ended (2)   | Fiscal Year Ended (2)   |         |
+|-------------------------------------------------|--------------------------|--------------------------|---------|-------------------------|-------------------------|---------|
+| Selected sales data:         | February 1, 2026         | February 2, 2025         | %Change | February 1, 2026        | February 2, 2025        | %Change |
+| Comparable sales (% change)         | 0.4%         | 0.8%         | N/A     | 0.3%         | (1.8)%         | N/A     |
+| Comparable customer transactions (% change) (3) | (1.6)%         | 0.6%         | N/A     | (1.0)%         | (1.0)%         | N/A     |
+| Comparable average ticket (% change) (3)        | 2.4%         | 0.2%         | N/A     | 1.4%         | (0.9)%         | N/A     |
+| Customer transactions (in millions) (3)         | 366.5         | 400.4         | (8.5)%  | 1,601.5         | 1,637.2         | (2.2)%  |
+| Average ticket (3)         | $ 91.28         | $ 89.11         | 2.4     | $ 90.56         | $ 89.31         | 1.4     |
+
+-----
+
+(1) Three months ended February 1, 2026 includes 13 weeks. Three months ended February 2, 2025 includes 14 weeks.
+
+(2) Fiscal year ended February 1, 2026 includes 52 weeks. Fiscal year ended February 2, 2025 includes 53 weeks.
+
+(3) Customer transactions and average ticket measures do not include results from HD Supply or SRS (including GMS).
+
+<!-- PAGE 6 -->
+
+## THE HOME DEPOT, INC. CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+
+| in millions         | February 1, 2026   | February 2, 2025   |
+|------------------------------------------------|--------------------|--------------------|
+| Assets         |         |         |
+| Current assets:         |         |         |
+| Cash and cash equivalents         | $ 1,389         | $ 1,659         |
+| Receivables, net         | 5,597         | 4,903         |
+| Merchandise inventories         | 25,817         | 23,451         |
+| Other current assets         | 1,588         | 1,670         |
+| Total current assets         | 34,391         | 31,683         |
+| Net property and equipment         | 28,021         | 26,702         |
+| Operating lease right-of-use assets         | 9,204         | 8,592         |
+| Goodwill         | 22,344         | 19,475         |
+| Intangible assets, net         | 10,329         | 8,983         |
+| Other assets         | 806         | 684         |
+| Total assets         | $ 105,095         | $ 96,119         |
+| Liabilities and Stockholders' Equity         |         |         |
+| Current liabilities:         |         |         |
+| Short-term debt         | $ 4,464         | $ 316         |
+| Accounts payable         | 11,491         | 11,938         |
+| Accrued salaries and related expenses         | 2,529         | 2,315         |
+| Current installments of long-term debt         | 4,967         | 4,582         |
+| Current operating lease liabilities         | 1,418         | 1,274         |
+| Other current liabilities         | 7,555         | 8,236         |
+| Total current liabilities         | 32,424         | 28,661         |
+| Long-term debt, excluding current installments | 46,341         | 48,485         |
+| Long-term operating lease liabilities         | 8,160         | 7,633         |
+| Other long-term liabilities         | 5,357         | 4,700         |
+| Total liabilities         | 92,282         | 89,479         |
+| Total stockholders' equity         | 12,813         | 6,640         |
+| Total liabilities and stockholders' equity     | $ 105,095         | $ 96,119         |
+
+<!-- PAGE 7 -->
+
+## THE HOME DEPOT, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+
+|         | Fiscal Year Ended (1)   | Fiscal Year Ended (1)   |
+|-------------------------------------------------|-------------------------|-------------------------|
+| in millions         | February 1, 2026        | February 2, 2025        |
+| Cash Flows from Operating Activities:         |         |         |
+| Net earnings         | $ 14,156         | $ 14,806         |
+| Reconciliation of net earnings to net cash provided by operating activities: |         |         |
+| Depreciation and amortization, excluding amortization of intangible assets   | 3,514         | 3,336         |
+| Intangible asset amortization         | 607         | 425         |
+| Stock-based compensation expense         | 522         | 442         |
+| Changes in working capital         | (3,084)         | 679         |
+| Changes in deferred income taxes         | 418         | 15         |
+| Other operating activities         | 192         | 107         |
+| Net cash provided by operating activities         | 16,325         | 19,810         |
+| Cash Flows from Investing Activities:         |         |         |
+| Capital expenditures         | (3,679)         | (3,485)         |
+| Payments for businesses acquired, net         | (5,410)         | (17,644)         |
+| Other investing activities         | 109         | 98         |
+| Net cash used in investing activities         | (8,980)         | (21,031)         |
+| Cash Flows from Financing Activities:         |         |         |
+| Proceeds from short-term debt, net         | 4,148         | 316         |
+| Proceeds from long-term debt, net of discounts         | 2,161         | 10,010         |
+| Repayments of long-term debt         | (5,040)         | (1,536)         |
+| Repurchases of common stock         | -         | (649)         |
+| Proceeds from sales of common stock         | 314         | 395         |
+| Cash dividends         | (9,152)         | (8,929)         |
+| Other financing activities         | (145)         | (301)         |
+| Net cash used in financing activities         | (7,714)         | (694)         |
+| Change in cash and cash equivalents         | (369)         | (1,915)         |
+| Effect of exchange rate changes on cash and cash equivalents         | 99         | (186)         |
+| Cash and cash equivalents at beginning of period         | 1,659         | 3,760         |
+| Cash and cash equivalents at end of period         | $ 1,389         | $ 1,659         |
+
+-----
+
+(1) Fiscal year ended February 1, 2026 includes 52 weeks. Fiscal year ended February 2, 2025 includes 53 weeks.
+
+<!-- PAGE 8 -->
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24
+SOURCE: The Home Depot Investor Relations
+SOURCE URL: https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: The Home Depot Announces Fourth Quarter and Fiscal 2025 Results; Increases Quarterly Dividend by 1.3%; Provides Fiscal 2026 Guidance
+SUMMARY: Home Depot’s fiscal Q4 2025 earnings release (quarter ended February 1, 2026) issued full-year fiscal 2026 guidance.
+
+FORWARD GUIDANCE:
+- METRIC: Total sales growth
+  GUIDANCE: Approximately 2.5% to 4.5% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Total reported sales growth
+- METRIC: Comparable sales growth
+  GUIDANCE: Approximately flat to 2.0% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Comparable sales
+- METRIC: New stores
+  GUIDANCE: Approximately 15 new stores
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Planned openings
+- METRIC: Gross margin
+  GUIDANCE: Approximately 33.1%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP gross margin
+- METRIC: Operating margin
+  GUIDANCE: Approximately 12.4% to 12.6%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP operating margin
+- METRIC: Adjusted operating margin
+  GUIDANCE: Approximately 12.8% to 13.0%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP; excludes acquired intangible asset amortization, expected to affect adjusted operating margin by approximately 40 basis points
+- METRIC: Effective tax rate
+  GUIDANCE: Approximately 24.3%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Effective tax rate
+- METRIC: Net interest expense
+  GUIDANCE: Approximately $2.3 billion
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Reported net interest expense
+- METRIC: Diluted EPS growth
+  GUIDANCE: Approximately flat to 4.0% growth from $14.23 in fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP diluted earnings per share
+- METRIC: Adjusted diluted EPS growth
+  GUIDANCE: Approximately flat to 4.0% growth from $14.69 in fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP; excludes an expected after-tax impact of approximately $0.50 from acquired intangible asset amortization
+- METRIC: Capital expenditures
+  GUIDANCE: Approximately 2.5% of total sales
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Capital expenditures as a percentage of total sales
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24
+SOURCE: The Home Depot Investor Relations
+SOURCE URL: https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/reports-and-presentations/quarterly-earnings/hd-4q25-transcript.pdf
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: HD - 4Q25 Transcript
+SUMMARY: On its fiscal Q4 2025 earnings call, management affirmed the preliminary fiscal 2026 outlook and added specific SRS organic-growth and SRS-location-opening targets.
+
+FORWARD GUIDANCE:
+- METRIC: Comparable sales growth
+  GUIDANCE: Flat to 2% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Comparable sales
+- METRIC: Total sales growth
+  GUIDANCE: Approximately 2.5% to 4.5% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Total reported sales; reflects contribution from the GMS acquisition, new stores, branches and tuck-in acquisitions
+- METRIC: SRS organic sales growth
+  GUIDANCE: Mid-single-digit percent organic sales growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: SRS segment; organic sales
+- METRIC: Store and SRS-location openings
+  GUIDANCE: Approximately 15 new stores and 40 to 50 new SRS locations
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Planned openings
+- METRIC: Gross margin
+  GUIDANCE: Approximately 33.1%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP gross margin
+- METRIC: Operating margin
+  GUIDANCE: Approximately 12.4% to 12.6%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP operating margin
+- METRIC: Adjusted operating margin
+  GUIDANCE: Approximately 12.8% to 13.0%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP adjusted operating margin
+- METRIC: Effective tax rate
+  GUIDANCE: Approximately 24.3%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Effective tax rate
+- METRIC: Net interest expense
+  GUIDANCE: Approximately $2.3 billion
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Reported net interest expense
+- METRIC: Diluted EPS growth
+  GUIDANCE: Approximately flat to 4% growth compared with fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP diluted earnings per share
+- METRIC: Adjusted diluted EPS growth
+  GUIDANCE: Approximately flat to 4% growth compared with fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP adjusted diluted earnings per share
+- METRIC: Capital expenditures
+  GUIDANCE: Approximately 2.5% of sales
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Capital expenditures as a percentage of sales
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24
+SOURCE: U.S. Securities and Exchange Commission
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/354950/000035495026000026/hd-20260224.htm
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Form 8-K — The Home Depot, Inc.
+SUMMARY: Home Depot’s Form 8-K furnished the fiscal Q4 2025 earnings release as Exhibit 99.1 and incorporated its fiscal 2026 outlook by reference.
+
+FORWARD GUIDANCE:
+- METRIC: Total sales growth
+  GUIDANCE: Approximately 2.5% to 4.5% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Total reported sales growth
+- METRIC: Comparable sales growth
+  GUIDANCE: Approximately flat to 2.0% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Comparable sales
+- METRIC: Gross margin
+  GUIDANCE: Approximately 33.1%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP gross margin
+- METRIC: Operating margin
+  GUIDANCE: Approximately 12.4% to 12.6%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP operating margin
+- METRIC: Adjusted operating margin
+  GUIDANCE: Approximately 12.8% to 13.0%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP; excludes acquired intangible asset amortization, expected to affect adjusted operating margin by approximately 40 basis points
+- METRIC: Effective tax rate
+  GUIDANCE: Approximately 24.3%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Effective tax rate
+- METRIC: Net interest expense
+  GUIDANCE: Approximately $2.3 billion
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Reported net interest expense
+- METRIC: Diluted EPS growth
+  GUIDANCE: Approximately flat to 4.0% growth from $14.23 in fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: GAAP diluted earnings per share
+- METRIC: Adjusted diluted EPS growth
+  GUIDANCE: Approximately flat to 4.0% growth from $14.69 in fiscal 2025
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP; excludes an expected after-tax impact of approximately $0.50 from acquired intangible asset amortization
+- METRIC: Capital expenditures
+  GUIDANCE: Approximately 2.5% of total sales
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Capital expenditures as a percentage of total sales
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24T11:16:41Z
+SOURCE: AP News
+SOURCE URL: https://apnews.com/article/home-depot-housing-mortgage-8c83d042d9c4d5da650a3f30c1388741
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Home Depot tops expectations in the fourth quarter, but customers pull back on spending
+SUMMARY: AP’s coverage of Home Depot’s fiscal Q4 2025 release reported the company’s outlook for fiscal 2026 sales, comparable sales and adjusted EPS.
+
+FORWARD GUIDANCE:
+- METRIC: Adjusted diluted EPS growth
+  GUIDANCE: Approximately flat to up 4% from fiscal 2025 adjusted EPS of $14.69 per share
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Non-GAAP adjusted earnings per share
+- METRIC: Total sales growth
+  GUIDANCE: Approximately 2.5% to 4.5% growth
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Total reported sales growth
+- METRIC: Comparable sales growth
+  GUIDANCE: Approximately flat to up 2%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Comparable sales
+
+================================================================================================
+
+RELEASE DATE: 2026-02-24T17:19:51Z
+SOURCE: Axios
+SOURCE URL: https://www.axios.com/2026/02/24/home-depot-earnings-housing-market
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Home Depot flags rising unease among homeowners
+SUMMARY: Axios’s fiscal Q4 2025 earnings coverage reported Home Depot’s fiscal 2026 comparable-sales outlook and management’s expectation that affordability pressure and consumer uncertainty would persist.
+
+FORWARD GUIDANCE:
+- METRIC: Comparable sales growth
+  GUIDANCE: Between flat and up 2%
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Comparable sales; management said affordability pressures and consumer uncertainty were expected to persist

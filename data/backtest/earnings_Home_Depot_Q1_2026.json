@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-05-19",
+  "target_period": "Q1 2026",
+  "previous_report_date": "2026-02-24",
+  "previous_period": "Q4 2025",
+  "previous_actuals": [
+    {
+      "metric": "Net sales",
+      "unit": "USDm",
+      "value": 38198.0,
+      "source_url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/press-release/q4-2025-earnings-release.pdf"
+    },
+    {
+      "metric": "Adjusted diluted EPS",
+      "unit": "USD / share",
+      "value": 2.72,
+      "source_url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/press-release/q4-2025-earnings-release.pdf"
+    },
+    {
+      "metric": "Comparable sales, total company",
+      "unit": "%",
+      "value": 0.4,
+      "source_url": "https://ir.homedepot.com/~/media/Files/H/HomeDepot-IR/press-release/q4-2025-earnings-release.pdf"
+    }
+  ]
+}

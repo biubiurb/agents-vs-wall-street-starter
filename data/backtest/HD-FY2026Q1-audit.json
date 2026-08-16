@@ -1,0 +1,776 @@
+{
+  "company": "Home Depot",
+  "target_period": "Q1 2026",
+  "news_start_date": "2026-02-25",
+  "information_cutoff": "2026-05-18",
+  "guidance_summary": "GUIDANCE ANALYSIS: Home Depot — Q4 2025\n\nMETRIC: Market share\nPROJECTION/GUIDANCE: Expect to continue to grow market share\nUNIT: qualitative\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Total company market share\nMAIN RATIONALE/DRIVERS:\n- Management cited its customer value proposition, investments in stores and interconnected shopping, and Pro capabilities.\n- Management expects housing and home-improvement demand pressures to persist, including elevated mortgage rates, higher home prices, historically low housing turnover, inflation, job concerns, and higher financing costs.\n\nMETRIC: Total sales growth\nPROJECTION/GUIDANCE: Approximately 2.5% to 4.5% growth\nUNIT: percent growth\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Total reported sales growth\nMAIN RATIONALE/DRIVERS:\n- Growth reflects contributions from the GMS acquisition, new stores, branches, and tuck-in acquisitions.\n- Management expects persistent pressure on housing and home-improvement demand from mortgage rates, housing affordability, low housing turnover, economic uncertainty, inflation, job concerns, and higher financing costs.\n\nMETRIC: Comparable sales growth\nPROJECTION/GUIDANCE: Approximately flat to 2.0% growth\nUNIT: percent growth\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Comparable sales\nMAIN RATIONALE/DRIVERS:\n- Management expects to continue gaining market share.\n- Management has not seen a catalyst for an inflection in housing activity and expects housing/home-improvement demand pressures to persist, including low housing turnover and affordability constraints.\n\nMETRIC: SRS organic sales growth\nPROJECTION/GUIDANCE: Mid-single-digit percent organic sales growth\nUNIT: percent growth\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: SRS organic sales\nMAIN RATIONALE/DRIVERS:\n- Management plans to support SRS's momentum.\n- SRS had expanded market share despite pressured industry demand and limited storm activity in the back half of fiscal 2025, supported by its value proposition, customer relationships, and execution.\n\nMETRIC: New Home Depot stores\nPROJECTION/GUIDANCE: Approximately 15 new stores\nUNIT: stores\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Planned store openings\nMAIN RATIONALE/DRIVERS:\n- No specific rationale for the planned number of store openings was stated.\n\nMETRIC: New SRS locations\nPROJECTION/GUIDANCE: 40 to 50 new SRS locations\nUNIT: locations\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Planned SRS-location openings\nMAIN RATIONALE/DRIVERS:\n- Management plans to support SRS's momentum; SRS has also expanded through greenfield locations and tuck-in acquisitions.\n\nMETRIC: Gross margin\nPROJECTION/GUIDANCE: Approximately 33.1%\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: GAAP gross margin\nMAIN RATIONALE/DRIVERS:\n- No specific driver for the fiscal 2026 gross-margin outlook was stated.\n\nMETRIC: Operating margin\nPROJECTION/GUIDANCE: Approximately 12.4% to 12.6%\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: GAAP operating margin\nMAIN RATIONALE/DRIVERS:\n- No specific driver for the fiscal 2026 operating-margin outlook was stated.\n\nMETRIC: Adjusted operating margin\nPROJECTION/GUIDANCE: Approximately 12.8% to 13.0%\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Non-GAAP adjusted operating margin; excludes intangible-asset amortization\nMAIN RATIONALE/DRIVERS:\n- The adjusted measure excludes intangible-asset amortization.\n- No additional specific driver for the fiscal 2026 adjusted operating-margin outlook was stated.\n\nMETRIC: Effective tax rate\nPROJECTION/GUIDANCE: Approximately 24.3%\nUNIT: percent\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Effective tax rate\nMAIN RATIONALE/DRIVERS:\n- No specific driver for the fiscal 2026 effective-tax-rate outlook was stated.\n\nMETRIC: Net interest expense\nPROJECTION/GUIDANCE: Approximately $2.3 billion\nUNIT: USD billions\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Net interest expense\nMAIN RATIONALE/DRIVERS:\n- No specific driver for the fiscal 2026 net-interest-expense outlook was stated.\n\nMETRIC: Diluted earnings per share growth\nPROJECTION/GUIDANCE: Approximately flat to 4.0% growth from $14.23 in fiscal 2025\nUNIT: percent growth\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: GAAP diluted earnings per share\nMAIN RATIONALE/DRIVERS:\n- Management expects ongoing housing and home-improvement demand pressure, with no identified catalyst for a housing-activity inflection.\n- Management expects to grow market share through its customer experience and value proposition.\n\nMETRIC: Adjusted diluted earnings per share growth\nPROJECTION/GUIDANCE: Approximately flat to 4.0% growth from $14.69 in fiscal 2025\nUNIT: percent growth\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Non-GAAP adjusted diluted earnings per share; excludes intangible-asset amortization\nMAIN RATIONALE/DRIVERS:\n- Management expects ongoing housing and home-improvement demand pressure, with no identified catalyst for a housing-activity inflection.\n- Management expects to grow market share through its customer experience and value proposition.\n\nMETRIC: Capital expenditures\nPROJECTION/GUIDANCE: Approximately 2.5% of total sales\nUNIT: percent of total sales\nTIMEFRAME/TARGET PERIOD: Fiscal 2026\nTIMEFRAME SCOPE: Full Year\nBASIS: Capital expenditures as a percentage of total sales\nMAIN RATIONALE/DRIVERS:\n- Management plans to continue investing in the business, including stores, the interconnected shopping experience, and Pro capabilities.\n",
+  "previous_actuals": {
+    "Net sales": 38198.0,
+    "Adjusted diluted EPS": 2.72,
+    "Comparable sales, total company": 0.4
+  },
+  "offline_context_files": [
+    "challenge/offline-data/home-depot/call-transcripts/2026-04-09__hd-us-20260409-call-conf-qna__906256.md",
+    "challenge/offline-data/home-depot/call-transcripts/2026-04-09__hd-us-20260409-call-conf-pres__906255.md",
+    "challenge/offline-data/home-depot/filings/2026-04-07__hd-us-20260407-filing__904273.md",
+    "challenge/offline-data/home-depot/filings/2026-04-07__hd-us-20260407-filing-2__904279.md"
+  ],
+  "events": [
+    {
+      "event_id": "E1",
+      "title": "Lowe’s issued a cautious 2026 industry outlook",
+      "first_reported_at": "2026-02-25",
+      "last_reported_at": "2026-02-25",
+      "summary": "Reuters reported that Lowe’s forecast 2026 comparable sales ranging from flat to up 2%. Lowe’s cited stagnant housing, cautious consumer spending, tariffs and deferred major DIY projects, including kitchen and flooring remodels. The report also noted that Home Depot had retained its annual outlook while expecting housing-market pressure to persist.",
+      "source_headlines": [
+        "Lowe’s provides cautious 2026 outlook as DIY customers delay costly remodels"
+      ],
+      "source_urls": [
+        "https://www.investing.com/news/stock-market-news/lowes-beats-quarterly-sales-estimates-4523692"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "gross margin",
+        "operating expense",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E2",
+      "title": "February existing-home sales increased but remained below prior-year levels",
+      "first_reported_at": "2026-03-10T14:03:24Z",
+      "last_reported_at": "2026-03-10T14:03:24Z",
+      "summary": "Associated Press reported that U.S. existing-home sales rose 1.7% month over month in February to a seasonally adjusted annual rate of 4.09 million, as buyers responded to easing mortgage rates. Sales remained 1.4% below February 2025 levels, and the national median home price reached a February record.",
+      "source_headlines": [
+        "Existing U.S. home sales rose 1.7% in February, though remained below the prior-year pace"
+      ],
+      "source_urls": [
+        "https://apnews.com/article/housing-home-sales-real-estate-home-prices-29d84f7fa22d4b8ccc2d2906e9e58618"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E3",
+      "title": "Home Depot announced plans to add 12 U.S. stores in 2026",
+      "first_reported_at": "2026-03-17",
+      "last_reported_at": "2026-03-17",
+      "summary": "Home Depot announced plans to open 12 new stores across eight states during 2026, adding more than 1.6 million square feet of retail space. The planned locations are intended to support same-day delivery and pickup and will include dedicated Pro teams, tool-rental capacity and larger storage areas for online-order fulfillment.",
+      "source_headlines": [
+        "The Home Depot adds 12 U.S. stores and more than 1.6 million square feet of retail space for 2026"
+      ],
+      "source_urls": [
+        "https://corporate.homedepot.com/news/company/home-depot-adds-12-new-stores-across-eight-states-its-us-footprint"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "operating expense",
+        "depreciation",
+        "capex",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E4",
+      "title": "Federal Reserve maintained the federal-funds target range in March",
+      "first_reported_at": "2026-03-18T18:00:00Z",
+      "last_reported_at": "2026-03-18T18:00:00Z",
+      "summary": "The Federal Open Market Committee maintained the federal-funds target range at 3.50% to 3.75%, effective March 19, 2026.",
+      "source_headlines": [
+        "Federal Reserve holds the federal-funds target range at 3.50%–3.75%"
+      ],
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "interest expense",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E5",
+      "title": "United States broadened aluminum, steel and copper tariff regimes",
+      "first_reported_at": "2026-04-02",
+      "last_reported_at": "2026-04-02",
+      "summary": "A White House proclamation applied duties to the full customs value of covered aluminum, steel, copper and derivative imports beginning April 6, 2026. It imposed a 50% additional ad valorem duty on many listed articles, with specified lower rates and exclusions for certain products.",
+      "source_headlines": [
+        "U.S. strengthens aluminum, steel and copper tariff regimes, including 50% duties for covered products"
+      ],
+      "source_urls": [
+        "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "gross margin",
+        "operating expense",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E6",
+      "title": "March existing-home sales declined and NAR reduced its 2026 forecast",
+      "first_reported_at": "2026-04-13",
+      "last_reported_at": "2026-04-13",
+      "summary": "Associated Press reported that U.S. existing-home sales fell 3.6% in March to a 3.98 million annualized rate, the slowest pace in nine months. Mortgage rates had increased as energy prices rose. The National Association of Realtors reduced its forecast for 2026 existing-home-sales growth to 4% from 14%.",
+      "source_headlines": [
+        "Existing U.S. home sales fell 3.6% in March; NAR cut its 2026 sales forecast"
+      ],
+      "source_urls": [
+        "https://apnews.com/article/housing-home-sales-real-estate-home-prices-ab4093a542fd4c6f8e97b311c4873364"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E7",
+      "title": "Home Depot acquired SIMPL Automation",
+      "first_reported_at": "2026-04-15",
+      "last_reported_at": "2026-04-15",
+      "summary": "Home Depot acquired SIMPL Automation, a warehouse-automation and technology company. Home Depot said a pilot at its Locust Grove, Georgia distribution center produced faster pick speeds and cycle times with fewer product touches. The company also said SIMPL’s storage-and-retrieval technology could increase the density and availability of high-demand inventory.",
+      "source_headlines": [
+        "The Home Depot acquires SIMPL Automation to expand distribution-center automation"
+      ],
+      "source_urls": [
+        "https://corporate.homedepot.com/news/company/home-depot-acquires-simpl-automation-accelerate-supply-chain-automation-and-enhance"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "operating expense",
+        "depreciation",
+        "capex",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E8",
+      "title": "Federal Reserve again maintained the federal-funds target range in April",
+      "first_reported_at": "2026-04-29T18:00:00Z",
+      "last_reported_at": "2026-04-29T18:00:00Z",
+      "summary": "The Federal Open Market Committee again left the federal-funds target range unchanged at 3.50% to 3.75%. Its statement said economic activity was expanding at a solid pace, inflation was elevated in part because of a recent rise in global energy prices, and Middle East developments had increased economic uncertainty.",
+      "source_headlines": [
+        "Federal Reserve again holds the federal-funds target range at 3.50%–3.75%, citing elevated energy-price-driven inflation"
+      ],
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "operating expense",
+        "interest expense",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E9",
+      "title": "SRS Distribution completed its acquisition of Mingledorff’s",
+      "first_reported_at": "2026-05-11",
+      "last_reported_at": "2026-05-11",
+      "summary": "SRS Distribution, a Home Depot subsidiary, completed its acquisition of Mingledorff’s, an HVAC equipment, parts and supplies distributor serving residential and commercial customers through 42 locations in five Southeastern states. Home Depot said HVAC distribution adds an approximately $100 billion addressable market and increases its stated total addressable market to approximately $1.2 trillion. Financial terms were not disclosed.",
+      "source_headlines": [
+        "SRS Distribution completes acquisition of HVAC distributor Mingledorff’s"
+      ],
+      "source_urls": [
+        "https://ir.homedepot.com/news-releases/2026/05-11-2026-133053552"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "operating expense",
+        "depreciation",
+        "impairment",
+        "working capital",
+        "capex",
+        "cash flow",
+        "EPS"
+      ]
+    },
+    {
+      "event_id": "E10",
+      "title": "April retail-sales growth slowed; building-material and garden sales rose 0.1%",
+      "first_reported_at": "2026-05-14T12:43:30Z",
+      "last_reported_at": "2026-05-14T12:43:30Z",
+      "summary": "Associated Press, citing Commerce Department data, reported that U.S. retail sales increased 0.5% in April, following a 1.6% increase in March. Building-material and garden-equipment sales increased 0.1%. The article reported that the average regular-gasoline price was $4.53 per gallon, up $1.35 from a year earlier.",
+      "source_headlines": [
+        "April U.S. retail sales slowed as higher gasoline costs squeezed discretionary budgets; building-material and garden sales rose only 0.1%"
+      ],
+      "source_urls": [
+        "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead"
+      ],
+      "financial_statement_lines": [
+        "revenue/sales",
+        "COGS",
+        "operating expense",
+        "working capital",
+        "cash flow",
+        "EPS"
+      ]
+    }
+  ],
+  "metric_impacts": [
+    {
+      "metric": "Net sales",
+      "unit": "USDm",
+      "projected_change": 3526.3,
+      "direction": "increase",
+      "metric_total_calculation": "Basis: prior reported actual is Q4 fiscal 2025 standalone (13 weeks ended February 1, 2026): $38,198.0m. Target is Q1 fiscal 2026 standalone (the spring quarter), not FY26 or a year-to-date measure. GUIDANCE uses the midpoint of FY26 total-sales growth: FY26 sales = $164,680m × 1.035 = $170,443.8m. Period alignment: Q1 FY25 sales were $39,856m; target-quarter guidance is phased as $39,856m + $478.3m from a 1.2% Q1 comp assumption + $1,170m GMS consolidation increment + $300m from new stores/SRS branches/tuck-ins = $41,804.3m. This leaves FY26 sales of $128,639.5m after Q1, versus FY25 remaining sales of $124,824m, or 3.1% growth, reconciling to the 3.5% full-year midpoint while recognizing that GMS incremental consolidation is front-loaded versus FY25. News increment = E2 $10m + E5 $20m + E6 ($60m) + E10 ($50m) = ($80m); all other events are zero incremental. Forecast = $41,804.3m - $80.0m = $41,724.3m; change versus Q4 FY25 actual = $41,724.3m - $38,198.0m = +$3,526.3m.",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "sales volume, selling price, acquisition consolidation and new-store/branch capacity",
+          "transmission_path": "Comparable-sales volume/price growth plus GMS consolidation plus new selling capacity -> net sales; guidance's margin, interest and tax assumptions do not alter the net-sales calculation.",
+          "assumptions": [
+            "FY26 guidance midpoint is 3.5% total-sales growth and midpoint comparable-sales guidance is 1.0%.",
+            "Q1 has a modest spring seasonal comp premium of 1.2% versus the 1.0% FY midpoint; this is not a mechanical quarterly pro-rate.",
+            "GMS had only partial FY25 inclusion, so its incremental consolidation is assigned disproportionately to Q1 FY26; $1,170m is a central estimate, not company-quantified quarterly guidance.",
+            "New stores, SRS branches and tuck-ins contribute $300m in Q1. This is included in guidance and must not be re-added for E3 or E9."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. FY26 sales guide = $164,680m × (1 + 3.5%) = $170,443.8m. Q1 bridge = FY25 Q1 $39,856m + [$39,856m × 1.2% comp] $478.3m + GMS $1,170m + new-store/branch/tuck-in $300m = $41,804.3m. FY26 remainder = $170,443.8m - $41,804.3m = $128,639.5m, consistent with 3.1% growth on FY25's $124,824m remaining sales. Contribution versus prior Q4 actual = $41,804.3m - $38,198.0m = +$3,606.3m.",
+          "projected_change": 3606.3,
+          "evidence_urls": [
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985",
+            "https://ir.homedepot.com/news-releases/2025/05-20-2025-110127912"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "sales volume",
+          "transmission_path": "Peer commentary on delayed large DIY projects -> potential market demand -> Home Depot comparable-sales volume -> net sales.",
+          "assumptions": [
+            "The cautious housing/DIY backdrop was explicitly contemplated in February 24 FY26 guidance.",
+            "No Home Depot-specific sales, share, pricing or cost change was disclosed after guidance."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. No change to FY guidance or Q1 phasing: the event corroborates, rather than revises, management's stated expectation of persistent housing and home-improvement pressure. Incremental Q1 sales effect = $0m.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.investing.com/news/stock-market-news/lowes-beats-quarterly-sales-estimates-4523692",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "sales volume",
+          "transmission_path": "Improved February existing-home-sales pace and lower mortgage-rate response -> modestly better project initiation/turnover-related demand -> comparable-sales volume -> net sales.",
+          "assumptions": [
+            "The 1.7% month-over-month improvement is only a small positive because sales remained 1.4% below the prior-year pace.",
+            "Only a short portion of Q1 demand is affected; the estimated effect is deliberately small and is partly offset by E6 and E10."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Apply unchanged guidance first; then add a modest February demand read-through. Estimated Q1 sales lift = $39,856m prior-year Q1 sales base × 0.025% = +$10m.",
+          "projected_change": 10,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-29d84f7fa22d4b8ccc2d2906e9e58618"
+          ]
+        },
+        {
+          "event_id": "E3",
+          "affected_line": "sales capacity, operating expense and capex",
+          "transmission_path": "Planned store openings -> selling capacity and fulfillment reach -> net sales; startup labor, occupancy and depreciation affect profit rather than net sales directly.",
+          "assumptions": [
+            "The 12 disclosed U.S. openings are within, not above, management's FY26 plan for approximately 15 new Home Depot stores.",
+            "Any Q1 openings and associated sales were already included in the GUIDANCE new-store/branch contribution."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. The announcement changes the disclosed geographic rollout but does not increase the approximately 15-store FY plan. Incremental sales relative to GUIDANCE = 0 stores × incremental sales per store = $0m; avoid double counting planned capacity.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-adds-12-new-stores-across-eight-states-its-us-footprint",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E4",
+          "affected_line": "interest expense and housing-sensitive sales volume",
+          "transmission_path": "Unchanged policy rate -> no discrete change in borrowing costs; continued mortgage-rate environment could affect housing demand -> sales.",
+          "assumptions": [
+            "The FY26 guide already assumed persistent housing pressure and approximately $2.3bn net interest expense.",
+            "No Home Depot debt repricing, mortgage-rate shock or revised company outlook was disclosed."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. The March hold does not alter the guided interest or demand run rate. Incremental Q1 sales effect = $0m.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E5",
+          "affected_line": "selling price, sales volume and COGS",
+          "transmission_path": "Metal tariffs -> supplier input costs -> partial retail price pass-through and some unit-demand friction -> net sales; residual unpassed cost flows to COGS and gross margin.",
+          "assumptions": [
+            "The April 6 effective date places roughly four weeks of the tariff regime inside Q1, limiting realization.",
+            "A small price pass-through exceeds the immediate volume offset in sales dollars; cost pressure itself is principally an EPS issue.",
+            "This is incremental to broad tariff risk already disclosed in guidance because the scope/rate change was announced after guidance."
+          ],
+          "calculation": "MIXED ROUTE. Timed Q1 price component: estimated +0.05% on the $39,856m Q1 FY25 sales base = about +$20m. The recurring cost component is handled in EPS, not re-counted in sales. Net-sales contribution = +$20m.",
+          "projected_change": 20,
+          "evidence_urls": [
+            "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+          ]
+        },
+        {
+          "event_id": "E6",
+          "affected_line": "sales volume",
+          "transmission_path": "March existing-home-sales decline and reduced NAR 2026 outlook -> fewer turnover-linked remodeling projects -> lower comparable-sales volume -> net sales.",
+          "assumptions": [
+            "The report is an incremental deterioration after FY26 guidance, but it does not justify a wholesale reset because management had already assumed a frozen housing market.",
+            "Estimated impact is concentrated in late Q1 and affects larger discretionary projects most directly."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Add a late-quarter demand haircut after unchanged guided phasing: $39,856m prior-year Q1 sales base × (-0.15%) = approximately -$60m.",
+          "projected_change": -60,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-ab4093a542fd4c6f8e97b311c4873364"
+          ]
+        },
+        {
+          "event_id": "E7",
+          "affected_line": "fulfillment productivity, COGS, operating expense, capex and working capital",
+          "transmission_path": "Warehouse automation technology -> faster picks/fewer touches and better inventory availability -> future COGS/SG&A productivity and potential sales conversion; implementation spending -> capex/depreciation.",
+          "assumptions": [
+            "Home Depot disclosed pilot outcomes but no purchase price, rollout timetable, Q1 deployment scope or quantified financial benefit.",
+            "Any immediate acquisition accounting or integration effect is not defensibly measurable from the disclosure."
+          ],
+          "calculation": "MIXED ROUTE. Possible benefits are recurring but implementation timing is unknown; no defensible Q1 realized sales amount exists. Incremental Q1 net-sales contribution = $0m.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-acquires-simpl-automation-accelerate-supply-chain-automation-and-enhance"
+          ]
+        },
+        {
+          "event_id": "E8",
+          "affected_line": "interest expense, energy/input cost and housing-sensitive sales volume",
+          "transmission_path": "Unchanged policy rate and elevated energy-price uncertainty -> no mechanical debt-cost change; possible consumer and freight pressure -> sales and costs.",
+          "assumptions": [
+            "The rate hold itself is already consistent with guided net interest expense.",
+            "No quantifiable change in Home Depot's financing cost, fuel cost, or customer demand occurred solely because of this statement; E10 captures observable April retail-demand weakness."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Do not stack a second macro impact on E4 or E10. Incremental Q1 net-sales contribution = $0m.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+          ]
+        },
+        {
+          "event_id": "E9",
+          "affected_line": "acquisition sales, COGS, operating expense, depreciation and working capital",
+          "transmission_path": "Mingledorff's acquisition -> acquired HVAC distribution revenue and costs -> consolidated sales and operating profit after closing.",
+          "assumptions": [
+            "The transaction completed May 11, 2026, after the assumed Q1 fiscal close; therefore revenue and purchase-accounting effects are outside Q1.",
+            "Financial terms and acquired revenue were not disclosed, so no reliable quantitative effect could be estimated even for later periods."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Q1 guidance is first interpolated unchanged; the acquisition close occurred after the target-quarter recognition period. Q1 net-sales contribution = $0m.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://ir.homedepot.com/tools/viewpdf.aspx?page=%7BBF2A4F0E-C2C2-438C-8DE5-B6789F371203%7D"
+          ]
+        },
+        {
+          "event_id": "E10",
+          "affected_line": "sales volume and customer mix",
+          "transmission_path": "Weak April building-material/garden sales and higher gasoline burden -> reduced discretionary/home-improvement spend -> lower comparable-sales volume and mix -> net sales.",
+          "assumptions": [
+            "The category statistic is not a direct Home Depot comp and is used only as a directional late-quarter indicator.",
+            "The estimated effect is incremental to guidance and E6, with no separate gasoline-cost pass-through modeled in revenue."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Estimated April sales shortfall = $39,856m prior-year Q1 sales base × (-0.13%) = approximately -$50m.",
+          "projected_change": -50,
+          "evidence_urls": [
+            "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead"
+          ]
+        }
+      ]
+    },
+    {
+      "metric": "Adjusted diluted EPS",
+      "unit": "USD / share",
+      "projected_change": 0.94,
+      "direction": "increase",
+      "metric_total_calculation": "Basis: prior reported actual is Q4 fiscal 2025 adjusted diluted EPS of $2.72; target is standalone Q1 fiscal 2026 adjusted diluted EPS. The adjustment excludes acquired-intangible amortization net of tax, consistent with Home Depot's definition. GUIDANCE midpoint is FY26 adjusted EPS = $14.69 × 1.02 = $14.984. Period alignment uses a 24.55% Q1 share of FY adjusted EPS, modestly above Q1 FY25's 24.23% share because Q1 includes spring selling leverage: $14.984 × 24.55% = $3.678, leaving $11.306 for Q2-Q4 and reconciling to FY midpoint. News EPS increment = E2 +$0.001 + E5 ($0.008) + E6 ($0.006) + E10 ($0.005) = ($0.018), with all other events $0. Forecast = $3.678 - $0.018 = $3.660. Change versus Q4 FY25 actual = $3.660 - $2.720 = +$0.940 per share.",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "sales volume, gross margin, operating expense, interest expense, tax and diluted share count",
+          "transmission_path": "Guided sales and adjusted operating margin -> adjusted operating income -> less guided interest expense -> pre-tax income -> tax at 24.3% -> adjusted net income / diluted shares -> adjusted diluted EPS.",
+          "assumptions": [
+            "Use the midpoint of flat-to-4.0% FY26 adjusted EPS growth: 2.0%.",
+            "Q1 is assigned 24.55% of FY adjusted EPS, based on Q1 FY25's 24.23% share and modest spring-season operating leverage; this is a phasing assumption, not explicit quarterly guidance.",
+            "FY26 guidance already includes approximately 12.8%-13.0% adjusted operating margin, $2.3bn net interest expense, 24.3% effective tax rate and expected acquired-intangible amortization treatment."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. FY adjusted EPS = $14.69 × 1.02 = $14.984. Q1 guided EPS = $14.984 × 24.55% = $3.678. Remaining FY adjusted EPS = $14.984 - $3.678 = $11.306 for Q2-Q4. Contribution versus Q4 FY25 = $3.678 - $2.720 = +$0.958, rounded to +$0.96.",
+          "projected_change": 0.958,
+          "evidence_urls": [
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985",
+            "https://ir.homedepot.com/news-releases/2025/05-20-2025-110127912"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "sales volume, gross margin and operating expense",
+          "transmission_path": "Cautious peer industry outlook -> possible lower project demand -> revenue and operating leverage -> pre-tax income -> adjusted EPS.",
+          "assumptions": [
+            "Home Depot's FY26 guidance explicitly already assumed ongoing housing and consumer pressure.",
+            "No Home Depot-specific financial effect was quantified."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Narrative confirmation only; no incremental adjusted operating income, tax or EPS change. Q1 adjusted-EPS contribution = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.investing.com/news/stock-market-news/lowes-beats-quarterly-sales-estimates-4523692",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "sales volume",
+          "transmission_path": "Slightly better February housing turnover -> modest sales gain -> adjusted operating income at guided adjusted margin -> after-tax income / diluted shares -> adjusted EPS.",
+          "assumptions": [
+            "Incremental sales are $10m as estimated in the net-sales bridge.",
+            "Use 12.9% guided adjusted operating margin midpoint, 24.3% tax rate and approximately 996m diluted shares.",
+            "No change is assumed to interest, tax rate, intangible amortization or share count."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. EPS = [$10m × 12.9% × (1 - 24.3%)] / 996m = +$0.001 per share.",
+          "projected_change": 0.001,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-29d84f7fa22d4b8ccc2d2906e9e58618",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E3",
+          "affected_line": "sales capacity, startup labor, occupancy, depreciation and capex",
+          "transmission_path": "New stores -> sales and startup cost/depreciation -> operating income -> adjusted EPS.",
+          "assumptions": [
+            "The 12-store announcement is within the approximately 15-store FY guidance plan.",
+            "The GUIDANCE EPS bridge already includes guided sales growth, operating margin and capex-related investment assumptions."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. No increment to guided operating income or adjusted EPS; avoid duplicating planned openings. Q1 adjusted-EPS contribution = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-adds-12-new-stores-across-eight-states-its-us-footprint",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E4",
+          "affected_line": "interest expense",
+          "transmission_path": "Unchanged federal-funds target -> no discrete borrowing-rate reset -> net interest expense -> pre-tax income -> adjusted EPS.",
+          "assumptions": [
+            "Management's $2.3bn FY net-interest-expense guidance already reflects its expected rate environment.",
+            "No company-specific debt issuance, refinancing or floating-rate exposure change was disclosed."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Interest-expense change = $0m; after-tax earnings change = $0m; Q1 adjusted-EPS contribution = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E5",
+          "affected_line": "COGS, selling price and gross margin",
+          "transmission_path": "Tariffs -> higher metal-related supplier cost -> partial vendor/sourcing mitigation and consumer price pass-through -> residual COGS increase -> lower adjusted operating income -> after-tax income / diluted shares -> adjusted EPS.",
+          "assumptions": [
+            "The tariff starts April 6, so only roughly four weeks are recognized in Q1.",
+            "Estimated $20m price-related sales lift is in E5 net sales, but a $10m residual Q1 adjusted operating-income cost remains after pass-through and mitigation.",
+            "Use 24.3% tax rate and 996m diluted shares; acquired-intangible amortization exclusion is unaffected."
+          ],
+          "calculation": "MIXED ROUTE. Timed Q1 residual adjusted operating-income effect = -$10m. EPS = [-$10m × (1 - 24.3%)] / 996m = -$0.008 per share.",
+          "projected_change": -0.008,
+          "evidence_urls": [
+            "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E6",
+          "affected_line": "sales volume and operating leverage",
+          "transmission_path": "Weaker March housing turnover -> lower large-project sales -> reduced adjusted operating income at marginal adjusted margin -> after-tax income / diluted shares -> adjusted EPS.",
+          "assumptions": [
+            "Incremental Q1 sales impact is -$60m.",
+            "Use the guided 12.9% adjusted operating-margin midpoint as the marginal profit conversion; no incremental interest or tax-rate change."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. EPS = [-$60m × 12.9% × (1 - 24.3%)] / 996m = -$0.006 per share.",
+          "projected_change": -0.006,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-ab4093a542fd4c6f8e97b311c4873364",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E7",
+          "affected_line": "COGS, labor cost, operating expense, capex and depreciation",
+          "transmission_path": "Automation pilot/technology acquisition -> future fulfillment productivity and inventory availability -> COGS/SG&A; purchase/integration and capital deployment -> depreciation -> adjusted EPS.",
+          "assumptions": [
+            "No disclosed transaction value, implementation schedule or Q1 run-rate savings supports a measurable income-statement impact.",
+            "Potential benefits are expected to be back-end loaded rather than immediately recognized."
+          ],
+          "calculation": "MIXED ROUTE. No defensible discrete Q1 acquisition charge or recurring realized productivity benefit can be measured. Adjusted operating-income effect = $0m; Q1 adjusted-EPS contribution = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-acquires-simpl-automation-accelerate-supply-chain-automation-and-enhance"
+          ]
+        },
+        {
+          "event_id": "E8",
+          "affected_line": "interest expense, energy/input cost and sales volume",
+          "transmission_path": "Rate hold and energy-driven uncertainty -> potential financing and freight/demand effects -> operating income or interest expense -> adjusted EPS.",
+          "assumptions": [
+            "Do not double count E4's unchanged-policy-rate conclusion.",
+            "No quantifiable Home Depot interest, fuel or freight expense change was disclosed; E10 captures the observable consumer-demand read-through."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. No measured incremental pre-tax income effect is supportable. Q1 adjusted-EPS contribution = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+          ]
+        },
+        {
+          "event_id": "E9",
+          "affected_line": "acquisition revenue, COGS, operating expense, depreciation, intangible amortization and interest expense",
+          "transmission_path": "Mingledorff's closing -> post-close consolidated operating income and acquisition accounting -> GAAP earnings; intangible amortization is excluded from adjusted EPS but other acquired profit/loss is included.",
+          "assumptions": [
+            "Closing occurred May 11, after the Q1 fiscal close, so neither acquired results nor acquisition accounting belongs in target-quarter adjusted EPS.",
+            "Financial terms were not disclosed."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Recognition date is outside Q1; Q1 adjusted operating-income, interest and adjusted-EPS effect = $0.000.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://ir.homedepot.com/tools/viewpdf.aspx?page=%7BBF2A4F0E-C2C2-438C-8DE5-B6789F371203%7D"
+          ]
+        },
+        {
+          "event_id": "E10",
+          "affected_line": "sales volume, customer mix and operating leverage",
+          "transmission_path": "Slow April building-material/garden spending and higher gasoline burden -> lower discretionary demand -> lower sales and adjusted operating income -> after-tax income / diluted shares -> adjusted EPS.",
+          "assumptions": [
+            "Incremental Q1 sales impact is -$50m.",
+            "Use 12.9% marginal adjusted operating margin, 24.3% tax rate and 996m diluted shares.",
+            "No separate fuel-cost effect is added because it cannot be quantified without double counting tariff/energy effects."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. EPS = [-$50m × 12.9% × (1 - 24.3%)] / 996m = -$0.005 per share.",
+          "projected_change": -0.005,
+          "evidence_urls": [
+            "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        }
+      ]
+    },
+    {
+      "metric": "Comparable sales, total company",
+      "unit": "%",
+      "projected_change": 0.35,
+      "direction": "increase",
+      "metric_total_calculation": "Basis: prior reported actual is Q4 fiscal 2025 total-company comparable sales of 0.4%. Target is Q1 fiscal 2026 standalone comparable sales, a growth rate; projected_change is therefore percentage points versus Q4, not a percent change in the comp rate. GUIDANCE midpoint is 1.0% FY26 comp growth. Period alignment uses a 1.2% Q1 comp assumption because spring selling is seasonally more important; this reconciles to FY midpoint because a 24% Q1 sales weight implies remaining-quarter sales-weighted comp of approximately 0.94%: [1.0% - (24% × 1.2%)] / 76% = 0.94%. Incremental news effects are E2 +0.05ppt, E5 +0.05ppt, E6 -0.25ppt and E10 -0.30ppt, totaling -0.45ppt. Forecast Q1 comp = 1.20% - 0.45% = 0.75%. Change versus Q4 actual = 0.75% - 0.40% = +0.35 percentage points.",
+      "event_contributions": [
+        {
+          "event_id": "GUIDANCE",
+          "affected_line": "comparable sales volume, selling price and mix",
+          "transmission_path": "Guided market-share gains and continued pressure in housing-linked projects -> comparable transaction and ticket growth -> total-company comparable sales.",
+          "assumptions": [
+            "Use the 1.0% midpoint of the FY flat-to-2.0% comparable-sales range.",
+            "Q1 receives a 1.2% comp assumption due to spring seasonality; the required remaining-quarter sales-weighted comp is 0.94%, so the FY midpoint remains intact.",
+            "New stores, GMS and acquisitions are excluded from comparable sales and therefore do not enter this metric."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Q1 target comp = 1.20%. Contribution versus Q4 FY25 comp of 0.40% = 1.20% - 0.40% = +0.80 percentage points.",
+          "projected_change": 0.8,
+          "evidence_urls": [
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985",
+            "https://ir.homedepot.com/news-releases/2025/05-20-2025-110127912"
+          ]
+        },
+        {
+          "event_id": "E1",
+          "affected_line": "comparable sales volume and project mix",
+          "transmission_path": "Cautious DIY/remodeling outlook -> potentially fewer large projects -> comp transaction and ticket growth.",
+          "assumptions": [
+            "Management already embedded persistent housing and consumer pressure in guidance.",
+            "The peer outlook does not provide a Home Depot-specific incremental volume or pricing signal."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Confirmation of guided macro narrative; Q1 comp increment = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.investing.com/news/stock-market-news/lowes-beats-quarterly-sales-estimates-4523692",
+            "https://ir.homedepot.com/news-releases/2026/02-24-2026-110040985"
+          ]
+        },
+        {
+          "event_id": "E2",
+          "affected_line": "comparable sales volume",
+          "transmission_path": "February improvement in existing-home sales -> modest turnover-related home-improvement demand -> comparable-sales volume -> total-company comp.",
+          "assumptions": [
+            "Month-over-month improvement is positive but the year-over-year decline limits the effect.",
+            "Estimated benefit is short-lived and partially reversed by E6."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Assign a +0.05 percentage-point Q1 comp lift for the February housing read-through.",
+          "projected_change": 0.05,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-29d84f7fa22d4b8ccc2d2906e9e58618"
+          ]
+        },
+        {
+          "event_id": "E3",
+          "affected_line": "new-store sales capacity",
+          "transmission_path": "New stores increase total sales but are excluded from the comparable-store base until eligible; therefore they do not directly change current-quarter comparable sales.",
+          "assumptions": [
+            "The openings were already contemplated in guidance.",
+            "No evidence indicates changes to eligibility rules or a material effect on existing-store cannibalization."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. New-store sales are non-comparable and already in total-sales guidance. Q1 comp increment = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-adds-12-new-stores-across-eight-states-its-us-footprint"
+          ]
+        },
+        {
+          "event_id": "E4",
+          "affected_line": "housing-sensitive comparable sales volume",
+          "transmission_path": "Unchanged policy rate -> no discrete change in mortgage-sensitive project demand beyond the pressure already embedded in guidance -> comp.",
+          "assumptions": [
+            "No new Home Depot demand indicator or change in mortgage affordability was quantified in the release."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. No incremental Q1 total-company comp effect = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm"
+          ]
+        },
+        {
+          "event_id": "E5",
+          "affected_line": "selling price and comparable sales volume",
+          "transmission_path": "Tariff-driven costs -> partial price pass-through on comparable merchandise -> higher ticket, partly offset by demand elasticity -> comparable sales.",
+          "assumptions": [
+            "Only approximately four Q1 weeks are exposed after the April 6 effective date.",
+            "A limited price contribution is assumed; no broad-based inflationary comp uplift is assumed because volume elasticity offsets most of it."
+          ],
+          "calculation": "MIXED ROUTE. Timed price component adds an estimated +0.05 percentage points to Q1 total-company comp; the residual cost effect is captured in EPS.",
+          "projected_change": 0.05,
+          "evidence_urls": [
+            "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/"
+          ]
+        },
+        {
+          "event_id": "E6",
+          "affected_line": "comparable sales volume and large-project mix",
+          "transmission_path": "March home-sales decline and lower NAR outlook -> fewer housing-turnover-linked projects -> lower comparable transactions/ticket in discretionary categories -> comp.",
+          "assumptions": [
+            "This is incremental to guidance but not a full reset because guidance already anticipated a frozen housing market.",
+            "Estimated impact is focused on late-Q1 large-project demand."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Assign a -0.25 percentage-point Q1 comp effect, consistent with the estimated -$60m sales effect on a roughly $40bn quarter.",
+          "projected_change": -0.25,
+          "evidence_urls": [
+            "https://apnews.com/article/housing-home-sales-real-estate-home-prices-ab4093a542fd4c6f8e97b311c4873364"
+          ]
+        },
+        {
+          "event_id": "E7",
+          "affected_line": "in-stock availability and fulfillment conversion",
+          "transmission_path": "Automation capability -> future inventory availability and delivery conversion -> possible future comparable sales; implementation timing is uncertain.",
+          "assumptions": [
+            "The disclosure reports pilot benefits but no Q1 deployed scale or same-store sales effect."
+          ],
+          "calculation": "MIXED ROUTE. No supportable realized Q1 comparable-sales effect; increment = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://corporate.homedepot.com/news/company/home-depot-acquires-simpl-automation-accelerate-supply-chain-automation-and-enhance"
+          ]
+        },
+        {
+          "event_id": "E8",
+          "affected_line": "comparable sales volume and selling price",
+          "transmission_path": "Continued energy-price uncertainty -> consumer purchasing power and project timing -> comp; rate hold -> financing conditions.",
+          "assumptions": [
+            "No measured incremental Home Depot comp impact is provided.",
+            "Avoid overlap with E4, E6 and E10."
+          ],
+          "calculation": "ANNUAL/RUN-RATE ROUTE. Q1 comp increment = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm"
+          ]
+        },
+        {
+          "event_id": "E9",
+          "affected_line": "acquired sales",
+          "transmission_path": "Post-close acquired HVAC distribution sales -> total sales, but not current-quarter Home Depot comparable sales.",
+          "assumptions": [
+            "Closing was after Q1 fiscal close.",
+            "Acquired operations are not assumed to enter comparable sales immediately."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Transaction is outside Q1 and does not affect target-period comp. Increment = 0.00 percentage points.",
+          "projected_change": 0,
+          "evidence_urls": [
+            "https://ir.homedepot.com/tools/viewpdf.aspx?page=%7BBF2A4F0E-C2C2-438C-8DE5-B6789F371203%7D"
+          ]
+        },
+        {
+          "event_id": "E10",
+          "affected_line": "comparable sales volume and customer mix",
+          "transmission_path": "Slow April building-material/garden retail sales and gasoline-budget pressure -> lower comparable transaction volume and discretionary project mix -> total-company comp.",
+          "assumptions": [
+            "Government retail category data is an imperfect proxy for Home Depot, so the impact is conservatively sized.",
+            "This is incremental to the March housing effect in E6 and not an additional energy-cost margin adjustment."
+          ],
+          "calculation": "DISCRETE/TIMED ROUTE. Assign a -0.30 percentage-point Q1 comp effect for the weak April category signal and fuel-budget pressure.",
+          "projected_change": -0.3,
+          "evidence_urls": [
+            "https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead"
+          ]
+        }
+      ]
+    }
+  ],
+  "target_report_date": "2026-05-19",
+  "previous_period": "Q4 2025",
+  "previous_report_date": "2026-02-24",
+  "report_context_file": "data/backtest/earnings_Home_Depot_Q1_2026.json",
+  "guidance_file": "data/backtest/guidance_Home_Depot_Q4_2025.txt",
+  "news_file": "data/backtest/news_Home_Depot_2026-02-25_to_2026-05-18.txt",
+  "predicted_changes": {
+    "Net sales": {
+      "predicted_change": 3526.3,
+      "unit": "USDm"
+    },
+    "Adjusted diluted EPS": {
+      "predicted_change": 0.94,
+      "unit": "USD / share"
+    },
+    "Comparable sales, total company": {
+      "predicted_change": 0.35,
+      "unit": "%"
+    }
+  },
+  "predicted_values": {
+    "Net sales": {
+      "predicted_value": 41724.3,
+      "unit": "USDm"
+    },
+    "Adjusted diluted EPS": {
+      "predicted_value": 3.66,
+      "unit": "USD / share"
+    },
+    "Comparable sales, total company": {
+      "predicted_value": 0.75,
+      "unit": "%"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Revenue": {
+    "predicted_value": 3500.0,
+    "unit": "USDm"
+  },
+  "Adjusted diluted EPS": {
+    "predicted_value": 2.88,
+    "unit": "USD / share"
+  },
+  "Adjusted gross margin": {
+    "predicted_value": 72.2,
+    "unit": "%"
+  }
+}

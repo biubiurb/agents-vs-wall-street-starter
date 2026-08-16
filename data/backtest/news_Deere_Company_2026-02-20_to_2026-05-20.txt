@@ -1,0 +1,104 @@
+EARNINGS-RELEVANT NEWS: Deere & Company
+DATE RANGE: 2026-02-20 to 2026-05-20 (inclusive)
+
+RELEASE TIME: 2026-02-20
+NEWS SOURCE: The White House (government_regulator)
+SOURCE URL: https://www.whitehouse.gov/presidential-actions/2026/02/imposing-a-temporary-import-surcharge-to-address-fundamental-international-payments-problems/
+
+HEADLINE: U.S. imposes temporary 10% import surcharge
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): COGS, inventory and working capital, net sales and revenues, operating profit, operating cash flow
+WHY IT COULD AFFECT EARNINGS: The proclamation imposed a 10% ad valorem surcharge on most imported articles effective February 24, 2026. Deere's global manufacturing supply chain may face higher landed costs for affected components and finished goods, pressuring COGS and inventory cash requirements; passing costs through could affect equipment pricing, volumes, and net sales.
+CONTENT (Summary from accessible article): The White House proclaimed a temporary 10% import surcharge on most imported articles for 150 days, effective February 24, 2026, in addition to applicable duties except where specified.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-02
+NEWS SOURCE: The White House (government_regulator)
+SOURCE URL: https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/
+
+HEADLINE: U.S. modifies Section 232 tariffs on steel, aluminum, and copper derivative products
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): COGS, inventory and working capital, net sales and revenues, operating profit, operating cash flow
+WHY IT COULD AFFECT EARNINGS: The revised metal-tariff regime applied duties to the full customs value of covered derivative articles and changed product coverage, effective April 6. Deere is a large user of steel, aluminum, copper, components, and globally sourced machinery; affected imports can raise input and landed-product costs, potentially requiring price actions or absorbing margin pressure.
+CONTENT (Summary from accessible article): The proclamation revised tariff treatment for covered steel, aluminum, and copper articles and derivatives. It provided a 25% rate for certain derivative products and maintained other higher rates, while modifying the derivative-product scope effective April 6, 2026.
+
+========================================================================================
+
+RELEASE TIME: 2026-02-25T16:45:00Z
+NEWS SOURCE: Deere & Company (official_company)
+SOURCE URL: https://www.prnewswire.com/news-releases/deere--company-announces-quarterly-dividend-302697287.html
+
+HEADLINE: Deere & Company declares quarterly dividend of $1.62 per share
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): cash and cash equivalents, financing cash flows, stockholders' equity and retained earnings
+WHY IT COULD AFFECT EARNINGS: The declared dividend commits Deere to a material shareholder cash distribution payable May 8, 2026. It reduces cash available for working capital, capex, debt reduction, or repurchases and is reflected in financing cash outflows and equity when recognized.
+CONTENT (Summary from accessible article): Deere's board declared a quarterly dividend of $1.62 per share, payable May 8, 2026, to shareholders of record on March 31, 2026.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-31
+NEWS SOURCE: USDA National Agricultural Statistics Service (government_regulator)
+SOURCE URL: https://www.nass.usda.gov/Newsroom/2026/03-31-2026.php
+
+HEADLINE: USDA: farmers intend to plant less corn and more soybeans in 2026
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): Production & Precision Agriculture net sales, Small Agriculture & Turf net sales, inventory and working capital, operating profit
+WHY IT COULD AFFECT EARNINGS: Lower intended corn acreage and higher soybean acreage alter the expected mix and timing of planting, spraying, harvesting, and precision-ag activity among Deere's core customers. This can change unit demand and product mix, dealer inventory turns, and segment operating leverage even if total planted acreage remains substantial.
+CONTENT (Summary from accessible article): USDA reported intended 2026 U.S. corn plantings of 95.3 million acres, down 3% year over year, and soybean plantings of 84.7 million acres, up 4%. All-wheat planted area was forecast down 3%.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-07
+NEWS SOURCE: USDA Economic Research Service (government_regulator)
+SOURCE URL: https://www.ers.usda.gov/topics/farm-economy/farm-sector-income-finances/highlights-from-the-farm-income-forecast
+
+HEADLINE: USDA forecasts mixed 2026 farm-income outlook, with lower net farm income but higher cash income
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): net sales and revenues, financial-services receivables, provision for credit losses, dealer inventory and working capital, operating cash flow
+WHY IT COULD AFFECT EARNINGS: Farm profitability and liquidity are central to equipment replacement demand and borrowers' ability to service Deere Financial obligations. USDA's forecast of slightly lower net farm income and lower farm working capital indicates continued capital-spending and credit risk, while higher net cash income provides a partial offset.
+CONTENT (Summary from accessible article): USDA forecast 2026 nominal net farm income of $153.4 billion, down 0.7% from 2025, while nominal net cash farm income was forecast to rise 3.0% to $158.5 billion. Farm-sector working capital was forecast to decrease 9.2% and debt to increase 5.2%.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-12
+NEWS SOURCE: USDA World Agricultural Outlook Board (government_regulator)
+SOURCE URL: https://esmis.nal.usda.gov/sites/default/release-files/795903/wasde0526v2.pdf
+
+HEADLINE: USDA's initial 2026/27 crop outlook projects higher corn and soybean farm prices
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): Production & Precision Agriculture net sales, net sales and revenues, financial-services receivables, provision for credit losses, operating profit
+WHY IT COULD AFFECT EARNINGS: Higher expected crop prices can improve growers' prospective cash receipts and willingness to replace equipment, supporting Deere's large-agriculture volumes and financing quality. The outlook is mixed because it also assumes lower U.S. corn production and exports, so the ultimate effect on customer cash flow and equipment demand remains crop-, region-, and execution-dependent.
+CONTENT (Summary from accessible article): USDA's initial 2026/27 outlook projected U.S. corn prices of $4.40 per bushel versus $4.15 in 2025/26 and soybean prices of $11.40 per bushel versus $10.40. It projected lower U.S. corn production and exports, while forecasting higher soybean output, crush, and exports.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-27
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.investing.com/news/economy-news/trump-says-he-wants-deere-caterpillar-to-cut-farmers-tractor-costs-4585668
+
+HEADLINE: Trump announces farmer support measures and calls on tractor makers to lower prices
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): net sales and revenues, selling prices and operating profit, financial-services receivables, provision for credit losses, operating cash flow
+WHY IT COULD AFFECT EARNINGS: The reported $12 billion farmer-aid program and planned loan guarantees can support customer liquidity, equipment affordability, and finance-credit performance. Offsetting that support, the public call for lower tractor prices and reported increases in fertilizer and diesel costs could constrain Deere pricing and farmers' capital-spending capacity.
+CONTENT (Summary from accessible article): Reuters reported that the administration was distributing $12 billion in aid to farmers, planned additional loan guarantees, and urged equipment manufacturers including Deere to lower prices. The report also cited higher fertilizer and diesel costs and continued trade uncertainty for growers.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-07T16:04:47Z
+NEWS SOURCE: Associated Press (national_general_news)
+SOURCE URL: https://apnews.com/article/john-deere-repair-lawsuit-settlement-595d4b089689cd94418991326275b68d
+
+HEADLINE: Deere agrees to proposed $99 million right-to-repair class-action settlement
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): selling, administrative and general expenses, accrued liabilities, operating cash flow, net income, EPS, aftermarket revenue
+WHY IT COULD AFFECT EARNINGS: The proposed settlement creates a direct $99 million cash obligation, subject to court approval, and may require related legal and administrative costs. The accompanying commitment around repair tools could also affect longer-term service and dealer-related aftermarket economics.
+CONTENT (Summary from accessible article): AP reported that Deere agreed to place $99 million into a proposed settlement fund for customers who paid Deere or authorized dealers for certain large-agriculture-equipment repairs. Deere denied wrongdoing; the settlement still required court approval.

@@ -1,0 +1,130 @@
+EARNINGS-RELEVANT NEWS: Home Depot
+DATE RANGE: 2026-02-25 to 2026-05-18 (inclusive)
+
+RELEASE TIME: 2026-04-02
+NEWS SOURCE: The White House (government_regulator)
+SOURCE URL: https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/
+
+HEADLINE: U.S. strengthens aluminum, steel and copper tariff regimes, including 50% duties for covered products
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, gross margin, operating expense, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The proclamation increased or broadened duties on covered aluminum, steel, copper and derivative goods effective April 6. These materials and products are relevant to Home Depot’s tools, hardware, building-material and appliance assortment; higher supplier or direct-import costs can raise COGS, pressure margin if not passed through, alter pricing and demand, and require more inventory working capital.
+CONTENT (Summary from accessible article): The White House proclamation applied duties to the full customs value of covered imports beginning April 6, 2026. It set a 50% additional ad valorem duty for many listed aluminum, steel, copper and derivative articles, with specified lower rates and exclusions for certain products.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-11
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://ir.homedepot.com/news-releases/2026/05-11-2026-133053552
+
+HEADLINE: SRS Distribution completes acquisition of HVAC distributor Mingledorff’s
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating expense, depreciation, impairment, working capital, capex, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The completed acquisition adds an HVAC wholesale distributor with 42 locations in five Southeastern states to Home Depot subsidiary SRS. Consolidation expands Pro-category sales and customer reach, while bringing acquisition cash use, inventory and receivables, integration expense, possible purchase-accounting depreciation/amortization, and execution or impairment risk.
+CONTENT (Summary from accessible article): SRS Distribution, a Home Depot subsidiary, completed its acquisition of Mingledorff’s, an HVAC equipment, parts and supplies distributor serving residential and commercial customers through 42 locations in five Southeastern states. Home Depot said HVAC distribution adds a roughly $100 billion addressable market and raises its stated total addressable market to approximately $1.2 trillion; financial terms were not disclosed.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-17
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://corporate.homedepot.com/news/company/home-depot-adds-12-new-stores-across-eight-states-its-us-footprint
+
+HEADLINE: The Home Depot adds 12 U.S. stores and more than 1.6 million square feet of retail space for 2026
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, depreciation, capex, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The planned footprint expansion creates incremental selling capacity in growth markets and improves local fulfillment, but requires pre-opening labor, occupancy, inventory and construction investment. The direct effects are higher sales capacity alongside near-term operating expense, depreciation, capex and working-capital requirements.
+CONTENT (Summary from accessible article): Home Depot announced plans for 12 new stores across eight states during 2026, representing more than 1.6 million square feet. The company said the locations would support same-day delivery and pickup, with dedicated Pro teams, tool-rental capacity and larger storage areas for online-order fulfillment.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-18T18:00:00Z
+NEWS SOURCE: Federal Reserve Board (government_regulator)
+SOURCE URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm
+
+HEADLINE: Federal Reserve holds the federal-funds target range at 3.50%–3.75%
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, interest expense, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: No policy-rate reduction prolongs relatively expensive mortgage financing and can defer home moves and large remodeling projects, a central demand driver for Home Depot. It also maintains elevated borrowing costs for the company and its Pro customers, affecting sales and potentially interest expense and cash flow.
+CONTENT (Summary from accessible article): The FOMC maintained the federal-funds target range at 3.50% to 3.75%, effective March 19, 2026.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-15
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://corporate.homedepot.com/news/company/home-depot-acquires-simpl-automation-accelerate-supply-chain-automation-and-enhance
+
+HEADLINE: The Home Depot acquires SIMPL Automation to expand distribution-center automation
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating expense, depreciation, capex, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: SIMPL’s warehouse systems are intended to increase pick speed, reduce product touches and increase storage density. If deployed across Home Depot’s network, this can improve in-stock availability and delivery-led sales while lowering fulfillment labor and handling costs; it also entails acquisition cash outflow and subsequent technology/integration investment and depreciation.
+CONTENT (Summary from accessible article): Home Depot acquired SIMPL Automation, a warehouse-automation and technology company. The company said a pilot at its Locust Grove, Georgia distribution center produced faster pick speeds and cycle times with fewer product touches, while SIMPL’s storage-and-retrieval technology could increase the density and availability of high-demand inventory.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-29T18:00:00Z
+NEWS SOURCE: Federal Reserve Board (government_regulator)
+SOURCE URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm
+
+HEADLINE: Federal Reserve again holds the federal-funds target range at 3.50%–3.75%, citing elevated energy-price-driven inflation
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating expense, interest expense, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The continued rate hold preserves mortgage-affordability pressure on home turnover and large remodeling activity. The Fed’s identification of elevated inflation partly caused by higher global energy prices also signals potential freight, delivery and consumer-budget pressure, affecting Home Depot sales, operating costs and financing costs.
+CONTENT (Summary from accessible article): The FOMC left the federal-funds target range unchanged at 3.50% to 3.75%. Its statement said economic activity was expanding at a solid pace but inflation was elevated in part because of the recent increase in global energy prices, while Middle East developments had increased economic uncertainty.
+
+========================================================================================
+
+RELEASE TIME: 2026-02-25
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.investing.com/news/stock-market-news/lowes-beats-quarterly-sales-estimates-4523692
+
+HEADLINE: Lowe’s provides cautious 2026 outlook as DIY customers delay costly remodels
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross margin, operating expense, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: Lowe’s forecast comparable sales ranging from flat to up 2% and cited stagnant housing, guarded consumer spending, tariffs and delayed large DIY projects. As Home Depot competes in the same U.S. home-improvement market, the read-through is weaker discretionary project demand and potentially more promotional competition, affecting sales, merchandise margin, inventory turns and operating leverage.
+CONTENT (Summary from accessible article): Reuters reported that Lowe’s issued a cautious 2026 outlook, with consumers postponing major kitchen, flooring and other big-ticket projects amid housing-market weakness, high rates and tariff uncertainty. The report noted that Home Depot had retained its own annual outlook but also expected housing-market pressure to persist.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-10T14:03:24Z
+NEWS SOURCE: Associated Press (national_general_news)
+SOURCE URL: https://apnews.com/article/housing-home-sales-real-estate-home-prices-29d84f7fa22d4b8ccc2d2906e9e58618
+
+HEADLINE: Existing U.S. home sales rose 1.7% in February, though remained below the prior-year pace
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: Existing-home turnover is a meaningful catalyst for move-related repair, renovation and appliance purchases. The monthly pickup modestly supports Home Depot demand, but year-over-year sales remained lower, limiting the positive read-through and leaving inventory and sales planning exposed to continued housing softness.
+CONTENT (Summary from accessible article): AP reported that February existing-home sales increased 1.7% month over month to a 4.09 million seasonally adjusted annual rate as buyers responded to easing mortgage rates. Sales were still 1.4% below February 2025, and the national median price reached a record for February.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-13
+NEWS SOURCE: Associated Press (national_general_news)
+SOURCE URL: https://apnews.com/article/housing-home-sales-real-estate-home-prices-ab4093a542fd4c6f8e97b311c4873364
+
+HEADLINE: Existing U.S. home sales fell 3.6% in March; NAR cut its 2026 sales forecast
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: Housing turnover supports purchases associated with moving, repairs and remodels. The renewed decline in sales, higher mortgage rates and reduced annual housing-sales outlook indicate a weaker demand backdrop for DIY and larger project categories, potentially slowing sales and inventory conversion.
+CONTENT (Summary from accessible article): AP reported that existing-home sales fell 3.6% in March to a 3.98 million annualized rate, the slowest pace in nine months. Mortgage rates had risen as energy prices increased, and the National Association of Realtors reduced its 2026 existing-home-sales growth forecast to 4% from 14%.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-14T12:43:30Z
+NEWS SOURCE: Associated Press (national_general_news)
+SOURCE URL: https://apnews.com/article/retail-sales-consumer-gas-iran-f77b8986d274c40b913c26ba39492ead
+
+HEADLINE: April U.S. retail sales slowed as higher gasoline costs squeezed discretionary budgets; building-material and garden sales rose only 0.1%
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating expense, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: Weak category-level growth is a direct demand indicator for Home Depot’s core market, while high fuel prices can constrain customer project budgets and raise transportation and delivery costs. The combination can slow sales and inventory turnover and pressure COGS, operating expense and cash flow.
+CONTENT (Summary from accessible article): AP, citing Commerce Department data, reported that U.S. retail sales rose 0.5% in April, slowing from March’s 1.6% increase. Building-material and garden-equipment sales increased 0.1%; the article said higher gasoline prices were consuming more household income, with the average regular-gas price at $4.53 per gallon, up $1.35 from a year earlier.

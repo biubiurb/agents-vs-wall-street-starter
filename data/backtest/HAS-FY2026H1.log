@@ -1,0 +1,14 @@
+{
+  "Net fees": {
+    "predicted_value": 451.0,
+    "unit": "GBPm"
+  },
+  "Pre-exceptional basic EPS": {
+    "predicted_value": 0.5800000000000001,
+    "unit": "GBp"
+  },
+  "Pre-exceptional operating profit": {
+    "predicted_value": 20.0,
+    "unit": "GBPm"
+  }
+}

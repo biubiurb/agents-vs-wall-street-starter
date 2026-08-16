@@ -1,0 +1,104 @@
+EARNINGS-RELEVANT NEWS: Hays plc
+DATE RANGE: 2025-02-21 to 2026-02-26 (inclusive)
+
+RELEASE TIME: 2025-06-19
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/index.php/announcement/rns/hays--has/pre-close-year-end-trading-update/8937172
+
+HEADLINE: Hays cuts FY25 profit expectation to about £45m after a broad-based deterioration in permanent recruitment
+CATEGORY: COMPANY
+IMPACT SCORE: 5/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating expense, operating profit, profit before tax, EPS, working capital, cash flow
+WHY IT COULD AFFECT EARNINGS: This was a material profit warning: Hays expected Q4 like-for-like net fees to fall 9%, including a 14% permanent-fee decline, and cut expected FY25 pre-exceptional operating profit to about £45 million. Management explicitly identified high drop-through from lower net fees because costs were largely fixed in the short term. That directly affects operating profit, profit before tax and EPS; lower temporary placements also influence working-capital movements and operating cash flow.
+CONTENT (Summary from accessible article): Hays said fourth-quarter activity had weakened sequentially, led by low client and candidate confidence and broad global weakness in permanent recruitment. It expected FY25 pre-exceptional operating profit of about £45 million, below its then company-compiled consensus of £56.4 million. Germany was expected to decline 5%, with a subdued automotive sector weighing on temp and permanent hiring; UK&I and ANZ permanent markets had also weakened.
+
+========================================================================================
+
+RELEASE TIME: 2025-08-21
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/announcement/rns/hays--has/preliminary-report-2025/9066698
+
+HEADLINE: Hays FY25 results confirm steep profit decline, restructuring charges and a revised capital-allocation framework
+CATEGORY: COMPANY
+IMPACT SCORE: 5/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating expense, exceptional items, operating profit, interest, tax, capex, working capital, debt, cash flow, EPS, dividends
+WHY IT COULD AFFECT EARNINGS: The results confirmed a 13% reported net-fee decline and 57% fall in pre-exceptional operating profit, while recording £30.7 million of exceptional restructuring and transformation charges. Closures, delayering and technology/finance transformation create near-term exceptional cash costs but are intended to reduce recurring operating expense. Refinancing, pension buy-in, revised dividend policy, expected higher FY26 technology capex, finance-charge and tax guidance affect cash flow, debt/interest, tax, EPS and shareholder distributions.
+CONTENT (Summary from accessible article): For FY25, Hays reported net fees of £972.4 million, down 13% reported and 11% like for like, and pre-exceptional operating profit of £45.6 million, down 57% reported. It recorded £30.7 million of exceptional charges, including £17.7 million for restructuring and £13.0 million for technology and finance transformation. The company completed office and business-line closures, refinanced its revolving credit facility, reduced the total dividend to 1.24p per share, and targeted a further roughly £45 million of annual structural cost savings by FY29. It said the pension buy-in would be materially positive for free cash flow from FY26.
+
+========================================================================================
+
+RELEASE TIME: 2025-04-16
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/announcement/rns/hays--has/third-quarter-trading-statement/8833190
+
+HEADLINE: Hays reports Q3 FY25 net-fee decline as permanent hiring and German automotive-linked temp demand remain weak
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating expense, operating profit, working capital, debt, cash flow
+WHY IT COULD AFFECT EARNINGS: Like-for-like group net fees fell 9%, including a 14% fall in permanent-recruitment fees; lower placement volumes and longer time-to-hire directly reduced recruitment income. Hays also indicated that its short-term cost base was only partly flexible, creating operating-profit drop-through. Consultant and back-office reductions and a lower periodic cost base partly mitigated operating expenses, while the reported net-debt position and debtor days made working capital and cash flow relevant.
+CONTENT (Summary from accessible article): Hays said Q3 FY25 group net fees declined 9% year on year on a like-for-like basis, with Temp & Contracting down 6% and Permanent down 14%. German temporary staffing remained subdued because of automotive exposure, while permanent hiring was weak amid longer hiring cycles. The company cut consultant headcount and progressed structural back-office efficiencies, reducing its periodic cost base to about £76 million, while retaining FY25 operating-profit guidance in line with consensus at that point.
+
+========================================================================================
+
+RELEASE TIME: 2025-10-10
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/announcement/rns/hays--has/first-quarter-trading-statement-/9162217
+
+HEADLINE: Hays Q1 FY26 net fees fall 8%; staffing reductions and cost actions partly offset weak permanent hiring
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating expense, operating profit, working capital, debt, cash flow
+WHY IT COULD AFFECT EARNINGS: An 8% group net-fee decline, including a 13% fall in permanent fees, directly lowers revenue/net fees. Hays responded with a 15% year-on-year reduction in consultant headcount and further structural cost actions, which lower operating expense but can incur implementation costs and constrain capacity. Reported net debt of about £40 million versus net cash at year-end makes seasonal working-capital cash movements and financing relevant.
+CONTENT (Summary from accessible article): Hays reported that Q1 FY26 group net fees fell 8% year on year on a like-for-like basis. Temp & Contracting fees declined 5% and permanent-recruitment fees fell 13%, with permanent markets still affected by longer hiring cycles. Consultant net-fee productivity increased 7%, consultant headcount fell 15% year on year, and the periodic cost base improved to about £74 million. Net debt was about £40 million at quarter-end, reflecting normal seasonal outflows and payment timing.
+
+========================================================================================
+
+RELEASE TIME: 2025-10-29
+NEWS SOURCE: Federal Ministry of Labour and Social Affairs of Germany (government_regulator)
+SOURCE URL: https://www.bmas.de/DE/Service/Presse/Pressemitteilungen/2025/mindestlohn-steigt-zum-ersten-januar-2026.html
+
+HEADLINE: German government approves increase in statutory minimum wage to €13.90 per hour from January 2026
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): COGS, revenue/sales (net fees), working capital, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: The mandated wage increase raises payroll costs for affected German temporary workers and can require higher client bill rates. Hays' ability to pass the increase through determines whether temporary-recruitment net fees/margins are preserved; timing differences can increase working-capital needs and pressure operating profit and cash flow. Germany is Hays' largest national market, making the cost/pricing transmission material enough to monitor.
+CONTENT (Summary from accessible article): Germany's cabinet approved an increase in the statutory minimum wage to €13.90 per hour from 1 January 2026, from €12.82, following the Minimum Wage Commission's recommendation. The ministry described the first-stage increase as 8.42%.
+
+========================================================================================
+
+RELEASE TIME: 2026-02-12
+NEWS SOURCE: Federal Employment Agency of Germany (government_regulator)
+SOURCE URL: https://www.arbeitsagentur.de/en/press/2026-02-year-in-review-2025
+
+HEADLINE: German Federal Employment Agency says 2025 job vacancies fell to their lowest level in 25 years
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating profit, working capital, cash flow
+WHY IT COULD AFFECT EARNINGS: Recruitment fees depend on employer vacancy creation, placements and, for temporary staffing, assignments and hours worked. The agency's evidence that German labor demand and registered vacancies declined materially signals a lower addressable volume of new placements in Hays' largest market. Lower placements and hours would reduce net fees and operating profit, while changing temporary payroll and receivables balances can affect working capital and operating cash flow.
+CONTENT (Summary from accessible article): Germany's Federal Employment Agency said labor demand continued to decline during 2025 amid weak economic development. Average registered vacancies were 632,000, down 62,000 from 2024, while total reported jobs fell to 1.461 million, the lowest level in 25 years. The agency also reported higher unemployment and an elevated use of short-time work.
+
+========================================================================================
+
+RELEASE TIME: 2026-01-14T07:34:00Z
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://ca.marketscreener.com/news/uk-recruiter-hays-posts-bigger-than-expected-drop-in-quarterly-fees-ce7e58d8dc89f52d/
+
+HEADLINE: Hays posts a larger-than-expected Q2 FY26 fee decline as German technology and engineering hiring weakens
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), operating expense, operating profit, profit before tax, EPS, working capital, cash flow
+WHY IT COULD AFFECT EARNINGS: Reuters reported a 10% second-quarter like-for-like net-fee decline, worse than the company-compiled consensus expectation, and Hays' expectation for about £20 million of first-half pre-exceptional operating profit. Weak German technology and engineering hiring reduces placement volumes in Hays' largest market; with a meaningful fixed-cost component, lower fees reduce operating profit and flow through to pre-tax profit and EPS. Lower activity can also alter temporary-worker and receivables working-capital balances.
+CONTENT (Summary from accessible article): Reuters reported that Hays' Q2 FY26 like-for-like net fees fell 10%, versus analysts' expectation of a 9% decline. The company expected pre-exceptional operating profit for the six months ended December 2025 of about £20 million, down about 21.6% year on year. Reuters attributed the quarterly weakness principally to technology and engineering hiring in Germany, amid persistently weak global hiring and delayed recruitment decisions.
+
+========================================================================================
+
+RELEASE TIME: 2025-05-12
+NEWS SOURCE: KPMG and Recruitment & Employment Confederation (local_or_other)
+SOURCE URL: https://kpmg.com/uk/en/media/press-releases/2025/05/kpmg-and-rec-uk-report-on-jobs.html
+
+HEADLINE: KPMG/REC survey reports continued UK recruitment contraction and falling vacancies in April
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales (net fees), COGS, operating profit
+WHY IT COULD AFFECT EARNINGS: The survey covered UK recruitment consultancies and reported declines in both permanent placements and temporary billings, alongside another sharp fall in vacancies. That is a direct demand indicator for Hays' UK&I placement and temp income. It also reported faster temporary-pay growth, which can pressure temporary-staffing spreads and therefore net fees or operating profit where higher worker costs cannot be passed through promptly.
+CONTENT (Summary from accessible article): The KPMG/REC UK Report on Jobs said recruitment activity remained weak in April 2025: permanent placements and temporary billings both declined, while demand for workers and vacancies fell further. Recruiters cited weak employer confidence and tighter hiring budgets. Temporary-pay growth accelerated to an 11-month high, with respondents pointing to recent minimum-wage increases.

@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-02-27",
+  "target_period": "H1 2026",
+  "previous_report_date": "2025-02-20",
+  "previous_period": "H1 2025",
+  "previous_actuals": [
+    {
+      "metric": "Net fees",
+      "unit": "GBPm",
+      "value": 496.0,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY25/Hays%20H1%2025%20FINAL.pdf"
+    },
+    {
+      "metric": "Pre-exceptional basic EPS",
+      "unit": "GBp",
+      "value": 0.81,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY25/Hays%20H1%2025%20FINAL.pdf"
+    },
+    {
+      "metric": "Pre-exceptional operating profit",
+      "unit": "GBPm",
+      "value": 25.5,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY25/Hays%20H1%2025%20FINAL.pdf"
+    }
+  ]
+}
