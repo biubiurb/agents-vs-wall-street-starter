@@ -33,6 +33,31 @@ The supported company selectors are:
 
 The results are leads, not verified financial history. Read the cited document before using a figure and keep reported, adjusted, quarterly and annual values separate.
 
+## Build an earnings-history workbook
+
+`earnings_data.py` researches reported results and the consensus published before each earnings
+release. It prioritizes issuer/regulatory documents for actuals and Bloomberg or named institutional
+datasets for consensus. Unofficial values carry their source name directly in the value cell, with
+full URLs in adjacent audit columns. Each quarter also includes the exact earnings-release timestamp,
+normalized to ISO 8601 UTC; approximate times are left as `Not found`. Live research requires
+`OPENAI_API_KEY`.
+
+```bash
+python3 starter/earnings_data.py \
+  --company "Home Depot" \
+  --metric "Revenue|USDm" \
+  --metric "Adjusted diluted EPS|USD / share" \
+  --start "Q1 2024" \
+  --end "Q2 2026"
+```
+
+The default output is `data/earnings_data.xlsx`, with one tab per company. Repeated runs update that
+workbook incrementally: a missing company gets a new tab, while an existing company tab gains missing
+columns and new quarter/metric rows. Existing populated cells are preserved and newly available data
+fills blank or `Not found` cells. The Python API is
+`get_earnings(companies, metrics, start_quarter, end_quarter, ...)`; pass a researcher callable to run
+against another data service or a deterministic fixture instead of live web research.
+
 ## Use it with Codex or Claude Code
 
 You can ask either harness:
