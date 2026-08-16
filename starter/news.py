@@ -22,7 +22,7 @@ from urllib.parse import urlparse
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DATA_DIR = REPO_ROOT / "data"
-DEFAULT_MODEL = "gpt-5.6-terra"
+DEFAULT_MODEL = "gpt-5.6-sol"
 DIVIDER = "=" * 88
 SOURCE_TYPES = {
     "official_company",

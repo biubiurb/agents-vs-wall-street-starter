@@ -1,0 +1,1503 @@
+FORWARD GUIDANCE RESEARCH: Analog Devices
+EARNINGS PERIOD: Q2 2026
+LOCAL DOCUMENTS FOUND: 7
+ONLINE SOURCES FOUND: 3
+
+================================================================================================
+
+RELEASE DATE: 2026-03-03
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/call-transcripts/2026-03-03__adi-us-20260303-call-conf-pres__662484.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q2 2026
+
+TITLE: Semiconductor Research Conference Call
+
+# Semiconductor Research Conference Call
+Unknown speaker: All right. Welcome back, everybody. I'm Joe Moore, Morgan Stanley Semiconductor Research. Very happy to have Richard Puccio, EVP and CFO of Analog Devices.
+
+Unknown speaker: Thanks.
+
+Unknown speaker: Thanks for coming.
+
+Unknown speaker: Thanks for having me.
+
+Unknown speaker: Maybe just start off with kind of where we are in this cycle. You've had nine consecutive quarters of above-seasonal performance. You've got some idiosyncratic growth, some kind of early-stage cyclical drivers. Can you just give us a general sense of where we are in all of this?
+
+================================================================================================
+
+RELEASE DATE: 2026-03-03
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/call-transcripts/2026-03-03__adi-us-20260303-call-conf-qna__662485.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q2 2026
+
+TITLE: Market Segment Performance and Strategic Outlook
+
+# Market Segment Performance and Strategic Outlook
+Unknown speaker: Sure. I'll start with the idiosyncratic because if you I'll do a little bit of a walk back to where we thought this started. We talked about six quarters ago that we had some pretty resilient parts of our business that were starting to show some growth, and we expected we'd start to see real sequential growth, and a lot of that was being driven by a couple of real strong performers. From an idiosyncratic perspective, you probably heard me talk about a couple of these. You know, we've had real strength in our ATE business, which is one of the sub-elements of our industrial end market. You know, obviously fueled by the continued demand for high-performance compute and high-bandwidth memory, which requires more complex testing, which means they need sophisticated testers.
+
+Unknown speaker: We have a very strong position in ATE, so that has been a very strong market for us. I think we talked about that business growing year-over-year in 2025, you know, over 40% and continuing to go strong into the current year. You know, you look at our aerospace and defense business, you know, we've talked about that business and the size that it's reached. That was a very resilient business. That one also has pretty strong tailwinds in the market, given the increased spending we're expecting to see from the U.S. government on military and aerospace spending and also the increased levels we're expecting to see in Europe. Those were really strong drivers in the two parts of our industrial business.
+
+Unknown speaker: If you look at another business that has been growing real strong for us, grew in the back half of 2025, the last three quarters, 50% year-over-year, it's continuing to grow, is our data center business. When you look at that externally, you see that in our communications. Our communications business is about two-thirds our data center, two-thirds of that is our data center business, and that business has been very strong also, you know, given the massive expansions in CapEx. That has been a really strong business. You know, on the auto side, if you think about where we've seen success, you know, that has been a strong business for us.
+
+Unknown speaker: If you look at the sort of cycle dynamics, that was actually a business for us that only went down low single digits from peak to trough. Despite that, you know, we've now had back-to-back record years. We've are very well positioned there. The story there is, you know, we've captured share, we have great content gain, and we're a strong player in the Chinese auto market, and a lot of the growth that's been happening in auto has been in the Chinese market. That has been really strong for us. If you look at our consumer business, we've talked about the pretty significant diversification of our business, and I think, you know, our share gain there, the number of new sockets that we had ramping, has played a big part.
+
+Unknown speaker: Consumer was one of our first businesses to come back into a high-growth mode and has grown, you know, for six plus straight quarters and has had, you know, continuing expansion. It's not the old, you know, very heavily tied to handsets. It's now handsets, it's hearables, wearables, gaming platforms. A bit more diversified portfolio, and we feel like that one's really well-positioned. Those are things that I always said are idiosyncratic, where we've picked up share, we have a product in that's, you know, leading in a space. The cyclical piece, you know, for us, you know, we talked about, you know, one of the things we had been waiting to see was the return of the mass market in our industrial, right, our broad market business.
+
+Unknown speaker: We were able to see that start to pick up, and it started picking up in the, you know, the middle part of 2025 and started to accelerate. Classic cyclical upcycle trend for us is, you know, and we can track, we do track down to the part level, and we could see at the beginning as we started to grow, but we didn't feel like we were in the upcycle, a significant number of parts we would've sold in the normal upcycle were still not moving. We're at a point now where 90-plus percent of the parts we would expect to be moving in the upcycle are moving.
+
+Unknown speaker: The other thing is we were pretty aggressive, as you all know, for two years, leaning out the channel and both at our customers directly and our channel inventories at our disties. We can see in the ordering patterns now that they have clearly worked through the inventory hangover broadly across those spaces, and we're seeing that in the order patterns, and we're seeing it in the acceleration of our turns business because, you know, we're one, we have pretty regular lead times now, so they can order in quarter for things in quarter, and turns volumes has been very strong, another cyclical upside indicator. If you think across both, you know, we've had some really good activity, you know, all at the same time while we've been building more resiliency into our manufacturing processes, expanding capacity, et cetera.
+
+Unknown speaker: Feel pretty good, and I think that's a big part of what we've been seeing.
+
+Unknown speaker: You guys have managed through all of that really well, both the idiosyncratic and the cyclical. Maybe we could drill down on some of those things. Starting on the industrial idiosyncratic drivers, ATE, I think you talked about 30% sequential growth this quarter. Markets really worry about AI sustainability beyond 2026. What kind of visibility are you getting into that ramp? You know, do you feel, like, good about that growth? Do you feel like there's some risk of an overshoot at some point?
+
+Unknown speaker: Well, first, you know, one of the signals we always watch and pay very close attention to is if you look across the sort of large platform/hyperscaler companies and what they're forecasting for CapEx. Right? We all waited anxiously to see what would happen during these most recent Q4 announcements, and they lined up to each say how much more they were gonna spend and that they'd have more revenue if they could build more capacity. I think the, you know, short to medium term, I don't think that we're gonna see any drop off in that AI capital spend. I think that is gonna be a strong tailwind for a period. You know, at some point in the future, you know, maybe they don't if technologies improve, the power availability and data center demand will probably...
+
+Unknown speaker: those lines will get closer and closer, and that might be an inflection point, but I don't think we're anywhere near that yet.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: I think, you know, from a visibility perspective, you know, just purely for us, obviously, you know, we have what our customers publicly say and what we talk to them about. From a firm orders sort of backlog thing, as we've talked about before, we get about a quarter's worth of visibility, particularly given normalized lead times.
+
+Unknown speaker: Yeah. From the bottlenecks the GPU guys are seeing from test capacity, there seems to be pretty clear visibility.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: Aerospace and defense, probably premature to talk about events in the last couple of days, but there seems like there's a very strong long-term tailwind there from the automation, you know, a kind of edge AI happening in that business. You know, how much have you invested in that business? You mentioned last night about Hittite and some of the benefits of those businesses. What's the long-term growth profile there?
+
+Unknown speaker: For us, we think that is one of our sub-segments in industrial that will continue to grow above company average. You know, we're very well-positioned across the spectrum, you know, in aerospace and defense, you know, whether it is in the RF and microwave that you might find in guidance systems, you know, whether it's our products that are going into satellites, both geo and LEO satellites. We feel like there is a lot of macro tailwind there, right. As I mentioned, you know, the spending in aerospace and defense is going up around the world, and I think we've got a really good position there, so I think we'll continue to benefit there.
+
+Unknown speaker: We also. You see this, and this is a really good example in ADI of our ability to capture more value, is, you know, you mentioned Hittite, and you go back to something that, you know, where we might have been selling components into a prime. Now we're selling more modules and more solutions, and those capture significantly higher value for us. Aerospace and defense is one of those really good examples inside of ADI, where our ability to provide a full solution, you know, has created a tremendous amount of value for us. I think that's important. You know, one of the things, and this applies everywhere else, but it certainly applies in aerospace and defense, our ability to provide solutions to the most complex problems is what allows us to capture that higher ASP and higher value.
+
+Unknown speaker: Okay, great. Other segments, you know, instrumentation, medical devices, the energy part of the business, you know, those seem like they're a little bit more of a gradual cyclical recovery, but, you know, any puts and takes, any areas of strength or weakness to note there?
+
+Unknown speaker: It's interesting. We were clearly two of our sub-segments have been leading the charge. As we talked about as we progressed into the back half of last year, we got to a point where across all of our industrial sub-sectors, the ones you mentioned, and across all of our geographies, we were seeing growth, right? When we exited, just recently exit Q1 and think about what we're looking at at Q2, we had positive book-to-bills across all of the industrial sub-markets, and that's by all geographies. That is before any impact from the Q1 price increases. We still had book-to-bills above one.
+
+Unknown speaker: You know, as we start to think about where we are in the cycle and our ability to continue to sort of get additional benefit, despite talking about having ATE and aerospace and defense and data center at record levels, the other businesses, you know, within industrial, for instance, whether it's automation, energy, healthcare, they're all still, you know, 20% below their prior peaks. We feel like there's still room to run in the cycle for those to get back. You know, we think we're largely through the inventory correction, but we're, you know, we're still now, see lots of upside opportunity. I think that applies across the broader portfolio, where we're at peak in a handful of businesses, but we've still got room to run.
+
+Unknown speaker: Even if you just look at a historical trend line, we're still well below the trend line.
+
+Unknown speaker: You have a situation where you're not looking for restocking. Inventories are at very lean levels. You're not projecting any. You certainly aren't requiring. You're not depending on any kind of restocking. Doesn't it feel inevitable at some point? I mean, aren't these inventories just two years after the shortages that we saw, you know, getting kind of lean?
+
+Unknown speaker: The real question is, do customers have any short-term or even medium-term memory? I do think one of the, one of the interesting drivers now, and I, and I think about ADI, 90% of our parts have lead times less than 13 weeks. If you're a CFO sitting in a buyer chair, you're not incentivized to go buy and place orders with ADI early, or many of our peers, because you can get it in turns business because of the way we're set up. I think that the change you're talking about happens when you start to see tightness in supply chains across semi, when the buyers will start to get nervous and, you know, they'll be thinking, "If I don't have that part, I can't ship my product X, Y, or Z.
+
+Unknown speaker: I'm gonna start placing orders out further than the 13 weeks. Sometimes we're getting orders with 4-week lead times. I think when we start to see lead times extending, that'll be when they'll probably start feeling like they have to rebuild some of their buffers. Our view is our customers haven't done that yet. We don't see that. We've watched them lean out inventory, actually, and we spent two years leaning out the channel.
+
+Unknown speaker: Mm-hmm.
+
+Unknown speaker: From our perspective. Now, given how much we leaned it out and then we hit into this upcycle with growth, we actually I think I talked about this last quarter. We dropped below six weeks in the channel. Right, we like the six weeks model because our teams have done a lot of work operationally to make it so that we've essentially match back-end cycle time. If our back-end cycle time is roughly six weeks, we wanna have six weeks in the channel. We dropped a little bit below, so you saw us put a little bit of inventory back in the channel in Q3 and Q4. You know, we're not expecting to put more inventory into the channel. At the midpoint of our guide, we don't expect we'll put more inventory in the channel.
+
+Unknown speaker: You know, we have moved away from the historical sort of seven to eight-week channel model because we found having the inventory on our balance sheet, especially when things do get tight, if they get tight, having control and our ability to make decisions and work with customers is better when it's on our balance sheet. You'll see this dynamic continue, where we expect channel inventories will stay lower than historical levels, and our balance sheet inventory will be a little bit higher. We're consciously managing that equation every quarter, every day.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: We feel like we're in a pretty good position. You know, with the up-cycle continuing, it's very hard to catch up if you don't have some reserve supply. We've talked about in the last year, we've built more die bank and more finished goods buffers because of the amount of turns business that's coming in and our ability to capture that.
+
+Unknown speaker: Okay, that's helpful. Thanks. Moving to the communications portfolio and data center, you know, you've talked about a lot of strength there, the strength that you saw last year, a very robust position in optical, but also a lot of opportunity and power. How much have you focused R&D around this opportunity to sort of capture the growth that you've had, and how much can you focus going forward now that it's becoming so much more critical?
+
+Unknown speaker: You're absolutely right. We are spending significant amount of our R&D. Look, I've said this before, our first call on capital is R&D, right? We're spending 16% of our revenue dollars in R&D. If you think about in the data center, you know, the way I would carve that up just so you get a little perspective, the data center we've said is 2/3 of our comms business, and it's roughly split 50/50 between our power portfolios and our optical portfolios. If you look at the pieces there, you know, where we play, you know, at the, at the, you know, the power management level, it's always been a strong area for us. You know, you think about hot swap and some of those features.
+
+Unknown speaker: I think that's an area that has lots of growth opportunity, particularly as we move to higher and higher voltages, right? The safety and those capabilities become more and more important. We've been a very good and at a strong position in the power conversion space. The area I would have said where we frankly punched under our weight was probably in power delivery. We are now, and we've talked about this. We are now shipping in a vertical power solution, and we're seeing that get more and more traction, particularly given all the power constraints. You know, our vertical power solution has about 30% less power loss than a lateral solution. It's a, it's an effective way to sort of offset some of this power drain.
+
+Unknown speaker: We're not the only ones playing in vertical power, but it is certainly gaining traction as an architecture. I think that presents us a pretty significant growth opportunity. We feel like there continue to be areas for us in power to grow. The other half of the portfolio is optical, and I would say the near-term thing I would highlight there is, you know, we have already got our first 1.6 terabit optical module shipping to customers and our R&D teams back to where are we making investment. R&D teams are already working on the 3.2 solutions. That's the acceleration and speed we're seeing across the data centers that are being built. We feel like we've got a good position. We're already shipping product at 1.6. We're already developing at 3.2.
+
+Unknown speaker: You know, over time, I think they both have growth opportunities just given the sheer scale and the potential power opportunity. That one could be a medium-term grow faster, but I think both of those will be good high-growth opportunities for us.
+
+Unknown speaker: The margin profile of these data center businesses versus your sort of communications business being base station-oriented used to be a little bit lower margin than everything else.
+
+Unknown speaker: At this point, the wireline part of our comms business is an above corporate average margin business for us. If you think about the, you know, the overall company margin, industrial and the comms tend to be products that are above the corporate average, consumer auto tend to be a bit below corporate average, blending out to our corporate model.
+
+Unknown speaker: Okay. Wrapping up the end markets, automotive, you talked about, you know, you did a really good job of helping us navigate the last nine months, where there were some bumps in the road that you saw that not everybody saw. I really appreciate that. Aren't we at the point where those inventories are getting too low? Automotive in particular, we saw an Xilinx issues that shut people down for a few days, and then that got resolved. People have been worried about DDR4 memory. I've been really surprised that we just haven't seen, outside of China, any real restocking around those kinds of supply chain things. I think there's very clear evidence that those inventories are very lean. Shouldn't we be looking at a space that's about to improve cyclically?
+
+Unknown speaker: I would expect it. Look, I think there's two pieces to it. There's what happens with the unit volumes, right? The current forecasts are for sort of flattish to maybe slightly down SAAR for the full year, right? I think that'll have a significant impact on what the back half of the year looks like. I do agree that we think the inventories are lean. I would say what we've seen, what we've seen, and we've talked about, you know, how auto has played out over the last couple of quarters, you know, we were pretty confident that we saw early buying behavior across the automakers.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: Q2, we saw it with the U.S. and Europeans, and in Q3, we saw it with the Chinese. We expected that we would see some implication of that, some washout or reversal either in Q4 or Q1. We really didn't see Q4, actually came in quite a bit more favorable than we expected. It does appear we see some of that now because you can see it, we end up with book-to-bill under one in auto exiting Q1. You know, which not unexpected given we thought they bought a bunch of inventory in advance.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: Now, as we work through that, we think that there, you know, there probably is a little bit more in Q2 we might see, but beyond that, I wouldn't expect any more corrective. If they continue to grow the way they're planning to grow, particularly for us, where China's now a third of our global auto business is in China, and China's been the fastest grower. It's been taking share from Europe and the U.S. As they continue and start to re-ramp growth, I would expect them to need to get more inventory on their books. I agree with that sentiment.
+
+Unknown speaker: Maybe your sense of that market from ADI's perspective, you know, obviously, China's got a lot of focus on internal development of silicon capability, but you actually bring really unique value added to markets that are being pioneered in China around EVs and really low-priced ADAS EV-type systems. Your confidence in that as an ongoing growth driver despite Chinese domestic competition.
+
+Unknown speaker: I think. Look, it's a. We've talked a little bit about this. I think our competition actually in China, for the most part, continues to be the competition it was before we all started talking about the local Chinese suppliers, right? The local Chinese are certainly making inroads and doing a lot of great work. For ADI, and if you think about ADI's position in China, we tend not to have a huge presence in the low ASP market, right? We're not in that, you know, sell as much silicon at the $0.50 and below. We tend to have a significantly higher ASP, which is tied to us delivering the best solutions, the most innovative solutions to the hardest problems, right? Which is why we are at the much higher end.
+
+Unknown speaker: You see that in auto, right? High performance battery management, high performance communications from a GMSL A to B, E to B perspective, functionally safe power. We've invested in all of these trends in auto that are super important. One of the things, you know, if you look at the China forecasts, you know, they're still only 10%. Coming out of 2025, they're about 10% penetrated in L2+ ADAS. The forecast in 2026 are getting to upwards of 30% penetration. The further they penetrate, the more opportunity for us there is from a content perspective. Obviously, if they're taking share from other places that aren't producing at that level, you know, where their EVs are coming out, you know, that gives us additional tailwind.
+
+Unknown speaker: That's helpful. Thank you. Maybe moving to some other issues.
+
+Unknown speaker: Issues?
+
+Unknown speaker: Well, well, questions.
+
+Unknown speaker: Okay.
+
+Unknown speaker: Price increases that you talked about, you know, we've seen raw material prices come up for a while. Seems like you're passing those through. Could you just talk about what you're doing there and what the reaction has been?
+
+Unknown speaker: Sure. You know, and this is the message our customers have heard. You know, we spent a pretty significant amount of money over the last three or four years building out and giving our customers more resiliency, right? We've talked about the expansion of our capabilities internally, the cross-qualification of our products. You know, that creates a pretty significant margin headwind 'cause we've been absorbing that cost. At the same time, the input costs continue to increase across our business. We do everything we can to minimize it. Vivek and our operations teams are grinding out efficiencies every day. It has been a very inflationary environment, and we've been absorbing that for quite a while. We just felt like the environment was the appropriate time. Look, we are continuing to deliver more and more value to customers.
+
+Unknown speaker: You can see that in our ASPs. We felt like it was an opportunity to recapture some of that value. Look, it's pricing has always been a dynamic thing at ADI. Prices have increased, prices have decreased. It has been a while since we've done any large scale, we felt like given the current environment of inflationary pressure, it was the right time to do it.
+
+Unknown speaker: Helpful. Thank you. Net gross margins, you know, you've talked about a path to 74%. You're at 71% now with mix kinda going against you. Can you just talk about the puts and takes there?
+
+Unknown speaker: Sure. I've lost my train of thought for a minute. Two things that we've talked about that drove our gross margins down, right? Were mix and underutilization. At this stage, we've continued to grow utilizations in the factories, and we think we're pretty close to what we think is an optimal is probably the closest word, an optimal level of utilization. I don't expect us to see a ton of upside going forward from the utilization part of the equation. However, from a mix perspective, you remember at peak, we were at 53% industrial. We were as low as 44% industrial as we were going through the down cycle. We're still only back at 48%.
+
+Unknown speaker: We feel really good that at 48% industrial, we were able to get above 70%. We continue to expect we'll see some additional accretion. Obviously, in Q2, we talked about there'll be some accretion just from the price increase, and some of that will stick and recur, but some of that'll be one time. We do expect we will continue to see additional accretion. If you think about the way I've described where growth is gonna come from, we've talked about industrial and communications growing strong. Those are our two above-margin businesses. If we continue to see that share shift out of the lower margin, some of our, you know, away from the lower margin businesses, we would expect to see some pickup there.
+
+Unknown speaker: I expect, you know, primary driver will be mix and mix within the mix, to be honest, even within the businesses, and less about utilizations, which has been a big factor during the down cycle.
+
+Unknown speaker: also leverage on the operating expense line. You had some variable cost increases last year with compensation stuff, and still managed to deliver healthy leverage. How do you feel about that going forward?
+
+Unknown speaker: you know, as we've talked about 2025, essentially, OPEX grew at basically the same rate as revenue, right? Not ideal, but that is a little bit of the mechanics of our variable comp system, right? Where we've talked about going from paying very little to paying more normalized variable comp in 2025. We will likely, based on the trend line we're on now, we'll pay more variable comp in 2026 than we did 2025, but it won't be as big of a percentage and a driver. We've also continued to be pretty diligent. Although we are investing more because we need to continue to be leading innovation and being first to solutions, you know, we will grow OPEX, sort of half of what revenue grows in 2026. We expect we'll continue to see it. You see it in the guide.
+
+Unknown speaker: You know, we're already guiding to a Q2 operating margin, which obviously is a combination of our expense work and our gross margin work that's up 200 basis points.
+
+Unknown speaker: Thank you. A couple of questions on strategy, I'll open it to the audience. Maxim, you've talked about a $1 billion in revenue synergy. You know, that deal was done a while ago, but you're still very focused on extracting the sort of capability of the combined company. Can you give us an update on that?
+
+Unknown speaker: Sure. When we did the deal, I think the expectation we'd set externally, excuse me, is we would do a $1 billion of synergies by the time we got to 2027. A little context, we did tens of millions of dollars of synergies in 2024. We did hundreds of millions in 2025, we expect to do several hundred million more in 2026 than we did in 2025. We feel like we're on a really good path, we will get to our $27 billion synergy target, which is really important for those of you who were around for the redo of our financial model in 2022. One of the things that we attributed to being able to bend the growth curve was the $1 billion of synergies. That has been a very significant area of focus for our teams.
+
+Unknown speaker: I just had my latest update and feel very confident we're on track for 2027.
+
+Unknown speaker: Thinking about the M&A strategy, I mean, obviously huge acquisitions in your past with Linear Tech, Maxim, Hittite, kind of forming this company. Now it seems like M&A is starting to happen again. Your view on whether there are big transactions to do, small transactions to do, you know, are you more in-
+
+Unknown speaker: From a M&A strategy perspective, I'll start with, and we just covered this, so I won't state a lot, capitalizing on the Maxim synergies has been our top priority. You know, we've done a couple of what I would call tuck-in acquisitions, where we've advanced product or gotten teams in areas that are important to us, whether it's in digital or software. We've talked about making organic investment heavily across AI, digital, and software. We will continue to look for opportunities in those areas. Look, if a, if a large opportunity came along, we'd evaluate, right? We're very fortunate. We have a very strong balance sheet. We've got a lot of flexibility. Near term, it is really about capturing the synergies.
+
+Unknown speaker: The corollary to that cash return, you've done a pretty good job of returning cash, particularly since those deals were done. You know, are you continuing to think about a 100% cash return, and what's the mix?
+
+Unknown speaker: Yeah. We do continue to think about 100% cash return, I would say I feel very good about what we've been able to accomplish given that we, you know, make our first call on capital, as you'll hear Vince say all the time is on R&D, and we're spending a pretty substantial chunk of our cash on R&D. We will continue to return 100%. Our model is 40%-60% on the dividend. As you probably all saw, we just increased the dividend for our 22nd year. I think it in total was about an 11% increase. The remainder we'll use to retire share count.
+
+Unknown speaker: If you think about what we've accomplished, I think I talked about on the call going back to when we did our first repurchases, the amount we've bought back, we feel like that is a really strong position. The other thing that's happened is we've reduced share count by 10% since we did the Maxim acquisition through repurchases.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: We will continue on that model.
+
+Unknown speaker: Yeah. Good stuff. Okay. Thank you. Pause there and see if we have questions from the audience.
+
+Unknown speaker: Thanks, Richard. Could I take you back to the data center and some of the new areas in power that you were looking at? I think you called out VPD in particular. It sounds like you're moving into second stage, you're delivering power directly to the GPU substrate. Could you give us a sense for, you know, how is that qualifying with customers at this point? Maybe just the sense for how your TAM will grow as you penetrate the second stage. Thanks.
+
+Unknown speaker: Yes, on the first part of your statement is correct. We are currently actually shipping and generating revenue at a single large customer. We are in conversations with a number of the other players in that space where we expect, you know, to continue to make further traction. Obviously, you know, if the architectures change, and I don't know what that TAM looks like because I don't know how much of the existing lateral architecture gets replaced by vertical architecture. Suffice it to say, it gives us a growth opportunity beyond where we've played historically in lateral, and which is why we continue to invest heavily in our product there and in our processes to make sure we can deliver it cost effectively.
+
+Unknown speaker: Obviously at that scale, you know, the inevitable outcome will be future price pressure on everybody. We wanna make sure we've got the highest performing product that we can deliver at the best cost too.
+
+Unknown speaker: Thank you, Lee. Any other questions? Maybe if not, I'll just finish following up on that. You know, you've talked about a solutions approach, a module approach to these types of markets. That seems to be increasingly a differentiator, particularly versus your biggest competitor, that you have this mindset either you're looking at data center optical, data center power, you know, it as a complete solution. Can you talk about that philosophy a little bit?
+
+Unknown speaker: Well, I think that Vince has talked about this, for a couple of years, is our ability to move up the stack where we can take advantage of our core analog capabilities, add in software and digital solutions and AI solutions, and be able to deliver more complete solutions to the more complex problems is what's for us, is driving a ton of incremental value. The easiest way to illustrate is if you look at our products that were released at least 10 years ago versus the products that were released in the last 10 years, the ASPs are up 2x products in the last 10 versus products greater than 10. Some of that is clearly our ability to sell and deliver complicated solutions.
+
+Unknown speaker: They're powerful, you know, because you take, you know, you take where in many places we would have had somebody buying a bunch of parts and maybe doing the work themselves. They now come to us and say, "Here's a problem. What's my solution?" We build out a more sophisticated combined solution. We're able to capture a significant amount more value by doing that, which is why we've been so aggressively investing in the software, digital, and AI capabilities, is to capture that value.
+
+Unknown speaker: Very helpful. We'll wrap it up there, Richard. Thank you so much.
+
+Unknown speaker: All right. Thanks for having me, everybody. Appreciate it.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/call-transcripts/2026-05-20__adi-us-20260520-call-pres__1041157.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q2 2026
+
+TITLE: Second Quarter Earnings Call
+
+# Second Quarter Earnings Call
+Unknown speaker: Good morning, and welcome to the Analog Devices second quarter fiscal year 2026 earnings conference call, which is being audio webcast via telephone and over the web. I'd now like to introduce your host for today's call, Mr. Jeff Ambrosi, Head of Investor Relations. Sir, the floor is yours.
+
+Unknown speaker: Thank you, Jonathan and good morning, everybody. Thank you for joining our second quarter fiscal 2026 conference call. Joining me today is ADI CEO and Chair, Vincent Roche, and ADI CFO, Richard Puccio. For anyone who missed the release, you can find it at investor.analog.com, along with related financial schedules. The information we're about to discuss includes forward-looking statements, which are subject to certain risks and uncertainties as further described in our earnings release, periodic reports, and other materials filed with the SEC. Actual results could differ materially from the forward-looking information as these statements reflect our expectations only as of the date of this call. We undertake no obligation to update these statements except as required by law.
+
+Unknown speaker: References to gross margin, operating and non-operating expenses, operating margin, tax rate, earnings per share, and free cash flow in our comments today will be on a non-GAAP basis, which excludes special items. When comparing our results to our historical performance, special items are also excluded from prior periods. Reconciliations of these non-GAAP measures to their most directly comparable GAAP measures and additional information about our non-GAAP measures are included in today's earnings release. References to earnings per share are on a fully diluted basis. With that, I will turn the call over to ADI CEO and Chair, Vincent Roche.
+
+Unknown speaker: Thanks very much, Jeff, and a very good morning to you all. Well, as you've seen by now, second quarter revenue profitability and earnings per share finished above the high end of our guidance, establishing new high-water marks for both revenue and for earnings. Despite the quarter's heightened geopolitical tensions and ongoing macroeconomic challenges, we're currently seeing record demand for our products and solutions. It's at times like these when our dynamic hybrid manufacturing model performs. Our robust investments over recent years have enhanced the scale and the optionality of our supply chain, enabling ADI to address demand surges and capture upside. The combination of this supply agility and resilience and our robust R&D investments across core analog segments as well as digital software and AI form the foundation for our growing criticality to our customers.
+
+Unknown speaker: They also enable us to pursue areas that we believe offer the greatest future growth potential for ADI, namely AI-driven computing and connectivity, autonomy, proactive healthcare, sustainable energy transition, and immersive consumer experience. As I mentioned last quarter, our data center and ATE businesses are taking advantage of strong AI-driven infrastructure investments to achieve new highs. These two businesses are on steep growth trajectories, and as we move through 2026, our confidence in their continued growth into 2027 is increasing. Another robust growth market for ADI is our aerospace and defense business, which reached a new revenue high this quarter and where increased focus on national sovereignty concerns is accelerating an already strong multiyear growth path. In general, industrial, which includes ATE as well as aerospace and defense, is our most profitable business, with 15- to 20-year average product life cycles. We continue to outperform in this space.
+
+Unknown speaker: Today, I'd like to unpack more of that story for you by focusing on our industrial business beyond ATE and aerospace and defense, namely automation, electronic test and measurement, sustainable energy, healthcare, and the broad market. Collectively, these markets have grown more than 40% in the first half of fiscal 2026. Customers across these sectors are consuming more semiconductors with each new product generation. From a cyclical perspective, these businesses are still well below their prior cycle highs with lean channel inventories. This combination of secular and cyclical positioning, along with strong demand signals, gives us confidence that all of our industrial sectors are poised for continued strong growth in the coming quarters and indeed over the longer term. Now going a little deeper into these markets, I'll begin with our automation business.
+
+Unknown speaker: Numerous megatrends, including the onshoring of advanced manufacturing and evolving labor dynamics, are increasing demand for digital factories and next-generation robots. The digital factory vision is unlocking new opportunities for ADI and our portfolio of high-performance sensing, signal chain, power management, and connectivity solutions. We're enabling the edge intelligence and real-time communication necessary in automated semiconductor fabs, biopharma, data centers, and other discrete and process manufacturing environments, for example. Additionally, as robots make up ever larger percentages of investments in factories and elsewhere, our higher value products and subsystems for content-rich robotics are aiding automation's fast recovery. Longer term, humanoids and other advanced robotics modalities are steadily increasing our opportunity pipeline value. Overall, we believe we're well-positioned to continue capitalizing on automation's tailwinds today, and in the future as automation transitions to autonomy. Turning now to our electronic test and measurement, our ETM business.
+
+Unknown speaker: While ATE systems are geared to enable efficient, high-volume manufacturing of chips and electronic systems, ETM supports end-to-end product development and delivery, from R&D prototyping, debugging, and validation, all the way through mass production in areas such as AI, EVs, and secure communications, for example. ETM is a highly diversified, performance-driven market, and ADI's innovative RF mixed signal and power solutions have built our strong position in high-value applications and are propelling our growth in our design pipeline as customers grapple with increasing levels of complexity and shrinking innovation cycles. Switching now to our energy business, the continued evolution of consumption patterns due to deeper electrification and high-performance computing, for example, is putting immense pressure on legacy electrical grids and creating profound challenges from energy generation to transmission, distribution, storage, and of course, consumption. Customers trust ADI to accurately monitor, meter, and manage all levels of the grid.
+
+Unknown speaker: We reliably convert real-world environmental and system data into digital information, delivering the essential edge intelligence, connectivity, and power management solutions today's systems require. Notably, we're also leveraging our high-performance battery management platform to support the energy storage systems that are increasingly crucial to a stable grid. Demand for our BMS portfolio from our ESS customers continues to be strong in 2026, having grown more than 50% in fiscal 2025. In short, our technology helps customers upgrade electrical infrastructure, ingest and manage the intermittency of renewable resources, and smooth the energy demand spikes from applications like EVs, AI, and so on and so forth. As the trend of electrification accelerates and demand patterns continue to evolve, we believe energy will continue its growth trajectory for many, many years to come.
+
+Unknown speaker: Turning next to healthcare, where our technologies and solutions protect and save lives across both clinical and non-clinical care settings each and every day. We're enabling the ongoing digitalization of clinical environments through the combination of our deep domain expertise and breadth of technological capabilities across hardware, software, and advanced packaging. We're seeing secular growth in, for example, advanced imaging, patient monitoring, and surgical robotic applications, where our high-performance-driven solutions are further extending our leadership position. As healthcare increasingly migrates beyond clinical to non-clinical environments, demand is accelerating for our wearable solutions for outpatient management of, for example, cardiopulmonary and metabolic conditions, essentially extending the digital network edge all the way to the surface of the human body. We're driving double-digit revenue growth in our healthcare market, and we expect continued growth over the coming years due to increasing design-ins with larger OEMs this year.
+
+Unknown speaker: Turning finally to our broad market industrial business, which has returned to robust growth. This market encompasses a long tail of tens of thousands of established and emerging companies who are addressing a vast array of applications. The tremendous breadth of these customers' needs aligns perfectly with the extensive scope of our diversified performance leading technologies and application-ready solutions, spanning sensor to cloud, nanowatts to kilowatts, and antenna to bits. Now, before I conclude my remarks today, let me speak briefly about our planned acquisition of Empower Semiconductor, which will further augment our power technology portfolio and provide the final piece of our comprehensive grid-to-core power platform. With Empower, we gain cutting-edge proprietary integrated voltage regulator, or IVR technology, and silicon capacitors that enable us to offer true vertical power delivery to our customers.
+
+Unknown speaker: The extreme power density of Empower's platforms eliminates customers' needs for bulky external components, shrinks their power footprint by up to four times, slashes their data center compute power consumption by an estimated 10%-15%, and delivers the ultra-fast transient response required by volatile AI workloads. This transaction will expand ADI's total addressable market within the hyper-growth AI accelerator space and further solidify our position as an indispensable hardware partner in the drive for maximum compute density per server rack. We look forward to sharing more of our vision in this exciting space when the transaction closes a little later following regulatory approval. In closing, we believe our industrial end market is currently in a cycle of broad-based high growth that has been further compounded by our strong investments in the most attractive secular opportunities.
+
+Unknown speaker: As ADI works to bring physical intelligence to the electrophysical interface, our competitive advantage lies in our extensive and evolving tech stack and six decades of experience, as well as our deep application domain expertise. These differentiators continue to grow in importance as our customers tackle bigger, more complex challenges at the intelligent edge. As such, our confidence in our future has never been greater. With that, I'll pass you over to Rich.
+
+Unknown speaker: Thank you, Vince. Let me add my welcome to our second quarter earnings call. Revenue in the second quarter was a record $3.62 billion, finishing above the high end of our outlook while growing 15% sequentially and 37% year-over-year. Growth was led by our industrial and data center businesses. Industrial, which represented 50% of our second quarter revenue, finished up 20% sequentially and 56% year-over-year. All of our industrial businesses increased sequentially and year-over-year, led by aerospace and defense, ATE, ETM, and the broad market. Automotive represented 24% of revenue, finishing up 8% sequentially and 2% year-over-year. We continue to capitalize globally on content and share gains in next-generation ADAS and infotainment systems with increased demand for GMSL, functionally safe power, and A2B technologies.
+
+Unknown speaker: In addition, our BMS solutions for EVs returned to year-over-year growth for the first time in two years. Communications represented 15% of revenue, finishing up 22% sequentially and 79% year-over-year. Data center, which now accounts for more than 75% of our communications revenue, was up more than 90% year-over-year, driven by both our optical and power portfolios. In our wireless business, we continue to see increasing demand growing more than 35% year-over-year. Lastly, consumer represented 11% of quarterly revenue, flat sequentially and up 23% year-over-year. Continued strong growth reflects our exposure to the high-end consumer space and ongoing cyclical tailwinds in our B2B-like prosumer business. On to the rest of the P&L. Second quarter gross margin was 73%, up 180 basis points sequentially and 360 basis points year-over-year, driven by favorable mix, higher utilization, and pricing.
+
+Unknown speaker: OpEx in the quarter was $872 million, resulting in an operating margin above the high end of our guidance, or 49%, up 350 basis points sequentially and 780 basis points year-over-year. Non-operating expenses were $57 million, and the tax rate for the quarter was 11.8%. All told, EPS was a record $3.09, up 26% sequentially and 67% year-over-year. Now, I'd like to highlight a few items from our balance sheet and cash flow statements. Cash and short-term investments finished the quarter at $3.4 billion, and our net leverage ratio remains 0.8x. Inventory increased $81 million sequentially as we continue to build strategic die bank and finished goods buffers to support growing demand. Days of inventory finished at 168, while channel inventory weeks declined, remaining within our six to seven-week range.
+
+Unknown speaker: Over the trailing 12 months, operating cash flow and CapEx were $5.1 billion and $0.5 billion, respectively. We continue to expect fiscal 2026 CapEx to be within our long-term model of 4%-6% of revenue. Free cash flow over the trailing 12 months was $4.6 billion, or 36% of revenue. Over the same period, we returned $5 billion to shareholders through dividends and share repurchases. This robust cash return reflects the strength of our innovation-driven financial model and our continued commitment to disciplined capital allocation. As a reminder, we target 100% free cash flow return over the long term, using 40%-60% for our dividend and the remainder for share count reduction. Now, moving on to our third quarter outlook. Revenue is expected to be $3.9 billion, +-$100 million. Operating margin at the midpoint is expected to be 49%, +-100 basis points.
+
+Unknown speaker: Our tax rate is expected to be 12%-14%, and based on these inputs, adjusted EPS is expected to be $3.30, +-$0.15. In closing, we delivered a strong quarter supported by disciplined execution and broad-based demand across all of our end markets. We continue to see constructive demand signals in our order book and backlog, particularly in industrial, AI-related applications, and automotive. While we remain mindful of the dynamic macro and geopolitical environment, we believe we are well-positioned to continue executing against both cyclical and secular opportunities. With that, I'll give it back to Jeff for Q&A.
+
+Unknown speaker: Thank you, Rich. Let's get to our Q&A session. We ask that you limit yourself to one question in order to allow for additional participants on the call this morning. If you have a follow-up, please re-queue, and we will take your question if time allows. With that, operator, can we please have our first question?
+
+Unknown speaker: For those participating by telephone dial-in, if you have a question, please press star one one on your telephone to enter the queue. If your question has been answered or you wish to remove yourself from the queue, simply press star one one again. If you're listening on a speakerphone, please pick up the handset when asking your question. We'll pause for just a moment to compile the Q&A roster
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/call-transcripts/2026-05-20__adi-us-20260520-call-qna__1041159.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q2 2026
+
+TITLE: Earnings Call Q&A
+
+# Earnings Call Q&A
+Unknown speaker: Our first question for today comes from the line of Tore Svanberg from Stifel, Nicolaus. Your question please.
+
+Unknown speaker: Thank you and congratulations on the record results. Vince, I was hoping you could talk a little bit about the conversations that you're having with your customers. Seems like demand is very, very strong. I'm sure supply and capacity is becoming increasingly a concern for your customers. How are they basically approaching your business at this point? Are they worried about supply? Are they giving you more visibility as far as build plans? Any color there would be great. Thank you.
+
+Unknown speaker: Yeah, thanks, Tore. I think, generally speaking, I would say the atmosphere is one of general calmness with our customers. There are some concerns, of course, around the choke points in the semiconductor supply chain, memory being one of those. That's, I think, having most effect on consumer customers who've got to make choices. But I think, generally speaking, our lead times are in pretty good shape. Our demand book is increasing. We've a lot more capacity as well than we had, say, pre the COVID cycle. We've more than doubled the internal capacity, and we've a lot more optionality built in as well to the external supply sources of the process technologies that we're not building inside the company. So, I think, it's a pretty, it's a reasonably calm environment.
+
+Unknown speaker: There is concern that at the steepness of the demand ramp across the industry and what that will mean, say, going into 2027, but we have a lot of flexibility and resiliency built into our particular supply chain, so we've a lot more upside that we can take onto our order books and keep a very good service score with our customers.
+
+Unknown speaker: Thank you.
+
+Unknown speaker: There are places, Tore, where we are seeing a little more stress than others, but generally speaking, I think we're in good shape.
+
+Unknown speaker: Perfect. Thanks.
+
+Unknown speaker: Thanks, Tore. We'll take our next question, please.
+
+Unknown speaker: Certainly. Our next question comes from the line of Vivek Arya from Bank of America Securities. Your question please.
+
+Unknown speaker: Thanks for taking my question. Vince, I am curious how you are approaching pricing, both from kind of a tactical and strategic perspective. On the tactical side, what are you assuming in terms of pricing for your current quarter outlook, and just the second half in general? We have heard several of your competitors just start to send letters on increasing pricing. How are you kind of viewing pricing in the near term, and then longer term, how sustainable will these pricing moves be? Do you think some of your competitors who have internal capacity, can they use this inflationary environment to take shares? Just would love your perspective on both kind of the tactical and the longer-term aspect of it. Thank you.
+
+Unknown speaker: Yeah, thank you. I think, let me start with the short term. We have increased prices during the course of this year. Essentially, what we're trying to do is just absorb the cost of inflation in our business. That's something that we'll address. We'll keep an eye on the inflationary effects at the inputs to our business, and we will offset those costs as necessary. I think in terms of the longer term, we as a company, we've got the highest ASP by far in the industry across the entire portfolio. We're at 4x, 5x the industry average. With each new generation of innovation that we're bringing to market, we capture more value. Actually, in the newer products in our portfolio, those products are capturing more and more value, and that's reflected in the ASPs.
+
+Unknown speaker: What's the stickiness, I think was the other part of your question. The answer very simply is very sticky because our products have very long life cycles and the most competitive part of the cycle for ADI is capturing the initial design in. When we get that design, substitution is effectively zero, competitive substitution is effectively zero. So, with a long product life cycle portfolio, I think we're in a strong position to hold the gains that we make.
+
+Unknown speaker: Thank you.
+
+Unknown speaker: Rich, did you want to?
+
+Unknown speaker: Yeah. Hey, Vivek, I would just add, because I think the question you asked, what I said, the tactical pricing piece which we talked about in the last quarter, actually came through as expected in the results. Everything was above the midpoint of our guide was actually due to volume, not incremental price. The pricing played out as we expected. If you think about a full year look of 2026, the pricing actions that we've previously described will add a couple points to our growth rate in 2026.
+
+Unknown speaker: Thank you.
+
+Unknown speaker: Thanks. We'll take our next question, please.
+
+Unknown speaker: Certainly. Our next question comes from the line of Joe Moore from Morgan Stanley. Your question, please.
+
+Unknown speaker: Yeah. Thank you. The 90% growth that you talked about in the data center portion of communications, can you kind of update us on growth trends within both the optical and power side of that? Just how should we think about growth there going forward if you're doing tuck-in acquisitions that can expand the TAM on the power side? Thank you.
+
+Unknown speaker: Sure. Joe, I'll take that one. As I mentioned, with the data center piece being 75% of our comms, and the 90% growth, actually that is being fueled pretty much equally by similar growth rates across both the power and optical portfolios. Those are both continuing to trend very well with strong orders and strong results in the quarter. Given the momentum we're seeing, we really do expect this to continue to increase and be the fastest grower sequentially for us as we look out into the next quarter.
+
+Unknown speaker: Yeah.
+
+Unknown speaker: Thank you, Joe. We'll move on to our next question, please.
+
+Unknown speaker: Certainly. Our next question comes from the line of Joshua Buchalter from TD Cowen. Your question, please.
+
+Unknown speaker: Hey, guys. Thanks for taking my question, and congrats on the results. Maybe following up a little bit on Vivek's, could you walk through what's implied for gross margins in the fiscal third quarter? Maybe like, help us understand the levers across pricing, mix, and utilization. I know there's the 50 basis points of inventory true-up that won't repeat, but how should we think about gross margins in the third quarter? Thank you.
+
+Unknown speaker: Thanks, Josh. Obviously, starting with the 73% gross margin, which was even a little higher than we expected based on some better mix and utilization. As I mentioned, the pricing impact was pretty much as expected. For Q3, we are assuming about a 50 basis points decline in gross margin, largely driven by the absence of that one-time benefit we got from repricing the channel during the prior quarter, obviously. From a mix perspective, we do expect it's likely to be a slight tailwind based on our outlook. While, as I mentioned previously, utilization is expected to be fairly neutral, the future up, we don't see a ton of future upside on gross margin from utilization given where we're running the factories today. That's how we're thinking about it here in the near term, Josh.
+
+Unknown speaker: Thank you, Rich.
+
+Unknown speaker: Thanks, Josh. Move on to our next caller, please.
+
+Unknown speaker: Certainly. Our next question comes from the line of Matthew Prisco from Cantor. Your question, please.
+
+Unknown speaker: Hey, guys. Thanks for taking the question. I guess just how are you seeing the segments tracking into the July quarter today, and maybe how are you thinking about the back half of the calendar year based on your visibility? Thank you.
+
+Unknown speaker: Sure. I'll just start with a quick recap. Obviously, for Q2, industrial came in as expected, right up 20% sequentially. We saw upside everywhere else, notably in auto and data center. One of the things we talked about is the continuing strength in data center. We're also starting to see better results than expected in auto. Consumer continues to show incredible resilience despite the consumer sentiment and some of the inflationary pressures. As we look out, we do expect to see some impact there. If we look at what we think at the midpoint of the guide, what we expect to see in Q3 is continued above seasonal growth across industrial, automotive, and communication. From an industrial and automotive perspective, we'd expect to grow sort of mid to high single digits sequentially.
+
+Unknown speaker: From a comms perspective, we expect to be our fastest grower, up low to mid-teens sequentially. Consumer is expected to be down single digits sequentially for us, based on some of the things I just described. Importantly, baked into that outlook is also a flat channel inventory weeks. We don't tend to guide out obviously beyond the next quarter, but I would just remind you from a seasonality perspective, the fourth quarter for us is usually up in the low single digits. That's the best outlook we have right now for the back half of 2026.
+
+Unknown speaker: Thanks.
+
+Unknown speaker: Thanks, Matt. We'll take our next question, please.
+
+Unknown speaker: Thank you. Our next question comes to the line of Stacy Rasgon from Bernstein Research. Your question, please.
+
+Unknown speaker: Hey, guys. Thanks for taking my questions. I wanted to drill just a little bit more into the gross margins. I understand the driver and I understand the guidance. We've been thinking about Q3 within that range as sort of a likely ceiling for now, just given utilizations are maxed. It sounds like if you're going to get more revenue upside from here, that would suggest that you're going to have to do more outsourcing, given the flexible manufacturing. I guess, I'm just trying to, is that logic correct, and is that sort of the, I guess, the local peak on gross margins we ought to be thinking about at least in the near term, on the current revenue trajectory?
+
+Unknown speaker: Yeah, I actually think that's the right way to think about it. Near term, this is probably the right way to think about the guided gross margins, the right way to think about it. Obviously, any more significant mix shift from a growth perspective could change that but given where we see that outlook for Q3 and the potential trend into Q4, I think that's the right way to think about it.
+
+Unknown speaker: Is data center higher gross margin like industrial, or is it more in line or is it lower or what? That seems to be the biggest driver of mix.
+
+Unknown speaker: Yeah. Overall, the comms business, which includes that data center chunk, is an above corporate average business for us.
+
+Unknown speaker: Got it. Thank you, guys.
+
+Unknown speaker: Sure.
+
+Unknown speaker: Thank you. Our next question comes from the line of William Stein from Truist Securities. Your question, please.
+
+Unknown speaker: Great. Thanks for taking my question. I was sort of surprised by the Empower acquisition, I would've expected ADI's heritage strength there, but certainly its acquisitions of Linear, Maxim, by extension Volterra, would have provided the company a big advantage in sort of all the technical capabilities and power management. What did Empower have that ADI decided was so special that it needed to acquire instead of developing it internally? Thank you.
+
+Unknown speaker: Yeah, good question. First off, the power space is very dynamic. It has never been as stressed from a technology portfolio standpoint for everybody. So, we're building intelligent power systems. We're using the breadth of the capabilities that we acquired over the Maxim and LTC eras. Our customers are putting enormous demands on us to solve their problems across the board, right from the ingress to the data center down to the chip. The reason that we acquired Empower is that there was a gap in that portfolio, and time is of the essence. The biggest bottleneck that AI is creating for us today is we've got to solve for power density and delivery efficiency. We have to move closer to the core of the problem, which is down at the XPU, the GPU, the CPU, and so on and so forth.
+
+Unknown speaker: As I said, time is of the essence. We're buying some critical and very unique intellectual property. The integrated voltage reg and the capacitor techno, these are critical building blocks and essential for ADI to solve our customers' problems on time and be able to catch the wave. We've been building a portfolio, a vertical power portfolio. That is the future, I believe, in terms of the raw architecture, and Empower gets us farther up the value chain more quickly to solve more problems more completely for our customers. That's essentially it. There's a lot of new TAM that we capture with this technology as well. It's highly complementary, Will, that's the point, in a space where performance demands are effectively uncapped.
+
+Unknown speaker: Great. Thanks, Vince.
+
+Unknown speaker: Thanks, Will. Take our next question.
+
+Unknown speaker: Certainly. Our next question comes from the line of Chris Caso from Wolfe Research. Your question please.
+
+Unknown speaker: Yes, thank you. If I could just follow up on Empower a bit as well. Can you speak, is there any revenue associated with that acquisition right now? I'm sure you're acquiring for the IP and the engineering team, but are there any design wins in the pipeline, and maybe provide a timeline for when you would expect to be able to integrate that technology into the core of ADI's product line?
+
+Unknown speaker: That was a lot of questions, Chris. Well, I'll start with if they stay on their trajectory, there'll be some amount of revenue upon closing in the back half of our year. It will certainly not be material to us, in that regard. But as mentioned, it opens up a massive opportunity for significant revenue growth in the go forward, particularly as it relates to the IVR technology. So, we would expect that to be, do you have a perspective on the timeline, Vince, how fast we get there?
+
+Unknown speaker: Yeah. We inherit a fairly small amount of revenue.
+
+Unknown speaker: Yes.
+
+Unknown speaker: It's kind of in the post-revenue phase, but 2027 is when we expect to start seeing the surge in demand. There's a lot of design-ins in train at this point in time. The combination of Empower with ADI's large manufacturing and go-to-market capabilities will enable us to get to more places more quickly and get into production much, much faster. I think, we'll see revenue, significant revenue in 2027.
+
+Unknown speaker: Thank you, Chris.
+
+Unknown speaker: Understood. That's clear.
+
+Unknown speaker: Thanks, Chris. Take our next question, please.
+
+Unknown speaker: Thank you. Our next question comes from the line of Tom O'Malley from Barclays. Your question please.
+
+Unknown speaker: Hey, guys. Thanks for taking my question. I wanted to zoom in on auto a bit more, stronger than expected. You're kind of hearing across the supply chain that coming out of the pandemic, you've moved from this kind of just-in-case and just-in-time mentality to switching to basically holding more inventory at Tier 1s than at OEMs. I'm just curious, when you're looking at where the strength is coming from in auto today, are you seeing some restocking at those end customers? I've heard it's kind of a mixed bag. Some guys are above target, some guys are materially below. Are you seeing this kind of phenomenon where guys are slowly moving back to the range that you saw kind of prior to the pandemic?
+
+Unknown speaker: Any area that you would call out specifically as a growth driver in auto, just given the broader backdrop being weaker, any areas specific to ADI that are a little bit stronger? I know that's a couple. Thank you.
+
+Unknown speaker: Yeah. Thanks for the question, Tom. Great question. Maybe I'll give a little bit of a background on some of the detailed part of what we've seen growing and what we're seeing in our customer base, and then I'll work my way down to your question about inventory, because that obviously is an area we pay a significant amount of attention to, given some of the challenges companies had burning off the inventory. As we look at our auto business, I think I've talked about this before, it has compounded double digits for us for 10+ years. In fact, it grows even faster over the last five years, and a lot of that is being driven by content gain, or all of that's being really driven by content gains and share gains because the units we've talked about haven't changed.
+
+Unknown speaker: What's really important for us is our gains are in the ADAS and next-gen infotainment systems. You think about our products like GMSL, functionally safe power, and A2B, those have been really important investments where we've continued to see a ton of growth. We have talked about this in the past, we saw some tariff-related pull-ins back in 2025 that we thought might weigh on our first half. We certainly saw that unfold in Q1 with the below seasonal, and we were expecting, I mentioned this on the last call, another below seasonal quarter as a result. However, it ended up favorable and reflected regular seasonality. If you recall last quarter, and there was some skepticism, I think, we indicated a stronger second half and that we would grow auto in 2026.
+
+Unknown speaker: That strength which we were expecting to come through in our second half came a bit sooner. Led by a material pickup in China during the back part of the quarter, and that drove a significant part of our Q2 upside. While China was still declining quarter-over-quarter, all of our other regions were up, including record performance in Europe and Japan, which resulted in a record quarter for our automotive business. Back to the inventory question a little bit, I was pleased to share for the first time in two years, we saw our BMS revenue grow up double digits year-over-year, and we are optimistic in continued growth for BMS driven by further EV penetration in Europe and China specifically. We continue to hear that the China penetration is increasing fast and that they're going to start deploying even higher levels of ADAS.
+
+Unknown speaker: We expect to see L3 ADAS in some of the China vehicles by the end of the year. These are all strong positive things for us. As we look out at Q3, we have record bookings, positive book-to-bill, and so we do expect to see above-seasonal growth sort of in that mid-high single digits. We are pretty confident in the outlook for the rest of the year for us in auto. Now, on the inventory buildup question, we're not seeing that yet. After the digestion, which we talked about, particularly in BMS, we feel like automotive customers are fairly lean on inventory, at least the ones we talk to, and which is very supportive of our growth expectation going forward.
+
+Unknown speaker: Thank you. We'll move on to our last question, please.
+
+Unknown speaker: Certainly, our final question for today comes from the line of Tore Svanberg from Stifel. Your question please.
+
+Unknown speaker: Yes, thank you. I just have a quick follow-up. I think there's increasing concerns about capacity, especially external capacity, given what's happening on the digital side of things. I don't know if you're willing to share with us numerically how much capacity you have internally and externally, meaning how much revenue you could generate. How do you plan to grow that over the next few years, especially now that you're growing more than 30%? Thank you.
+
+Unknown speaker: Yeah. We've talked about the work we've done to double our internal capacity and obviously continue to expand our partnerships. We are comfortable that we have the capacity to support up to the $20 billion that we've been talking about as part of our 2030 vision. Obviously, just as part of our normal refresh and CapEx management cycle, we're continuing to look at opportunities for increased efficiency, but also opportunities to build some additional internal capacity as needed. That's just part of the normal dynamics we go through on the internal side, and then obviously externally we've got very strong relationships, and to date we have not had troubles expanding across that. Clearly, there are more tightness in some of the nodes, but we have not yet been unable to get the capacity we've needed.
+
+Unknown speaker: Yeah. Tore.
+
+Unknown speaker: Acknowledged. Yes
+
+Unknown speaker: We've been building both internally and externally optionality. Externally, we've put a lot of geographical optionality in play, which gives us more capacity plus the resiliency that our customers are looking for. We still have a lot of upside on the current base revenue of ADI, both internally and externally.
+
+Unknown speaker: Sounds good. Thank you.
+
+Unknown speaker: Thanks, Tore.
+
+Unknown speaker: Thanks, Tore. All right. Thanks everyone for joining us today. A copy of this transcript will be available on our website, and all available reconciliations and additional information can also be found in the quarterly results section of our investor relations website, investor.analog.com. Thank you for your continued interest in Analog. Bye.
+
+Unknown speaker: Thank you, ladies and gentlemen, for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/filings/2026-05-20__adi-us-20260520-q2-8k-2__1040614.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Filing
+REPORTING PERIOD: Q2 2026
+
+TITLE: Second Quarter Financial Results and Third Quarter Outlook
+
+# Second Quarter Financial Results and Third Quarter Outlook
+Analog Devices Reports Record Fiscal Second Quarter 2026 Financial Results
+May 20, 2026 at 7:01 AM EDT
+Revenue of $3.62 billion, with year-over-year growth across all end markets, led by Industrial and Communications
+Operating cash flow of $5.1 billion and free cash flow of $4.6 billion on a trailing twelve-month basis or 40% and 36% of
+revenue, respectively
+Returned $1.3 billion to shareholders via dividends and share repurchases in the second quarter
+WILMINGTON, Mass. , May 20, 2026 /PRNewswire/ -- Analog Devices, Inc. (Nasdaq: ADI), a global semiconductor leader, today announced financial
+results for its fiscal second quarter 2026, which ended May 2, 2026.
+ 
+   
+"ADI's second quarter revenue and earnings were above the high end of our outlook, reflecting the combination of record demand and sharp
+operational discipline," said Vincent Roche, CEO and Chair. "Our innovation-led value creation strategy targets our customers' most complex and
+consequential challenges with a goal of delivering substantial and sustained business impact. We continue to invest to extend our technology
+performance leadership and enhance our long-term value for customers and shareholders alike."
+"We continued to see growing demand in the second quarter with record bookings across our B2B markets of Industrial, Automotive, and
+Communications," said Richard Puccio, CFO. "These positive demand signals are reflected in our outlook for continued strong growth in the third
+quarter." 
+Performance for the Second Quarter of Fiscal 2026
+Results Summary(1)
+(in millions, except per-share amounts and percentages)     
+Three Months Ended
+May 2, 2026 May 3, 2025 Change
+Revenue $            3,623$            2,640 37 %
+Gross margin $            2,440$            1,612 51 %
+Gross margin percentage 67.3 % 61.0 % 630 bps
+Operating income $            1,380$               678 104 %
+Operating margin 38.1 % 25.7 % 1,240 bps
+Diluted earnings per share $              2.40$              1.14 111 %
+Adjusted Results(2)
+Adjusted gross margin $            2,645$            1,832 44 %
+Adjusted gross margin percentage 73.0 % 69.4 % 360 bps
+Adjusted operating income $            1,774$            1,088 63 %
+Adjusted operating margin 49.0 % 41.2 % 780 bps
+Adjusted diluted earnings per share $              3.09$              1.85 67 %
+Three Months
+Ended
+Trailing Twelve
+Months
+Cash Generation May 2, 2026 May 2, 2026
+Net cash provided by operating activities $               872$             5,106
+
+
+<!-- PAGE 1 -->
+
+<!-- image -->
+
+## Analog Devices Reports Record Fiscal Second Quarter 2026 Financial Results
+
+May 20, 2026 at 7:01 AM EDT
+
+- Revenue of $3.62 billion, with year-over-year growth across all end markets, led by Industrial and Communications
+- Operating cash flow of $5.1 billion and free cash flow of $4.6 billion on a trailing twelve-month basis or 40% and 36% of revenue, respectively
+- Returned $1.3 billion to shareholders via dividends and share repurchases in the second quarter
+
+WILMINGTON, Mass., May 20, 2026 /PRNewswire/ -- Analog Devices, Inc. (Nasdaq: ADI), a global semiconductor leader, today announced financial results for its fiscal second quarter 2026, which ended May 2, 2026 .
+
+<!-- image -->
+
+"ADI's second quarter revenue and earnings were above the high end of our outlook, reflecting the combination of record demand and sharp operational discipline," said Vincent Roche, CEO and Chair. "Our innovation-led value creation strategy targets our customers' most complex and consequential challenges with a goal of delivering substantial and sustained business impact. We continue to invest to extend our technology performance leadership and enhance our long-term value for customers and shareholders alike."
+
+"We continued to see growing demand in the second quarter with record bookings across our B2B markets of Industrial, Automotive, and Communications," said Richard Puccio, CFO. "These positive demand signals are reflected in our outlook for continued strong growth in the third quarter."
+
+## Performance for the Second Quarter of Fiscal 2026
+
+## Results Summary (1)
+
+(in millions, except per-share amounts and percentages)
+
+|         | Three Months Ended   | Three Months Ended   | Three Months Ended     |
+|-------------------------------------------|----------------------|----------------------|------------------------|
+|         | May 2, 2026         | May 3, 2025         | Change         |
+| Revenue         | $         | 3,623 $ 2,640        | 37 %         |
+| Gross margin         | $         | 2,440 $ 1,612        | 51 %         |
+| Gross margin percentage         | 67.3 %         | 61.0 %         | 630 bps         |
+| Operating income         | $         | 1,380 $ 678         | 104 %         |
+| Operating margin         | 38.1 %         | 25.7 %         | 1,240 bps         |
+| Diluted earnings per share         | $         | 2.40 $         | 1.14 111 %         |
+| Adjusted Results (2)         |         |         |         |
+| Adjusted gross margin         | $         | 2,645 $ 1,832        | 44 %         |
+| Adjusted gross margin percentage         | 73.0 %         | 69.4 %         | 360 bps         |
+| Adjusted operating income         | $         | 1,774 $ 1,088        | 63 %         |
+| Adjusted operating margin         | 49.0 %         | 41.2 %         | 780 bps         |
+| Adjusted diluted earnings per share       | $         | 3.09 $         | 1.85 67 %         |
+|         |         | Three Months Ended   | Trailing Twelve Months |
+| Cash Generation         |         | May 2, 2026         | May 2, 2026         |
+| Net cash provided by operating activities |         | $ 872         | $         |
+
+<!-- PAGE 2 -->
+
+| %of revenue         | 24 %         | 40 %         |
+|----------------------|--------------------------------|------------------------------------|
+| Capital expenditures | $ (138)         | $         |
+| Free cash flow (2)   | $ 734         | $         |
+| %of revenue         | 20 %         | 36 %         |
+| Cash Return         | Three Months Ended May 2, 2026 | Trailing Twelve Months May 2, 2026 |
+| Dividend paid        | $ (536)         | $         |
+| Stock repurchases    | (773)         | (3,045)         |
+| Total cash returned  | $         | (1,309) $         |
+
+(1) The sum and/or computation of the individual amounts may not equal the total due to rounding.
+
+(2) Reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this press release. See also the "Non-GAAP Financial Information" section for additional information.
+
+## Outlook for the Third Quarter of Fiscal Year 2026
+
+For the third quarter of fiscal 2026, we are forecasting revenue of $3.9 billion, +/- $100 million. At the midpoint of this revenue outlook, we expect reported operating margin of approximately 39.0%, +/-150 bps, and adjusted operating margin of approximately 49.0%, +/-100 bps. We are planning for reported EPS to be $2.60, +/-$0.15, and adjusted EPS to be $3.30, +/-$0.15.
+
+Our third quarter fiscal 2026 outlook is based on current expectations and actual results may differ materially as a result of, among other things, the important factors discussed at the end of this release. The statements about our third quarter fiscal 2026 outlook supersede all prior statements regarding our business outlook set forth in prior ADI news releases, and ADI disclaims any obligation to update these forward-looking statements.
+
+The adjusted results and adjusted anticipated results above are financial measures presented on a non-GAAP basis. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this release. See also the "Non-GAAP Financial Information" section for additional information.
+
+## Dividend Payment
+
+The ADI Board of Directors has declared a quarterly cash dividend of $1.10 per outstanding share of common stock. The dividend will be paid on June 16, 2026 to all shareholders of record at the close of business on June 2, 2026.
+
+## Conference Call Scheduled for Today, Wednesday, May 20, 2026 at 10:00 am ET
+
+ADI will host a conference call to discuss our second quarter fiscal 2026 results and short-term outlook today, beginning at 10:00 am ET. Investors may join via webcast, accessible at investor.analog.com.
+
+## Non-GAAP Financial Information
+
+This release includes non-GAAP financial measures that are not in accordance with, nor an alternative to, U.S. generally accepted accounting principles (GAAP) and may be different from non-GAAP measures presented by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. These non-GAAP measures have material limitations in that they do not reflect all of the amounts associated with the Company's results of operations as determined in accordance with GAAP and should not be considered in isolation from, or as a substitute for, the Company's financial results presented in accordance with GAAP. The Company's use of non-GAAP measures, and the underlying methodology when including or excluding certain items, is not necessarily an indication of the results of operations that may be expected in the future, or that the Company will not, in fact, record such items in future periods. You are cautioned not to place undue reliance on these non-GAAP measures. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this release.
+
+Management uses non-GAAP measures internally to evaluate the Company's operating performance from continuing operations against past periods and to budget and allocate resources in future periods. These non-GAAP measures also assist management in evaluating the Company's core business and trends across different reporting periods on a consistent basis. Management also uses these non-GAAP measures as primary performance measurements when communicating with analysts and investors regarding the Company's earnings results and outlook and believes that the presentation of these non-GAAP measures is useful to investors because it provides investors with the operating results that management uses to manage the Company and enables investors and analysts to evaluate the Company's core business. Management also believes that free cash flow, a non-GAAP liquidity measure, is useful both internally and to investors because it is indicative of the Company's ability to pay dividends, purchase common stock, make investments and fund acquisitions and, in the absence of refinancings, to repay its debt obligations.
+
+The non-GAAP financial measures referenced by ADI in this release include: adjusted gross margin, adjusted gross margin percentage, adjusted operating expenses, adjusted operating expenses percentage, adjusted operating income, adjusted operating margin, adjusted nonoperating expense (income), adjusted income before income taxes, adjusted provision for income taxes, adjusted tax rate, adjusted diluted earnings per share (EPS), free cash flow, and free cash flow revenue percentage.
+
+Adjusted gross margin is defined as gross margin, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which are described further below . Adjusted gross margin percentage represents adjusted gross margin divided by revenue.
+
+Adjusted operating expenses is defined as operating expenses, determined in accordance with GAAP, excluding: certain acquisition related expenses 1 and special charges, net 2 , which are described further below. Adjusted operating expenses percentage represents adjusted operating expenses divided by revenue.
+
+<!-- PAGE 3 -->
+
+Adjusted operating income is defined as operating income, determined in accordance with GAAP, excluding: acquisition related expenses 1 and special charges, net 2 , which are described further below. Adjusted operating margin represents adjusted operating income divided by revenue.
+
+Adjusted nonoperating expense (income) is defined as nonoperating expense (income), determined in accordance with GAAP, excluding: certain acquisition related expenses 1 , which is described further below.
+
+Adjusted income before income taxes is defined as income before income taxes, determined in accordance with GAAP, excluding: acquisition related expenses 1 and s pecial charges, net 2 , which are described further below.
+
+Adjusted provision for income taxes is defined as provision for income taxes, determined in accordance with GAAP, excluding tax related items 3 , which are described further below. Adjusted tax rate represents adjusted provision for income taxes divided by adjusted income before income taxes.
+
+Adjusted diluted EPS is defined as diluted EPS, determined in accordance with GAAP, excluding: acquisition related expenses 1 , special charges, net 2 , and tax related items 3 , which are described further below.
+
+Free cash flow is defined as net cash provided by operating activities, determined in accordance with GAAP, less additions to property, plant and equipment, net. Free cash flow revenue percentage represents free cash flow divided by revenue.
+
+1 Acquisition Related Expenses : Expenses incurred as a result of current and prior period acquisitions and primarily include expenses associated with the fair value adjustments to debt, property, plant and equipment and amortization of acquisition related intangibles, which include acquired intangibles such as purchased technology and customer relationships. We excluded these costs from our non-GAAP measures because they relate to specific transactions and are not reflective of our ongoing financial performance.
+
+2 Special Charges, Net : Expenses, net, incurred in connection with facility closures, consolidation of manufacturing facilities, severance, other accelerated stock-based compensation expense and other cost reduction efforts or reorganizational initiatives. We excluded these expenses from our non-GAAP measures because apart from ongoing expense savings as a result of such items, these expenses have no direct correlation to the operation of our business in the future.
+
+3 Tax Related Items: Income tax effect of the non-GAAP items discussed above. We excluded the income tax effect of these tax related items from our non-GAAP measures because they are not associated with the tax expense on our current operating results.
+
+## About Analog Devices, Inc.
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X.
+
+## Forward-Looking Statements
+
+This press release contains forward-looking statements, which address a variety of subjects including, for example, our statements regarding future financial performance; impacts related to tariffs and other trade restrictions; economic uncertainty; macroeconomic, geopolitical, demand and other market conditions, business cycles, and supply chains; our capital allocation strategy, including future dividends, share repurchases, capital expenditures, investments, and free cash flow returns; expected revenue, operating margin, nonoperating expenses, tax rate, earnings per share, and other financial results; expected market and technology trends and acceleration of those trends; market size, market share gains, market position, and growth opportunities; expected product solutions, offerings, technologies, capabilities, and applications; the value and importance of, and other benefits related to, our product solutions, offerings, and technologies to our customers; benefits related to our hybrid manufacturing model; and other future events. Statements that are not historical facts, including statements about our beliefs, plans and expectations, are forward-looking statements. Such statements are based on our current expectations and are subject to a number of factors and uncertainties, which could cause actual results to differ materially from those described in the forward-looking statements. The following important factors and uncertainties, among others, could cause actual results to differ materially from those described in these forward-looking statements: economic, political, legal and regulatory uncertainty or conflicts; recently announced and future tariffs and other trade restrictions; changes in export classifications, import and export regulations or duties and tariffs; changes in demand for semiconductor products; performance of independent distributors; manufacturing delays, product and raw materials availability and supply chain disruptions; products may be diverted from our authorized distribution channels; our development of technologies and research and development investments; our ability to compete successfully in the markets in which we operate; our future liquidity, capital needs and capital expenditures; our ability to recruit and retain key personnel; risks related to acquisitions or other strategic transactions; security breaches or other cyber incidents; risks related to the use of artificial intelligence in our business operations, products, and services; adverse results in litigation matters; reputational damage; changes in our estimates of our expected tax rates based on current tax law; risks related to our indebtedness; the discretion of our Board of Directors to declare dividends and our ability to pay dividends in the future; factors impacting our ability to repurchase shares; and uncertainty as to the long-term value of our common stock. For additional information about factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to our filings with the Securities and Exchange Commission, including the risk factors contained in our most recent Annual Report on Form 10-K. Forward-looking statements represent management's current expectations and are inherently uncertain. Except as required by law, we do not undertake any obligation to update forward-looking statements made by us to reflect subsequent events or circumstances.
+
+Analog Devices and the Analog Devices logo are registered trademarks or trademarks of Analog Devices, Inc. All other trademarks mentioned in this document are the property of their respective owners.
+
+ANALOG DEVICES, INC. CONSOLIDATED STATEMENTS OF INCOME (Unaudited)
+
+(In thousands, except per share amounts)
+
+<!-- PAGE 4 -->
+
+|         | Three Months Ended   | Three Months Ended   | Six Months Ended   | Six Months Ended   |
+|-------------------------------------------------|----------------------|----------------------|--------------------|--------------------|
+|         | May 2, 2026         | May 3, 2025         | May 2, 2026        | May 3, 2025        |
+| Revenue         | $ 3,623,465$         | 2,640,068$         | 6,783,728$         | 5,063,242         |
+| Cost of sales         | 1,183,667         | 1,028,458         | 2,298,955         | 2,021,329         |
+| Gross margin         | 2,439,798         | 1,611,610         | 4,484,773         | 3,041,913         |
+| Operating expenses:         |         |         |         |         |
+| Research and development         | 509,323         | 441,837         | 976,723         | 844,729         |
+| Selling, marketing, general and administrative         | 362,810         | 302,669         | 708,063         | 587,465         |
+| Amortization of intangibles         | 187,985         | 187,415         | 375,300         | 374,830         |
+| Special charges, net         | -         | 1,745         | 47,982         | 65,632         |
+| Total operating expenses         | 1,060,118         | 933,666         | 2,108,068         | 1,872,656         |
+| Operating income         | 1,379,680         | 677,944         | 2,376,705         | 1,169,257         |
+| Nonoperating expense (income):         |         |         |         |         |
+| Interest expense         | 87,619         | 74,703         | 173,963         | 149,967         |
+| Interest income         | (28,565)         | (21,725)         | (60,822)         | (45,212)         |
+| Other, net         | (4,202)         | (962)         | (7,135)         | 2,998         |
+| Total nonoperating expense (income)         | 54,852         | 52,016         | 106,006         | 107,753         |
+| Income before income taxes         | 1,324,828         | 625,928         | 2,270,699         | 1,061,504         |
+| Provision for income taxes         | 148,478         | 56,158         | 263,523         | 100,418         |
+| Net income         | $ 1,176,350         | $ 569,770         | $ 2,007,176        | $         |
+| Shares used to compute earnings per common share - basic   | 487,605         | 496,173         | 488,239         | 496,145         |
+| Shares used to compute earnings per common share - diluted | 490,458         | 498,201         | 491,057         | 498,434         |
+| Basic earnings per common share         | $         | 2.41$         | 1.15$         | 4.11$         |
+| Diluted earnings per common share         | $         | 2.40$         | 1.14$         | 4.09$         |
+
+## ANALOG DEVICES, INC. CONSOLIDATED BALANCE SHEETS
+
+## (Unaudited) (In thousands, except share and per share amounts)
+
+|         | May 2, 2026   | Nov. 1, 2025   |
+|-------------------------------------------|---------------|----------------|
+| ASSETS         |         |         |
+| Current Assets         |         |         |
+| Cash and cash equivalents         | $ 2,436,916   | $ 2,499,406    |
+| Short-term investments         | 1,002,392     | 1,152,915      |
+| Accounts receivable         | 2,051,733     | 1,436,075      |
+| Inventories         | 1,848,405     | 1,656,323      |
+| Prepaid expenses and other current assets | 470,327       | 363,342        |
+| Total current assets         | 7,809,773     | 7,108,061      |
+| Non-current Assets         |         |         |
+| Net property, plant and equipment         | 3,292,288     | 3,315,696      |
+| Goodwill         | 26,973,180    | 26,945,180     |
+| Intangible assets, net         | 7,255,362     | 8,013,815      |
+| Deferred tax assets         | 1,729,558     | 1,867,102      |
+| Other assets         | 888,934       | 742,858        |
+| Total non-current assets         | 40,139,322    | 40,884,651     |
+| TOTAL ASSETS         | $ 47,949,095  | $         |
+| LIABILITIES AND SHAREHOLDERS' EQUITY      |         |         |
+| Current Liabilities         |         |         |
+| Accounts payable         | $ 598,640$    |         |
+| Income taxes payable         | 325,626       | 610,370        |
+| Debt, current         | 899,227       | -         |
+| Commercial paper notes         | 550,198       | 446,639        |
+| Accrued liabilities         | 2,083,216     | 1,645,032      |
+| Total current liabilities         | 4,456,907     | 3,245,801      |
+| Non-current Liabilities         |         |         |
+
+<!-- PAGE 5 -->
+
+| Long-term debt         | 7,235,424    | 8,145,066   |
+|-------------------------------------------------|--------------|-------------|
+| Deferred income taxes         | 1,906,115    | 2,163,281   |
+| Income taxes payable         | 87,109       | 100,963     |
+| Other non-current liabilities         | 521,507      | 521,846     |
+| Total non-current liabilities         | 9,750,155    | 10,931,156  |
+| Shareholders' Equity         |         |         |
+| Preferred stock, $1.00 par value, 471,934 shares authorized, none outstanding         | -         | -         |
+| Common stock, $0.16 2/3 par value, 1,200,000,000 shares authorized, 487,087,040 shares outstanding (489,654,097 on November 1, 2025 ) | 81,183       | 81,611      |
+| Capital in excess of par value         | 22,287,095   | 23,349,185  |
+| Retained earnings         | 11,525,998   | 10,539,541  |
+| Accumulated other comprehensive loss         | (152,243)    | (154,582)   |
+| Total shareholders' equity         | 33,742,033   | 33,815,755  |
+| TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY         | $ 47,949,095 | $         |
+
+## ANALOG DEVICES, INC. CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+
+(In thousands)
+
+|         | Three Months Ended   | Three Months Ended   | Six Months Ended   | Six Months Ended   |
+|-------------------------------------------------|----------------------|----------------------|--------------------|--------------------|
+|         | May 2, 2026         | May 3, 2025         | May 2, 2026        | May 3, 2025        |
+| Cash flows from operating activities:         |         |         |         |         |
+| Net income         | $ 1,176,350         | $ 569,770         | $ 2,007,176        | $ 961,086         |
+| Adjustments to reconcile net income to net cash provided by operations: |         |         |         |         |
+| Depreciation         | 104,957         | 100,334         | 210,843         | 198,781         |
+| Amortization of intangibles         | 385,978         | 400,273         | 770,593         | 817,429         |
+| Stock-based compensation expense         | 81,721         | 72,831         | 167,396         | 150,405         |
+| Deferred income taxes         | (60,269)         | (89,916)         | (120,930)         | (149,370)         |
+| Other         | (8,698)         | 5,002         | 4,727         | 4,203         |
+| Changes in operating assets and liabilities         | (807,998)         | (238,816)         | (799,249)         | (36,247)         |
+| Total adjustments         | (304,309)         | 249,708         | 233,380         | 985,201         |
+| Net cash provided by operating activities         | 872,041         | 819,478         | 2,240,556         | 1,946,287         |
+| Cash flows from investing activities:         |         |         |         |         |
+| Maturities of short-term available-for-sale investments         | 137,825         | 372,778         | 147,817         | 372,778         |
+| Additions to property, plant and equipment, net         | (137,702)         | (90,268)         | (247,015)         | (239,246)         |
+| Proceeds from sale of property, plant and equipment, net         | -         | 58,892         | -         | 58,892         |
+| Payments for acquisitions, net of cash acquired         | (35,875)         | -         | (35,875)         | (45,652)         |
+| Other         | (16,174)         | (13,209)         | (23,882)         | (12,880)         |
+| Net cash (used for) provided by investing activities         | (51,926)         | 328,193         | (158,955)         | 133,892         |
+| Cash flows from financing activities:         |         |         |         |         |
+| Debt repayments         | -         | (399,998)         | -         | (399,998)         |
+| Proceeds from commercial paper notes         | 4,107,964         | 2,347,064         | 7,154,789         | 4,316,340         |
+| Payments of commercial paper notes         | (4,100,808)         | (2,346,747)         | (7,051,230)        | (4,315,358)        |
+| Repurchase of common stock         | (772,902)         | (248,646)         | (1,289,401)        | (409,014)         |
+| Dividend payments to shareholders         | (536,459)         | (491,022)         | (1,020,719)        | (947,360)         |
+| Proceeds from employee stock plans         | 9,866         | 19,815         | 59,487         | 61,562         |
+| Other         | 3,280         | (1,896)         | 2,983         | (1,458)         |
+| Net cash used for financing activities         | (1,289,059)         | (1,121,430)         | (2,144,091)        | (1,695,286)        |
+| Net (decrease) increase in cash and cash equivalents         | (468,944)         | 26,241         | (62,490)         | 384,893         |
+| Cash and cash equivalents at beginning of period         | 2,905,860         | 2,349,994         | 2,499,406         | 1,991,342         |
+| Cash and cash equivalents at end of period         | $ 2,436,916         | $ 2,376,235         | $ 2,436,916        | $ 2,376,235        |
+
+## ANALOG DEVICES, INC. REVENUE TRENDS BY END MARKET (Unaudited) (In thousands)
+
+The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the "sold to" customer information, the "ship to" customer information and the end customer product or application into which our product will be incorporated. The assignment of products to end markets may change over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying trends of results within, each end market.
+
+<!-- PAGE 6 -->
+
+|         | Three Months Ended   | Three Months Ended   | Three Months Ended   | Three Months Ended   | Three Months Ended   |
+|----------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|         | May 2, 2026         | May 2, 2026         | May 2, 2026         | May 3, 2025         | May 3, 2025         |
+|         | Revenue         | %of Revenue 1        | Y/Y%         | Revenue         | %of Revenue 1        |
+| Industrial     | $ 1,799,413         | 50 %         | 56 %         | $ 1,150,315         | 44 %         |
+| Automotive     | 871,565         | 24 %         | 2 %         | 856,090         | 32 %         |
+| Communications | 554,728         | 15 %         | 79 %         | 310,604         | 12 %         |
+| Consumer       | 397,759         | 11 %         | 23 %         | 323,059         | 12 %         |
+| Total revenue  | $ 3,623,465         | 100 %         | 37 %         | $ 2,640,068         | 100 %         |
+
+|         | Six Months Ended   | Six Months Ended   | Six Months Ended   | Six Months Ended   | Six Months Ended   |
+|----------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+|         | May 2, 2026        | May 2, 2026        | May 2, 2026        | May 3, 2025        | May 3, 2025        |
+|         | Revenue         | % of Revenue 1     | Y/Y%         | Revenue         | %of Revenue 1      |
+| Industrial     | $ 3,296,449        | 49 %         | 48 %         | $ 2,220,569        | 44 %         |
+| Automotive     | 1,681,709         | 25 %         | 5 %         | 1,596,349         | 32 %         |
+| Communications | 1,009,911         | 15 %         | 65 %         | 610,905         | 12 %         |
+| Consumer       | 795,659         | 12 %         | 25 %         | 635,419         | 13 %         |
+| Total revenue  | $ 6,783,728        | 100 %         | 34 %         | $ 5,063,242        | 100 %         |
+
+1) The sum of the individual percentages may not equal the total due to rounding.
+
+## ANALOG DEVICES, INC. RECONCILIATION OF GAAP TO NON-GAAP RESULTS (Unaudited) (In thousands, except per share amounts)
+
+|         | Three Months Ended   | Three Months Ended   | Six Months Ended   | Six Months Ended   |
+|----------------------------------------|----------------------|----------------------|--------------------|--------------------|
+|         | May 2, 2026         | May 3, 2025         | May 2, 2026        | May 3, 2025        |
+| Gross margin         | $ 2,439,798         | $ 1,611,610         | $ 4,484,773        | $ 3,041,913        |
+| Gross margin percentage         | 67.3 %         | 61.0 %         | 66.1 %         | 60.1 %         |
+| Acquisition related expenses         | 205,464         | 220,277         | 410,212         | 458,109         |
+| Adjusted gross margin         | $ 2,645,262         | $ 1,831,887         | $ 4,894,985        | $ 3,500,022        |
+| Adjusted gross margin percentage       | 73.0 %         | 69.4 %         | 72.2 %         | 69.1 %         |
+| Operating expenses         | $ 1,060,118         | $ 933,666         | $ 2,108,068        | $ 1,872,656        |
+| Percent of revenue         | 29.3 %         | 35.4 %         | 31.1 %         | 37.0 %         |
+| Acquisition related expenses         | (188,582)         | (188,015)         | (376,495)         | (376,030)         |
+| Special charges, net         | -         | (1,745)         | (47,982)         | (65,632)         |
+| Adjusted operating expenses         | $ 871,536         | $ 743,906         | $ 1,683,591        | $ 1,430,994        |
+| Adjusted operating expenses percentage | 24.1 %         | 28.2 %         | 24.8 %         | 28.3 %         |
+| Operating income         | $ 1,379,680         | $ 677,944         | $ 2,376,705        | $ 1,169,257        |
+| Operating margin         | 38.1 %         | 25.7 %         | 35.0 %         | 23.1 %         |
+| Acquisition related expenses         | 394,046         | 408,292         | 786,707         | 834,139         |
+| Special charges, net         | -         | 1,745         | 47,982         | 65,632         |
+| Adjusted operating income         | $ 1,773,726         | $ 1,087,981         | $ 3,211,394        | $ 2,069,028        |
+| Adjusted operating margin         | 49.0 %         | 41.2 %         | 47.3 %         | 40.9 %         |
+| Nonoperating expense (income)         | $ 54,852         | $ 52,016         | $ 106,006         | $         |
+| Acquisition related expenses         | 2,150         | 2,150         | 4,300         | 4,300         |
+| Adjusted nonoperating expense (income) | $ 57,002         | $ 54,166         | $ 110,306         | $         |
+| Income before income taxes         | $ 1,324,828         | $ 625,928         | $ 2,270,699        | $ 1,061,504        |
+| Acquisition related expenses         | 391,896         | 406,142         | 782,407         | 829,839         |
+| Special charges, net         | -         | 1,745         | 47,982         | 65,632         |
+| Adjusted income before income taxes    | $ 1,716,724         | $ 1,033,815         | $ 3,101,088        | $ 1,956,975        |
+| Provision for income taxes         | $ 148,478         | $ 56,158         | $ 263,523         | $         |
+
+<!-- PAGE 7 -->
+
+| Effective income tax rate         | 11.2 %    | 9.0 %     | 11.6 %    | 9.5 %   |
+|-------------------------------------|-----------|-----------|-----------|---------|
+| Tax related items         | 54,219    | 57,573    | 114,668   | 122,635 |
+| Adjusted provision for income taxes | $ 202,697 | $ 113,731 | $ 378,191 | $       |
+| Adjusted tax rate         | 11.8 %    | 11.0 %    | 12.2 %    | 11.4 %  |
+| Diluted EPS         | $ 2.40    | $ 1.14    | $ 4.09    | $       |
+| Acquisition related expenses        | 0.80      | 0.82      | 1.59      | 1.66    |
+| Special charges, net         | -         | -         | 0.10      | 0.13    |
+| Tax related items         | (0.11)    | (0.12)    | (0.23)    | (0.25)  |
+| Adjusted diluted EPS*         | $ 3.09    | $ 1.85    | $ 5.54    | $       |
+
+* The sum of the individual per share amounts may not equal the total due to rounding.
+
+## ANALOG DEVICES, INC. RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW (Unaudited) (In thousands)
+
+|         | Trailing Twelve Months   | Three Months Ended    | Three Months Ended   | Three Months Ended   | Three Months Ended   |
+|-------------------------------------------|--------------------------|-----------------------|----------------------|----------------------|----------------------|
+|         | May 2, 2026         | May 2, 2026         | Jan. 31, 2026        | Nov. 1, 2025         | Aug. 2, 2025         |
+| Revenue         | $ 12,739,993         | $ 3,623,465         | $ 3,160,063         | $ 3,076,117         | $ 2,880,348         |
+| Net cash provided by operating activities | $         | 5,106,471 $ 872,041   | $ 1,368,515         | $ 1,700,810         | $ 1,165,105         |
+| %of Revenue         | 40 %         | 24 %         | 43 %         | 55 %         | 40 %         |
+| Capital expenditures         | $         | (541,321) $ (137,702) | $ (109,313)         | $ (215,153)         | $ (79,153)         |
+| Free cash flow         | $         | 4,565,150 $ 734,339   | $ 1,259,202         | $ 1,485,657         | $ 1,085,952         |
+| %of Revenue         | 36 %         | 20 %         | 40 %         | 48 %         | 38 %         |
+
+## ANALOG DEVICES, INC. RECONCILIATION OF PROJECTED GAAP TO NON-GAAP RESULTS (Unaudited)
+
+|         | Three Months Ending August 1, 2026   | Three Months Ending August 1, 2026   |
+|--------------------|--------------------------------------|--------------------------------------|
+|         | Reported         | Adjusted         |
+| Revenue         | $3.9 Billion         | $3.9 Billion         |
+| Operating margin   | 39.0 %         | 49.0 %(1)         |
+|         | (+/-150 bps)         | (+/-100 bps)         |
+| Tax rate         | 12% - 14%         | 12% - 14% (2)         |
+| Earnings per share | $2.60         | $3.30 (3)         |
+|         | (+/- $0.15)         | (+/- $0.15)         |
+
+(1) Includes $391 million of adjustments related to acquisition related expenses as previously defined in the Non-GAAP Financial Information section of this press release.
+
+(2) Includes $51 million of tax effects associated with the adjustment for acquisition related expenses noted above.
+
+(3) Includes $0.70 of adjustments related to the net impact of acquisition related expenses and the tax effects on those items.
+
+## For more information, please contact:
+
+Jeff Ambrosi Senior Director, Investor Relations Analog Devices, Inc. 781-461-3282
+
+investor.relations@analog.com
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/analog-devices-reports-record-fiscal-second-quarter2026-financial-results-302776884.html
+
+SOURCE Analog Devices, Inc.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/filings/2026-05-20__adi-us-20260520-q2-8k__1040581.md
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/6281/000000628126000050/adi2q26exhibit991earnings.htm
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Filing
+REPORTING PERIOD: Q2 2026
+
+TITLE: Fiscal Second Quarter Financial Results and Third Quarter Outlook
+
+# Fiscal Second Quarter Financial Results and Third Quarter Outlook
+EX-99.1 2 adi2q26exhibit991earnings.htm EX-99.1  Document
+
+Exhibit 99.1
+
+Analog Devices Reports Record Fiscal Second Quarter 2026 Financial Results
+
+•Revenue of $3.62 billion, with year-over-year growth across all end markets, led by Industrial and Communications
+
+•Operating cash flow of $5.1 billion and free cash flow of $4.6 billion on a trailing twelve-month basis or 40% and 36% of revenue, respectively
+
+•Returned $1.3 billion to shareholders via dividends and share repurchases in the second quarter
+
+WILMINGTON, Mass.--May 20, 2026\--Analog Devices, Inc. (Nasdaq: ADI), a global semiconductor leader, today announced financial results for its fiscal second quarter 2026, which ended May 2, 2026.
+
+"ADI's second quarter revenue and earnings were above the high end of our outlook, reflecting the combination of record demand and sharp operational discipline," said Vincent Roche, CEO and Chair. "Our innovation-led value creation strategy targets our customers' most complex and consequential challenges with a goal of delivering substantial and sustained business impact. We continue to invest to extend our technology performance leadership and enhance our long-term value for customers and shareholders alike."
+
+"We continued to see growing demand in the second quarter with record bookings across our B2B markets of Industrial, Automotive, and Communications," said Richard Puccio, CFO. "These positive demand signals are reflected in our outlook for continued strong growth in the third quarter."
+
+* * *
+
+Performance for the Second Quarter of Fiscal 2026
+
+| Results Summary | | | | | |
+| --- | --- | --- | --- | --- | --- |
+| (in millions, except per-share amounts and percentages) | | | | | |
+| | Three Months Ended |
+| | May 2, 2026 | | May 3, 2025 | | Change |
+| Revenue | $ | 3,623 | | | $ | 2,640 | | | 37 | % |
+| Gross margin | $ | 2,440 | | | $ | 1,612 | | | 51 | % |
+| Gross margin percentage | 67.3 | % | | 61.0 | % | | 630 bps |
+| Operating income | $ | 1,380 | | | $ | 678 | | | 104 | % |
+| Operating margin | 38.1 | % | | 25.7 | % | | 1,240 bps |
+| Diluted earnings per share | $ | 2.40 | | | $ | 1.14 | | | 111 | % |
+| Adjusted Results | | | | | |
+| Adjusted gross margin | $ | 2,645 | | | $ | 1,832 | | | 44 | % |
+| Adjusted gross margin percentage | 73.0 | % | | 69.4 | % | | 360 bps |
+| Adjusted operating income | $ | 1,774 | | | $ | 1,088 | | | 63 | % |
+| Adjusted operating margin | 49.0 | % | | 41.2 | % | | 780 bps |
+| Adjusted diluted earnings per share | $ | 3.09 | | | $ | 1.85 | | | 67 | % |
+| | | | Three Months Ended | | Trailing Twelve Months |
+| Cash Generation | | | May 2, 2026 | | May 2, 2026 |
+| Net cash provided by operating activities | | | $ | 872 | | | $ | 5,106 | |
+| % of revenue | | | 24 | % | | 40 | % |
+| Capital expenditures | | | $ | (138) | | | $ | (541) | |
+| Free cash flow | | | $ | 734 | | | $ | 4,565 | |
+| % of revenue | | | 20 | % | | 36 | % |
+| | | | Three Months Ended | | Trailing Twelve Months |
+| Cash Return | | | May 2, 2026 | | May 2, 2026 |
+| Dividend paid | | | $ | (536) | | | $ | (1,998) | |
+| Stock repurchases | | | (773) | | | (3,045) | |
+| Total cash returned | | | $ | (1,309) | | | $ | (5,043) | |
+| (1) The sum and/or computation of the individual amounts may not equal the total due to rounding. |
+| (2) Reconciliations of non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this press release. See also the "Non-GAAP Financial Information" section for additional information. |
+
+* * *
+
+Outlook for the Third Quarter of Fiscal Year 2026
+
+For the third quarter of fiscal 2026, we are forecasting revenue of $3.9 billion, +/- $100 million. At the midpoint of this revenue outlook, we expect reported operating margin of approximately 39.0%, +/-150 bps, and adjusted operating margin of approximately 49.0%, +/-100 bps. We are planning for reported EPS to be $2.60, +/-$0.15, and adjusted EPS to be $3.30, +/-$0.15.
+
+Our third quarter fiscal 2026 outlook is based on current expectations and actual results may differ materially as a result of, among other things, the important factors discussed at the end of this release. The statements about our third quarter fiscal 2026 outlook supersede all prior statements regarding our business outlook set forth in prior ADI news releases, and ADI disclaims any obligation to update these forward-looking statements.
+
+The adjusted results and adjusted anticipated results above are financial measures presented on a non-GAAP basis. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this release. See also the "Non-GAAP Financial Information" section for additional information.
+
+Dividend Payment
+
+The ADI Board of Directors has declared a quarterly cash dividend of $1.10 per outstanding share of common stock. The dividend will be paid on June 16, 2026 to all shareholders of record at the close of business on June 2, 2026.
+
+Conference Call Scheduled for Today, Wednesday, May 20, 2026 at 10:00 am ET
+
+ADI will host a conference call to discuss our second quarter fiscal 2026 results and short-term outlook today, beginning at 10:00 am ET. Investors may join via webcast, accessible at investor.analog.com.
+
+Non-GAAP Financial Information
+
+This release includes non-GAAP financial measures that are not in accordance with, nor an alternative to, U.S. generally accepted accounting principles (GAAP) and may be different from non-GAAP measures presented by other companies. In addition, these non-GAAP measures are not based on any comprehensive set of accounting rules or principles. These non-GAAP measures have material limitations in that they do not reflect all of the amounts associated with the Company's results of operations as determined in accordance with GAAP and should not be considered in isolation from, or as a substitute for, the Company's financial results presented in accordance with GAAP. The Company's use of non-GAAP measures, and the underlying methodology when including or excluding certain items, is not necessarily an indication of the results of operations that may be expected in the future, or that the Company will not, in fact, record such items in future periods. You are cautioned not to place undue reliance on these non-GAAP measures. Reconciliations of these non-GAAP financial measures to their most directly comparable GAAP financial measures are provided in the financial tables included in this release.
+
+Management uses non-GAAP measures internally to evaluate the Company's operating performance from continuing operations against past periods and to budget and allocate resources in future periods. These non-GAAP measures also assist management in evaluating the Company's core business and trends across different reporting periods on a consistent basis. Management also uses these non-GAAP measures as primary performance measurements when communicating with analysts and investors regarding the Company's earnings results and outlook and believes that the presentation of these non-GAAP measures is
+
+* * *
+
+useful to investors because it provides investors with the operating results that management uses to manage the Company and enables investors and analysts to evaluate the Company's core business. Management also believes that free cash flow, a non-GAAP liquidity measure, is useful both internally and to investors because it is indicative of the Company's ability to pay dividends, purchase common stock, make investments and fund acquisitions and, in the absence of refinancings, to repay its debt obligations.
+
+The non-GAAP financial measures referenced by ADI in this release include: adjusted gross margin, adjusted gross margin percentage, adjusted operating expenses, adjusted operating expenses percentage, adjusted operating income, adjusted operating margin, adjusted nonoperating expense (income), adjusted income before income taxes, adjusted provision for income taxes, adjusted tax rate, adjusted diluted earnings per share (EPS), free cash flow, and free cash flow revenue percentage.
+
+Adjusted gross margin is defined as gross margin, determined in accordance with GAAP, excluding: certain acquisition related expenses, which are described further below. Adjusted gross margin percentage represents adjusted gross margin divided by revenue.
+
+Adjusted operating expenses is defined as operating expenses, determined in accordance with GAAP, excluding: certain acquisition related expenses and special charges, net,{}which are described further below. Adjusted operating expenses percentage represents adjusted operating expenses divided by revenue.
+
+Adjusted operating income is defined as operating income, determined in accordance with GAAP, excluding: acquisition related expenses and special charges, net, which are described further below. Adjusted operating margin represents adjusted operating income divided by revenue.
+
+Adjusted nonoperating expense (income) is defined as nonoperating expense (income), determined in accordance with GAAP, excluding: certain acquisition related expenses, which is described further below.
+
+Adjusted income before income taxes is defined as income before income taxes, determined in accordance with GAAP, excluding: acquisition related expenses and special charges, net, which are described further below.
+
+Adjusted provision for income taxes is defined as provision for income taxes, determined in accordance with GAAP, excluding tax related items, which are described further below. Adjusted tax rate represents adjusted provision for income taxes divided by adjusted income before income taxes.
+
+Adjusted diluted EPS is defined as diluted EPS, determined in accordance with GAAP, excluding: acquisition related expenses, special charges, net, and tax related items, which are described further below.
+
+Free cash flow is defined as net cash provided by operating activities, determined in accordance with GAAP, less additions to property, plant and equipment, net. Free cash flow revenue percentage represents free cash flow divided by revenue.
+
+Acquisition Related Expenses: Expenses incurred as a result of current and prior period acquisitions and primarily include expenses associated with the fair value adjustments to debt, property, plant and equipment and amortization of acquisition related intangibles, which include acquired intangibles such as purchased technology and customer relationships. We excluded these costs from our non-GAAP measures because they relate to specific transactions and are not reflective of our ongoing financial performance.
+
+Special Charges, Net: Expenses, net, incurred in connection with facility closures, consolidation of manufacturing facilities, severance, other accelerated stock-based compensation expense and other cost reduction efforts or reorganizational initiatives. We excluded these expenses from our
+
+* * *
+
+non-GAAP measures because apart from ongoing expense savings as a result of such items, these expenses have no direct correlation to the operation of our business in the future.
+
+Tax Related Items: Income tax effect of the non-GAAP items discussed above. We excluded the income tax effect of these tax related items from our non-GAAP measures because they are not associated with the tax expense on our current operating results.
+
+About Analog Devices, Inc.
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X.
+
+Forward-Looking Statements
+
+This press release contains forward-looking statements, which address a variety of subjects including, for example, our statements regarding future financial performance; impacts related to tariffs and other trade restrictions; economic uncertainty; macroeconomic, geopolitical, demand and other market conditions, business cycles, and supply chains; our capital allocation strategy, including future dividends, share repurchases, capital expenditures, investments, and free cash flow returns; expected revenue, operating margin, nonoperating expenses, tax rate, earnings per share, and other financial results; expected market and technology trends and acceleration of those trends; market size, market share gains, market position, and growth opportunities; expected product solutions, offerings, technologies, capabilities, and applications; the value and importance of, and other benefits related to, our product solutions, offerings, and technologies to our customers; benefits related to our hybrid manufacturing model; and other future events. Statements that are not historical facts, including statements about our beliefs, plans and expectations, are forward-looking statements. Such statements are based on our current expectations and are subject to a number of factors and uncertainties, which could cause actual results to differ materially from those described in the forward-looking statements. The following important factors and uncertainties, among others, could cause actual results to differ materially from those described in these forward-looking statements: economic, political, legal and regulatory uncertainty or conflicts; recently announced and future tariffs and other trade restrictions; changes in export classifications, import and export regulations or duties and tariffs; changes in demand for semiconductor products; performance of independent distributors; manufacturing delays, product and raw materials availability and supply chain disruptions; products may be diverted from our authorized distribution channels; our development of technologies and research and development investments; our ability to compete successfully in the markets in which we operate; our future liquidity, capital needs and capital expenditures; our ability to recruit and retain key personnel; risks related to acquisitions or other strategic transactions; security breaches or other cyber incidents; risks related to the use of artificial intelligence in our business operations, products, and services; adverse results in litigation matters; reputational damage; changes in our estimates of our expected tax rates based on current tax law; risks related to our indebtedness; the discretion of our Board of Directors to declare dividends and our ability to pay dividends in the future; factors impacting our ability to repurchase shares; and uncertainty as to the long-term value of our common stock. For additional information about factors that could cause actual results to differ materially from those described in the forward-looking statements, please refer to our filings with the Securities and Exchange Commission, including the risk factors contained in our most recent Annual Report on Form 10-K. Forward-looking statements represent management's current expectations and are
+
+* * *
+
+inherently uncertain. Except as required by law, we do not undertake any obligation to update forward-looking statements made by us to reflect subsequent events or circumstances.
+
+Analog Devices and the Analog Devices logo are registered trademarks or trademarks of Analog Devices, Inc. All other trademarks mentioned in this document are the property of their respective owners.
+
+* * *
+
+ANALOG DEVICES, INC.
+
+CONSOLIDATED STATEMENTS OF INCOME
+
+(Unaudited)
+
+(In thousands, except per share amounts)
+
+| | Three Months Ended | | Six Months Ended |
+| --- | --- | --- | --- |
+| | May 2, 2026 | | May 3, 2025 | | May 2, 2026 | | May 3, 2025 |
+| Revenue | $ | 3,623,465 | | | $ | 2,640,068 | | | $ | 6,783,728 | | | $ | 5,063,242 | |
+| Cost of sales | 1,183,667 | | | 1,028,458 | | | 2,298,955 | | | 2,021,329 | |
+| Gross margin | 2,439,798 | | | 1,611,610 | | | 4,484,773 | | | 3,041,913 | |
+| Operating expenses: | | | | | | | |
+| Research and development | 509,323 | | | 441,837 | | | 976,723 | | | 844,729 | |
+| Selling, marketing, general and administrative | 362,810 | | | 302,669 | | | 708,063 | | | 587,465 | |
+| Amortization of intangibles | 187,985 | | | 187,415 | | | 375,300 | | | 374,830 | |
+| Special charges, net | — | | | 1,745 | | | 47,982 | | | 65,632 | |
+| Total operating expenses | 1,060,118 | | | 933,666 | | | 2,108,068 | | | 1,872,656 | |
+| Operating income | 1,379,680 | | | 677,944 | | | 2,376,705 | | | 1,169,257 | |
+| Nonoperating expense (income): | | | | | | | |
+| Interest expense | 87,619 | | | 74,703 | | | 173,963 | | | 149,967 | |
+| Interest income | (28,565) | | | (21,725) | | | (60,822) | | | (45,212) | |
+| Other, net | (4,202) | | | (962) | | | (7,135) | | | 2,998 | |
+| Total nonoperating expense (income) | 54,852 | | | 52,016 | | | 106,006 | | | 107,753 | |
+| Income before income taxes | 1,324,828 | | | 625,928 | | | 2,270,699 | | | 1,061,504 | |
+| Provision for income taxes | 148,478 | | | 56,158 | | | 263,523 | | | 100,418 | |
+| Net income | $ | 1,176,350 | | | $ | 569,770 | | | $ | 2,007,176 | | | $ | 961,086 | |
+| Shares used to compute earnings per common share - basic | 487,605 | | | 496,173 | | | 488,239 | | | 496,145 | |
+| Shares used to compute earnings per common share - diluted | 490,458 | | | 498,201 | | | 491,057 | | | 498,434 | |
+| Basic earnings per common share | $ | 2.41 | | | $ | 1.15 | | | $ | 4.11 | | | $ | 1.94 | |
+| Diluted earnings per common share | $ | 2.40 | | | $ | 1.14 | | | $ | 4.09 | | | $ | 1.93 | |
+
+* * *
+
+ANALOG DEVICES, INC.
+
+CONSOLIDATED BALANCE SHEETS
+
+(Unaudited)
+
+(In thousands, except share and per share amounts)
+
+| | May 2, 2026 | | Nov. 1, 2025 |
+| --- | --- | --- | --- |
+| ASSETS | | | |
+| Current Assets | | | |
+| Cash and cash equivalents | $ | 2,436,916 | | | $ | 2,499,406 | |
+| Short-term investments | 1,002,392 | | | 1,152,915 | |
+| Accounts receivable | 2,051,733 | | | 1,436,075 | |
+| Inventories | 1,848,405 | | | 1,656,323 | |
+| Prepaid expenses and other current assets | 470,327 | | | 363,342 | |
+| Total current assets | 7,809,773 | | | 7,108,061 | |
+| Non-current Assets | | | |
+| Net property, plant and equipment | 3,292,288 | | | 3,315,696 | |
+| Goodwill | 26,973,180 | | | 26,945,180 | |
+| Intangible assets, net | 7,255,362 | | | 8,013,815 | |
+| Deferred tax assets | 1,729,558 | | | 1,867,102 | |
+| Other assets | 888,934 | | | 742,858 | |
+| Total non-current assets | 40,139,322 | | | 40,884,651 | |
+| TOTAL ASSETS | $ | 47,949,095 | | | $ | 47,992,712 | |
+| LIABILITIES AND SHAREHOLDERS' EQUITY | | | |
+| Current Liabilities | | | |
+| Accounts payable | $ | 598,640 | | | $ | 543,760 | |
+| Income taxes payable | 325,626 | | | 610,370 | |
+| Debt, current | 899,227 | | | — | |
+| Commercial paper notes | 550,198 | | | 446,639 | |
+| Accrued liabilities | 2,083,216 | | | 1,645,032 | |
+| Total current liabilities | 4,456,907 | | | 3,245,801 | |
+| Non-current Liabilities | | | |
+| Long-term debt | 7,235,424 | | | 8,145,066 | |
+| Deferred income taxes | 1,906,115 | | | 2,163,281 | |
+| Income taxes payable | 87,109 | | | 100,963 | |
+| Other non-current liabilities | 521,507 | | | 521,846 | |
+| Total non-current liabilities | 9,750,155 | | | 10,931,156 | |
+| Shareholders' Equity | | | |
+| Preferred stock, $1.00 par value, 471,934 shares authorized, none outstanding | — | | | — | |
+| Common stock, $0.16 2/3 par value, 1,200,000,000 shares authorized, 487,087,040 shares outstanding (489,654,097 on November 1, 2025) | 81,183 | | | 81,611 | |
+| Capital in excess of par value | 22,287,095 | | | 23,349,185 | |
+| Retained earnings | 11,525,998 | | | 10,539,541 | |
+| Accumulated other comprehensive loss | (152,243) | | | (154,582) | |
+| Total shareholders' equity | 33,742,033 | | | 33,815,755 | |
+| TOTAL LIABILITIES AND SHAREHOLDERS' EQUITY | $ | 47,949,095 | | | $ | 47,992,712 | |
+
+* * *
+
+ANALOG DEVICES, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(Unaudited)
+
+(In thousands)
+
+| | Three Months Ended | | Six Months Ended |
+| --- | --- | --- | --- |
+| | May 2, 2026 | | May 3, 2025 | | May 2, 2026 | | May 3, 2025 |
+| Cash flows from operating activities: | | | | | | | |
+| Net income | $ | 1,176,350 | | | $ | 569,770 | | | $ | 2,007,176 | | | $ | 961,086 | |
+| Adjustments to reconcile net income to net cash provided by operations: | | | | | | | |
+| Depreciation | 104,957 | | | 100,334 | | | 210,843 | | | 198,781 | |
+| Amortization of intangibles | 385,978 | | | 400,273 | | | 770,593 | | | 817,429 | |
+| Stock-based compensation expense | 81,721 | | | 72,831 | | | 167,396 | | | 150,405 | |
+| Deferred income taxes | (60,269) | | | (89,916) | | | (120,930) | | | (149,370) | |
+| Other | (8,698) | | | 5,002 | | | 4,727 | | | 4,203 | |
+| Changes in operating assets and liabilities | (807,998) | | | (238,816) | | | (799,249) | | | (36,247) | |
+| Total adjustments | (304,309) | | | 249,708 | | | 233,380 | | | 985,201 | |
+| Net cash provided by operating activities | 872,041 | | | 819,478 | | | 2,240,556 | | | 1,946,287 | |
+| Cash flows from investing activities: | | | | | | | |
+| Maturities of short-term available-for-sale investments | 137,825 | | | 372,778 | | | 147,817 | | | 372,778 | |
+| Additions to property, plant and equipment, net | (137,702) | | | (90,268) | | | (247,015) | | | (239,246) | |
+| Proceeds from sale of property, plant and equipment, net | — | | | 58,892 | | | — | | | 58,892 | |
+| Payments for acquisitions, net of cash acquired | (35,875) | | | — | | | (35,875) | | | (45,652) | |
+| Other | (16,174) | | | (13,209) | | | (23,882) | | | (12,880) | |
+| Net cash (used for) provided by investing activities | (51,926) | | | 328,193 | | | (158,955) | | | 133,892 | |
+| Cash flows from financing activities: | | | | | | | |
+| Debt repayments | — | | | (399,998) | | | — | | | (399,998) | |
+| Proceeds from commercial paper notes | 4,107,964 | | | 2,347,064 | | | 7,154,789 | | | 4,316,340 | |
+| Payments of commercial paper notes | (4,100,808) | | | (2,346,747) | | | (7,051,230) | | | (4,315,358) | |
+| Repurchase of common stock | (772,902) | | | (248,646) | | | (1,289,401) | | | (409,014) | |
+| Dividend payments to shareholders | (536,459) | | | (491,022) | | | (1,020,719) | | | (947,360) | |
+| Proceeds from employee stock plans | 9,866 | | | 19,815 | | | 59,487 | | | 61,562 | |
+| Other | 3,280 | | | (1,896) | | | 2,983 | | | (1,458) | |
+| Net cash used for financing activities | (1,289,059) | | | (1,121,430) | | | (2,144,091) | | | (1,695,286) | |
+| Net (decrease) increase in cash and cash equivalents | (468,944) | | | 26,241 | | | (62,490) | | | 384,893 | |
+| Cash and cash equivalents at beginning of period | 2,905,860 | | | 2,349,994 | | | 2,499,406 | | | 1,991,342 | |
+| Cash and cash equivalents at end of period | $ | 2,436,916 | | | $ | 2,376,235 | | | $ | 2,436,916 | | | $ | 2,376,235 | |
+
+* * *
+
+ANALOG DEVICES, INC.
+
+REVENUE TRENDS BY END MARKET
+
+(Unaudited)
+
+(In thousands)
+
+The categorization of revenue by end market is determined using a variety of data points including the technical characteristics of the product, the "sold to" customer information, the "ship to" customer information and the end customer product or application into which our product will be incorporated. The assignment of products to end markets may change over time. When this occurs, we reclassify revenue by end market for prior periods. Such reclassifications typically do not materially change the sizing of, or the underlying trends of results within, each end market.
+
+| | Three Months Ended |
+| --- | --- |
+| | May 2, 2026 | | May 3, 2025 |
+| | Revenue | | % of Revenue | | Y/Y% | | Revenue | | % of Revenue |
+| Industrial | $ | 1,799,413 | | | 50% | | 56% | | $ | 1,150,315 | | | 44% |
+| Automotive | 871,565 | | | 24% | | 2% | | 856,090 | | | 32% |
+| Communications | 554,728 | | | 15% | | 79% | | 310,604 | | | 12% |
+| Consumer | 397,759 | | | 11% | | 23% | | 323,059 | | | 12% |
+| Total revenue | $ | 3,623,465 | | | 100% | | 37% | | $ | 2,640,068 | | | 100% |
+| | Six Months Ended |
+| | May 2, 2026 | | May 3, 2025 |
+| | Revenue | | % of Revenue | | Y/Y% | | Revenue | | % of Revenue |
+| Industrial | $ | 3,296,449 | | | 49% | | 48% | | $ | 2,220,569 | | | 44% |
+| Automotive | 1,681,709 | | | 25% | | 5% | | 1,596,349 | | | 32% |
+| Communications | 1,009,911 | | | 15% | | 65% | | 610,905 | | | 12% |
+| Consumer | 795,659 | | | 12% | | 25% | | 635,419 | | | 13% |
+| Total revenue | $ | 6,783,728 | | | 100% | | 34% | | $ | 5,063,242 | | | 100% |
+| 1) The sum of the individual percentages may not equal the total due to rounding. |
+
+* * *
+
+ANALOG DEVICES, INC.
+
+RECONCILIATION OF GAAP TO NON-GAAP RESULTS
+
+(Unaudited)
+
+(In thousands, except per share amounts)
+
+| | Three Months Ended | | Six Months Ended |
+| --- | --- | --- | --- |
+| | May 2, 2026 | | May 3, 2025 | | May 2, 2026 | | May 3, 2025 |
+| Gross margin | $ | 2,439,798 | | | $ | 1,611,610 | | | $ | 4,484,773 | | | $ | 3,041,913 | |
+| Gross margin percentage | 67.3 | % | | 61.0 | % | | 66.1 | % | | 60.1 | % |
+| Acquisition related expenses | 205,464 | | | 220,277 | | | 410,212 | | | 458,109 | |
+| Adjusted gross margin | $ | 2,645,262 | | | $ | 1,831,887 | | | $ | 4,894,985 | | | $ | 3,500,022 | |
+| Adjusted gross margin percentage | 73.0 | % | | 69.4 | % | | 72.2 | % | | 69.1 | % |
+| Operating expenses | $ | 1,060,118 | | | $ | 933,666 | | | $ | 2,108,068 | | | $ | 1,872,656 | |
+| Percent of revenue | 29.3 | % | | 35.4 | % | | 31.1 | % | | 37.0 | % |
+| Acquisition related expenses | (188,582) | | | (188,015) | | | (376,495) | | | (376,030) | |
+| Special charges, net | — | | | (1,745) | | | (47,982) | | | (65,632) | |
+| Adjusted operating expenses | $ | 871,536 | | | $ | 743,906 | | | $ | 1,683,591 | | | $ | 1,430,994 | |
+| Adjusted operating expenses percentage | 24.1 | % | | 28.2 | % | | 24.8 | % | | 28.3 | % |
+| Operating income | $ | 1,379,680 | | | $ | 677,944 | | | $ | 2,376,705 | | | $ | 1,169,257 | |
+| Operating margin | 38.1 | % | | 25.7 | % | | 35.0 | % | | 23.1 | % |
+| Acquisition related expenses | 394,046 | | | 408,292 | | | 786,707 | | | 834,139 | |
+| Special charges, net | — | | | 1,745 | | | 47,982 | | | 65,632 | |
+| Adjusted operating income | $ | 1,773,726 | | | $ | 1,087,981 | | | $ | 3,211,394 | | | $ | 2,069,028 | |
+| Adjusted operating margin | 49.0 | % | | 41.2 | % | | 47.3 | % | | 40.9 | % |
+| Nonoperating expense (income) | $ | 54,852 | | | $ | 52,016 | | | $ | 106,006 | | | $ | 107,753 | |
+| Acquisition related expenses | 2,150 | | | 2,150 | | | 4,300 | | | 4,300 | |
+| Adjusted nonoperating expense (income) | $ | 57,002 | | | $ | 54,166 | | | $ | 110,306 | | | $ | 112,053 | |
+| Income before income taxes | $ | 1,324,828 | | | $ | 625,928 | | | $ | 2,270,699 | | | $ | 1,061,504 | |
+| Acquisition related expenses | 391,896 | | | 406,142 | | | 782,407 | | | 829,839 | |
+| Special charges, net | — | | | 1,745 | | | 47,982 | | | 65,632 | |
+| Adjusted income before income taxes | $ | 1,716,724 | | | $ | 1,033,815 | | | $ | 3,101,088 | | | $ | 1,956,975 | |
+| Provision for income taxes | $ | 148,478 | | | $ | 56,158 | | | $ | 263,523 | | | $ | 100,418 | |
+| Effective income tax rate | 11.2 | % | | 9.0 | % | | 11.6 | % | | 9.5 | % |
+| Tax related items | 54,219 | | | 57,573 | | | 114,668 | | | 122,635 | |
+| Adjusted provision for income taxes | $ | 202,697 | | | $ | 113,731 | | | $ | 378,191 | | | $ | 223,053 | |
+| Adjusted tax rate | 11.8 | % | | 11.0 | % | | 12.2 | % | | 11.4 | % |
+| Diluted EPS | $ | 2.40 | | | $ | 1.14 | | | $ | 4.09 | | | $ | 1.93 | |
+| Acquisition related expenses | 0.80 | | | 0.82 | | | 1.59 | | | 1.66 | |
+| Special charges, net | — | | | — | | | 0.10 | | | 0.13 | |
+| Tax related items | (0.11) | | | (0.12) | | | (0.23) | | | (0.25) | |
+| Adjusted diluted EPS* | $ | 3.09 | | | $ | 1.85 | | | $ | 5.54 | | | $ | 3.48 | |
+
+* The sum of the individual per share amounts may not equal the total due to rounding.
+
+* * *
+
+ANALOG DEVICES, INC.
+
+RECONCILIATION OF NET CASH PROVIDED BY OPERATING ACTIVITIES TO FREE CASH FLOW
+
+(Unaudited)
+
+(In thousands)
+
+| | Trailing Twelve Months | | Three Months Ended |
+| --- | --- | --- | --- |
+| | May 2, 2026 | | May 2, 2026 | | Jan. 31, 2026 | | Nov. 1, 2025 | | Aug. 2, 2025 |
+| Revenue | $ | 12,739,993 | | | $ | 3,623,465 | | | $ | 3,160,063 | | | $ | 3,076,117 | | | $ | 2,880,348 | |
+| Net cash provided by operating activities | $ | 5,106,471 | | | $ | 872,041 | | | $ | 1,368,515 | | | $ | 1,700,810 | | | $ | 1,165,105 | |
+| % of Revenue | 40 | % | | 24 | % | | 43 | % | | 55 | % | | 40 | % |
+| Capital expenditures | $ | (541,321) | | | $ | (137,702) | | | $ | (109,313) | | | $ | (215,153) | | | $ | (79,153) | |
+| Free cash flow | $ | 4,565,150 | | | $ | 734,339 | | | $ | 1,259,202 | | | $ | 1,485,657 | | | $ | 1,085,952 | |
+| % of Revenue | 36 | % | | 20 | % | | 40 | % | | 48 | % | | 38 | % |
+
+* * *
+
+ANALOG DEVICES, INC.
+
+RECONCILIATION OF PROJECTED GAAP TO NON-GAAP RESULTS
+
+(Unaudited)
+
+| | Three Months Ending August 1, 2026 |
+| --- | --- |
+| | Reported | | Adjusted |
+| Revenue | $3.9 Billion | | $3.9 Billion |
+| | (+/- $100 Million) | | (+/- $100 Million) |
+| Operating margin | 39.0% | | 49.0% (1) |
+| | (+/-150 bps) | | (+/-100 bps) |
+| Tax rate | 12% - 14% | | 12% - 14% (2) |
+| Earnings per share | $2.60 | | $3.30 (3) |
+| | (+/- $0.15) | | (+/- $0.15) |
+
+(1) Includes $391 million of adjustments related to acquisition related expenses as previously defined in the Non-GAAP Financial Information section of this press release.
+
+(2) Includes $51 million of tax effects associated with the adjustment for acquisition related expenses noted above.
+
+(3) Includes $0.70 of adjustments related to the net impact of acquisition related expenses and the tax effects on those items.
+
+For more information, please contact:
+
+Jeff Ambrosi
+
+Senior Director, Investor Relations
+
+Analog Devices, Inc.
+
+781-461-3282
+
+investor.relations@analog.com
+
+================================================================================================
+
+RELEASE DATE: 2026-06-02
+SOURCE: Offline corpus — challenge/offline-data/analog-devices/call-transcripts/2026-06-02__adi-us-20260602-call-conf-qna__1135033.md
+SOURCE KIND: OFFLINE DOCUMENT
+DOCUMENT TYPE: Call Transcript
+REPORTING PERIOD: Q2 2026
+
+TITLE: Semiconductor Market and Business Strategy Discussion
+
+# Semiconductor Market and Business Strategy Discussion
+Unknown speaker: Wonderful. Maybe let's just start with kind of the state of the union, right? Semis, I guess, understatement. Things are quite exciting. Your business has really stepped up, right, in terms of your growth. Maybe just walk us through how things have evolved since the start of the year, what you expected, what you're seeing right now, and then we can walk through the different end markets.
+
+Unknown speaker: Sure. I'd say we've been on a journey since the trough of the cycle, and we've talked about this, and I've talked about this in prior calls, right? We've had some actually pretty resilient parts of our business that started to show signs of growth as early as the back half of 2024. We continue to see demand in that area grow, those idiosyncratic areas. I'll go back to those in a minute. What we had talked about was we were waiting to see the sort of cycle recovery and what were the signs we would look for in the cycle recovery. Probably three, four quarters ago, I started to talk about what we really haven't seen yet, cycle-wise, was the growth in the mass market, broad market, part of the industry.
+
+Unknown speaker: We have now seen over multiple quarters, very significant growth in the mass market, part of the business, which for us is one of those classic signs of the upcycle.
+
+Unknown speaker: Right.
+
+Unknown speaker: I would say as we were progressing throughout the year, we were expecting to see the cycle growth add to the idiosyncratic growth, right? We've talked about that we were very strong already in ATE, Aerospace and defense, and some of the stuff that was going on, data center and our communications business. I think what's been a couple of things that from an overall perspective that have been, not necessarily surprising, but, I guess that probably is the best word, the continued acceleration in the ramp in AI infrastructure spend, and I really should just say infrastructure spend because they are also building non-AI data centers out there.
+
+Unknown speaker: Right.
+
+Unknown speaker: Broadly, the infrastructure spend. The other thing that we're seeing happening, and we're just starting to see this now, is sort of this halo effect from that infrastructure build impacting the other parts and the other end markets that we serve. Whether it's in the industrial space, the companies that are helping build the infrastructure, whether it's the electric infrastructure, the power infrastructure, et cetera. In addition to the core products that we've been selling into the data centers, we're starting to see demand in other parts of the end market. I think that's been one of the nice upside pieces of this for us from an overall perspective. The other area, and I'm sure we'll talk more about this, for us, that we saw some acceleration earlier than we expected was in automotive.
+
+Unknown speaker: We had said coming out of Q1, despite what we were seeing for the early results in 2026, that we were still expecting auto to be a growth business for us, even coming off a record 2025, we expected we could grow year-over-year. We saw some more evidence of that with some pretty aggressive acceleration in orders in the last month of our last quarter, and some record levels in a couple of our jurisdictions. Those are some pretty positive areas where we did even better than we had thought, and we already had a pretty aggressive view of how we would perform in those areas.
+
+Unknown speaker: Got it. How do you assess, Rich, I think you have a unique perspective on the space, right? Coming from an outsider's perspective into this analog industry. When you look at the quality of orders, the quality of backlog, how do you make sure that it's not double ordering? How do you make sure that these are not pulled forward just because everyone is constrained? On a relative basis, it might be easier to buy analog products versus, say, leading edge logic or DRAM. How do you assess that?
+
+Unknown speaker: A couple of things. When we look at it in a number of ways, one of the things we always look at is we always are mindful of what the long-term trend across semis has been and where we are relative to that growth line, right? When you start to ship above that consumption line is when you're potentially starting to build inventory.
+
+Unknown speaker: Right.
+
+Unknown speaker: That's something we focus on. We do not think we're there, right? A good example is industrial, right? It's 50% of our business. It was the one that declined the most. It's also the one that's been growing really strong. When you look at that business, we're very lean in the channel. We're running a leaner channel than we've run historically, in that sort of six to seven weeks in our channel, and the channel is predominantly an industrial business.
+
+Unknown speaker: Right.
+
+Unknown speaker: The other thing we look at is just look at the ordering patterns and demand. If you think 40% of our industrial, for instance, when you look at that demand is coming from Aerospace and Defense, and infrastructure. Those are areas where we can clearly go to the end markets and see what is driving that demand, right? We think that is ordering to the current period demand because they're growing so fast. You feel very good about that. That leaves 60% of our industrial business. You say, how good do you feel about the growth and the longevity and the legs for that? 60% of our industrial business is still approximately 20% below its prior peaks and below that consumption line, right? Which means there's still certainly room to run across the broader part of the industrial.
+
+Unknown speaker: You go down to the next end market, communications. Obviously, I talked about on the call, data center is now three-quarters of our communications business, and that is growing aggressively with the infrastructure build-out. Again, I feel good that that's real demand for actual build-out. If you listen to the hyperscalers and the platform companies' CEOs talk, what's constraining them from growing is capacity. We haven't even scratched the itch for existing demand with capacity. They're continuing to build. I feel like that is also real demand. You look at auto and you look at what's going on, where are vehicles trending to grow more and where, for us, Analog Devices specifically, do you see bigger content opportunities? Obviously, EVs for us, we've talked about give us the best content opportunities. China EVs continue to grow.
+
+Unknown speaker: Even if units stay flat there, given their drive for penetration into Level 2 ADAS. They're talking about trying to move from 10% penetrated in Level 2 ADAS to 20%-30%. Each jump in that penetration creates more content for Analog Devices in the vehicles they're producing. That shows up in how our auto business has grown. Auto today is, China auto is 30% of our business, record year last year, running very strong again this year and over a trend line period. If you look over 10 years, even in a flat SAAR environment, we grow low double digits. Over the last five years, as the ADAS and immersive cabin experiences have expanded, our business actually grows 15% better than the SAAR units.
+
+Unknown speaker: In the current environment, our best information would say that SAAR numbers are probably going to be down to close to 2024 levels. We're not basing our growth expectation on units. It is our share and our content. The other piece of data that is really helpful that we can look at, you can look at the percentage of analog parts, not Analog Devices, but analog parts in vehicles over time. Over the last couple of years, you started to see a decline in the dollar value of that content. Analog Devices' has continued to increase, which we think is one of those good evidence points that, in fact, we have been gaining share, the strength in that market has been really positive for us. I don't feel like we've yet seen any of that inventory build behavior.
+
+Unknown speaker: We did in 2025 see buy-ahead behavior in auto, but we feel like they have burned through that and are now buying back to their normal demand in the period.
+
+Unknown speaker: Got it. Another, I think, aspect that I would give your team a lot of credit for is actually being very upfront in calling out when you do see that buy-ahead behavior and even quantifying it, and then also quantifying where pricing is. I think your team deserves credit. What kind of operational things are you instituting to give you better visibility? You have a great AWS background. How many of those tools are you implementing, or tools like them are you implementing to catch, again, back to the question of the quality of the demand and backlog that you're seeing?
+
+Unknown speaker: It's interesting. Our team has always, and actually when I arrived, has had an amazing amount of statistical data and tracking around bookings and order rates and backlog, tracked very closely some of the most important metrics we look at. We're also building forecasting tools, leveraging more of the AI, which I think everybody's doing at this point, to be able to give us better signal. This is a double-edged sword. One of the good things is we've kept lead times pretty well in check. We've talked about it in the past. We have kept the vast majority of our product goes out inside normal lead times. We have had some minor stretch in some of the real high mover areas.
+
+Unknown speaker: In that environment, and this is one of the lessons I learned on the other side, in that environment where the lead times stay in check, you don't have a lot of motivation to put orders on the books early. We see that. Now, what we started to see is we're getting more orders out a quarter beyond where we would historically have had them as things appear to be getting tighter broadly across Analog. I think what we then have to rely on, and these are the things our teams work really hard on, is being close to customers to get their outlook on forecast. If you think about our process, we're building wafers, starting wafers now for two quarters out. We don't have 100% of that all booked in the backlog.
+
+Unknown speaker: We work aggressively and mechanistically, what our teams are doing every day is getting to customers and encouraging them, "Look, we're getting your forecast, but your best way to help us all manage as an industry your production requirements is get orders in." We are starting to see a little bit more visibility from an orders perspective, Vivek, just because folks are starting to get more visibility that they're on a sustained growth trajectory. There still is a little bit of, we have to be able to continue to get better and better forecast data to map up with the historical and backlog. I think we've done a really good job. Our manufacturing and global ops teams have been very agile. You've seen we've been able to capture a whole bunch of upside. We just posted a record quarter. We've guided another record quarter.
+
+Unknown speaker: We've been able to capture that, and we've done that while working pretty aggressively to improve our efficiencies, make sure we're getting the most out of the factories. One of the other things we talked a little bit about, as we think about the need and this growing demand is.
+
+Unknown speaker: Right
+
+Unknown speaker: We've been expanding capacity now since back to the big push started in around 2022. We said we would double our internal capacity. We would expand the amount of product that we've qualified externally so that it gives us some flexibility. Essentially, by the end of this fiscal year, we'll have completed that sort of doubling of capacity. Obviously, just as part of the normal running the company go forward CapEx model, we've talked about a 4%-6% CapEx model. If I take your street numbers for this year and next year, you're talking about ongoing capital probably in the $700 million, which we will continue to look for optimization, improvement, replacing, and modernizing tools, expanding capacity as we continue to see this growth. The macro indicators, as we've all talked about, we're talking about semis being a trillion-dollar industry in 2030.
+
+Unknown speaker: I think we're going to be
+
+Unknown speaker: Exceed that this year.
+
+Unknown speaker: $1.2 trillion or $1.3 trillion part of the economy this year. We are continuing to expand our capacity. Even if you look at our production this year, we add incremental wafer starts every. Right? As we continue to add more tooling to keep up, and obviously we have very strong foundry partnerships where we've had no problem getting the capacity we need. I would say that the challenge we're all having going forward is getting more capacity out of those will become expensive.
+
+Unknown speaker: Got it. On pricing, it seems that the industry took a lot of pricing in, I think, 2022 and 2023, then not as much in 2024 and 2025. Now we are starting to see almost everyone start to send letters about where is Analog Devices in terms of taking pricing. How much of this is catch-up from just the last two years where it was subdued? How much of this is just the inflationary pressure that you are seeing?
+
+Unknown speaker: I guess there's two pieces to this. One is our pricing philosophy has always been dynamic, but I think the anchor piece of our pricing has always been, we lead with innovation. We tend to be there first with the solutions for the hardest, most complex problems where you need domain expertise and product expertise, and we're able to capture a ton of value there. You see that, right? We've talked about having ASPs that are 4x the industry average. Right? Another look at that we look at that is very informative is we look at our products, because as you all know, we have products that produce revenue for 25 years.
+
+Unknown speaker: If we look at and cut our products and say those that were 10 years and older and 10 years and younger, ASPs are basically double in the 10 years and younger because we continue to add more solutions, more features, more functionality, and we capture more of that value. That is what primarily drives our pricing. However, we'd always watch the cost inputs as we go, and you hit the nail right on the head. We had, for a period of time, been absorbing pretty significant inflation in a few areas. We made the determination, given it was going to continue, that this was the right time to go recover some of that. Now, this was not a go improve our margin strategy. We're basically trying to hold the margin given the inflation, whether that was significant inflation in gold.
+
+Unknown speaker: In the more near-term period here, it's fuel, which means transportation, et cetera. We think going forward from a pricing perspective, it will continue to be dynamic. We will continue to watch the inputs and outputs, because there's still a lot of uncertainty, right? We don't know what the resolution is going to be in the situation in the Middle East. The longer that lasts, the more knock-on effects that's going to have in the supply chain. Right? It's obvious when straight-up fuel costs go up. We can all see that. There's an awful lot of things that are petroleum-based that are part of the manufacturing process, particularly in the back end. We'll continue to watch, and it'll be dynamic. The other important thing around the pricing, you're absolutely right. In 2022, there were massive industry-wide pricing increases.
+
+Unknown speaker: I think TSMC did a big price increase, and everybody passed it along. What's been different for us is, as we've talked about, our pricing has remained pretty stable across 2024, 2025.
+
+Unknown speaker: Nice.
+
+Unknown speaker: We just did our first big price increase in 2026 now. We've talked in the past, we've always had some back and forth on pricing dynamics because of our legacy products that stay around forever, get price uplifts, things like that. This is our first broad increase. We'll continue to watch the dynamic, right? Because we're trying to be prudent and fair to our customers while also trying to maintain the financial model you all expect from us.
+
+Unknown speaker: Got it. Do you think some of your competitors in, let's say, power semis or other areas are actually taking on pricing even more aggressively than Analog Devices? If yes, do you think that gives you an opportunity, or do you think you would rather just keep the pricing envelope you have right now to just expand market share? How do you think about both sides of that?
+
+Unknown speaker: Certainly, I've seen copies of probably all the same letters you've seen for what our competitors are doing from pricing. Without doing a detailed scrub of their cost structures, I don't know if they're margin stacking to get incremental profitability out of the pricing or if they're recovering. For us, look, we want to be fair to customers, and we're going to continue to look at what the cost environment is and where we think it's appropriate that the customers share in some of the inflationary pain. We might have incremental price increases. I would say strategically, like I said, we're trying to recover from the cost we've had historically and will continue to go forward. For us, the really important pricing piece is what we do in the design-in phase, because that stuff tends to be sticky, and that's where our innovation premium shows up.
+
+Unknown speaker: That's going to be the more important part of pricing.
+
+Unknown speaker: Got it. Just the last question there, Rich, which is, I just want to clarify that the pricing is not because of shortages. It is because of passing along the cost inflation aspect. What is it because of true shortages, because you mentioned your lead times haven't really changed?
+
+Unknown speaker: Sorry. I forgot that's right there. This was not because of shortages. Certainly, like everyone, there are places in the supply chain where things have gotten tighter, but our supply chains have worked to figure that out, and we've been able to keep up with product demand. We've had, as I mentioned, some small extension of lead times in a few places, but the majority of our stuff is still inside standard lead times. This is not a supply shortage, so we're increasing your price. This is we've been absorbing costs on your behalf for a while, and we did a really good job offsetting a lot of them. You've seen that we've had margin accretion pretty continuously coming out of the trough. We were doing that while also absorbing pretty significant inflation over that period.
+
+Unknown speaker: Got you. Okay. Let's talk about the data center, across your power and optics and your ATE business, right? It's close to 20% of sales, which I think is probably the highest, if not the highest among your analog peers. How do you see the sustainability of that growth? Among those three areas, is there a way to rank order where you're seeing faster growth versus more industry, growth in line with the industry?
+
+Unknown speaker: Sure. Look, everything I see and read, and everything you probably all see and read, is that the AI, the infrastructure build-out is going to continue. I have heard from any number of sources, including from some of your colleagues, that the expectation is at least out into 2030 and 2030 plus will continue to need to build infrastructure because we still have demand. The hyperscalers and platform players still have demand they can't fulfill. I think that that will continue to drive growth for us. If I look at, obviously ATE will continue to grow, and you can look at the big ATE providers to see what that looks like. For us, we've been talking about the power and the optical are pretty much equal parts of our data center portfolio. I think we talked about it being three-quarters of our business.
+
+Unknown speaker: If I were to pick which one of those today I think has the bigger growth opportunity, given the strength of our position in optical, I think the power one provides a potential opportunity for bigger growth. If you look at us as a player in the lateral power versus what we could be in vertical power, I think there's a big growth opportunity there. One of the things our team saw was this move, continues to see, and you're seeing in the industry, is the move to higher and higher voltages. The move to 800 V is going to drive increased demand for products to be able to, particularly to be able to deliver that last millimeter to the chip.
+
+Unknown speaker: Right.
+
+Unknown speaker: What we're seeing is the technologies out there, one of the ones we talked about is this IVR technology that comes within power. That can reduce power consumption 10%-15%. It also reduces the footprint of that-
+
+Unknown speaker: Right
+
+Unknown speaker: module underneath. Module's probably not the right word. The footprint on the board. It also eliminates some of the ancillary structures that have existed in the current vertical power and makes it a highly efficient structure. We think our opportunity to be in there as an early player gives us a chance to be a much bigger player in vertical power. When you think about how we know if we're being successful there, obviously part of it's going to be, do we see this continued shift to a vertical power architecture? I think six, nine months ago, we were talking about it, having one win in, and people were starting to use vertical power. More and more of the discussions I have and our data center team is having is, vertical power is going to be a key part of this build.
+
+Unknown speaker: We are going to continue to be power constrained. Science has not caught up yet to fulfill all the power requirements if you look out 10 years, 12 years. Reducing power loss in the data centers will be critical. Vertical power seems to be the architecture for that. We'll be watching eagerly, along with every other power provider, what happens in the architectural design. Getting in early, and this is the same in any of these spaces for us, getting in early at the first rev is where you get to learn and be part of the discussions for what the next rev looks like. You look out to 2030 and the next evolution of power and the next evolution of what you have to do, those are going to be massive TAM and SAM expansions for companies.
+
+Unknown speaker: If the architecture shifts from where it is today, and they build at the rate they're building, and I'm sure one of your guys is building a model right now that can tell us how many data centers they're going to build, how many racks, how many servers, which means how many VP, vertical power units are going to sell, and you'll tell me that when you have it, so we can plan. That's going to be the metric we'll watch in the industry is, how aggressive is this architecture adopted as we move into the higher voltages? We've all heard the, we're going to pump X megawatts, even a gigawatt into it in the future.
+
+Unknown speaker: That's going to put tons of pressure on the power chain, and I think that's an area where end-to-end of the chain, we're very strong, and getting that last millimeter with IVR will give us an advantage.
+
+Unknown speaker: Got it. I know that Analog Devices is well-represented in one of the custom TPU-like projects. What's your opportunity in the broader merchant GPU-like projects? I guess a bigger question, which is that those GPU customers have multi-year product pipelines that are planned out. How early do you get the visibility about your level of engagement, your market share? How do you think about that visibility over the next several years?
+
+Unknown speaker: As we've talked about, we've had products in, whether it's in vertical power or optical, that get into the large players, whether they're the platform players or the suppliers into the platform players. We'll continue to be aggressive, because as I mentioned, getting into the earliest version of products gives you the learning cycles to be part of the roadmap. Getting early engagement in those, and so we'll continue to watch. Obviously, where we have wins, we'll be working to get more wins across the peer set. We feel pretty well-positioned, and I would tell you, the relationship we have across those companies are very good. They bring us in very early because it's not getting any easier to build any of these products. What they want is somebody to help simplify the complexity.
+
+Unknown speaker: The more of that we can do for these customers, the more chances we're going to get to win. I feel like we're very well-positioned there, and our team is aggressively going after it, and I've been involved in a number of conversations already with hyperscalers. Our teams are working across a bunch of the companies to be able to make sure we're positioned across the portfolio to support that scale-out.
+
+Unknown speaker: Got it. One other thing, in a different area, this is now related to automotive. I found very interesting is that in your last earnings call, it almost seemed like, and you just mentioned it as well, that automotive suddenly started to grow, which is very different than the sense I had when the year started, that auto was going to be a subdued year. Did that suddenly change, or was it always according to plan? Or did you really see a shift in order demand?
+
+Unknown speaker: For us, and there was a lot of skepticism, I will admit, when we talked to investors after Q1 and told people, "Hey, Q1 was a little bit better. It's softer than seasonal, but it was better than we expected. Q2, we thought we would still be maybe working off a little bit of this pre-buy, but we thought the back half would be strong because we can clearly see our share gain and the content acceleration that's happening in auto. If you look at what's going on in the Middle East, it's going to certainly put more pressure on people buying electric vehicles. The more electric vehicles, the more demand. We have always thought from the start of the year that we would grow.
+
+Unknown speaker: If you talk to the team that runs our auto business, they would've told you, despite a record in 2025, we will grow year-over-year in auto. What happened was we saw an acceleration literally in the last month of the quarter in auto demand that we were expecting to come in Q3. I think as they look to the adoption of more and more of the L2 ADAS and potentially L3 ADAS in China by the end of the year, I think we started to see an order pickup. As you said, I'll be transparent. We've always been transparent with what we see in the order book. In this one, we didn't think this was a pre-buy. We could see the content increasing and the very specific drive.
+
+Unknown speaker: Now, on top of that, and that's the China piece, we had record revenues in Europe and Japan from auto.
+
+Unknown speaker: Nice.
+
+Unknown speaker: The U.S. is still not doing that. It's been a bit of the laggard. The other thing that happened, which was good, we expected it, but it's also another indicator, is we hadn't grown. Actually, we had had declining BMS for two years. We just had our first year-over-year growth quarter in BMS in two years, and that's really important for us. That's indicative of the EV, because it's the far right of the EVs is where we get the most out of our BMS. That's been really important for us on the auto side.
+
+Unknown speaker: It's time to declare the bottom of the auto cycle also, or do you want to see some more data points?
+
+Unknown speaker: I don't know. It's interesting. It depends how you define the cycle, because every forecast I see still shows auto units coming down probably closer to 2024 levels, because obviously 2025 came up a little bit from 2024.
+
+Unknown speaker: Right.
+
+Unknown speaker: Back down to 2024. I don't know if the units has bottomed out, certainly for us, the content and share is continuing to allow us to grow.
+
+Unknown speaker: Got it. Okay. Next thing on the Aerospace and Defense business side, which has been pretty strong. There's a lot of media reports about the U.S. and other countries potentially wanting to build out the stock of all products. Do you see that in your business also? Do you have that visibility that shows that Aerospace and Defense can continue to be that strong?
+
+Unknown speaker: Yeah. Certainly, there's been public discussion about a number of programs, certainly in the U.S., where the government is going to expand. We have very good visibility. In fact, in addition to talk about some of the AI data center stuff, we're starting to get a little bit more visibility on Aerospace and Defense. I would say it's not just a U.S. phenomenon. If you look at what's going on globally, there's going to be build-out across the EU as they've upped their spending budgets. Even we're starting to see more upping of budgets in APAC. The Aerospace and Defense business for us has been a strong growth, and we expect it to continue.
+
+Unknown speaker: The interesting thing for us is we have obviously a very strong part in the defense part of that, but we also do have a good presence in the space part of Aerospace and Defense, right? Obviously, some of the products that we're well-known for from a comms perspective and the technologies there. We're going to continue to see growth in LEOs, where we have content in LEOs. There's all kinds of press, you read it every day about the number of satellites that are continuing to get launched. Plus, we have a lot of product in the base stations that communicate with the satellites. It's a pretty broad brush growth for us. One of the great things is we have a very broad portfolio that is used across a broad spectrum.
+
+Unknown speaker: We also, and we've talked about this in prior calls, Vince has talked about our ability to deliver systems and modules into that market is an incredible value capture for us. Again, they don't want to build if they don't have to. They want to get a module, and our continued ability to go up the stack is what's helping us drive bigger and bigger ASPs on the ADEF side. We feel like that is one of those areas that is going to have sustained momentum. Just given, even if things settle down calmly, there's still going to need to be a rebuild and replenish phase. That helps us get some visibility, and we feel like our product portfolio is well-positioned there.
+
+Unknown speaker: Got it. Last two very quick ones. Gross margins we saw. You had that one time kind of 50 basis point.
+
+Unknown speaker: Yeah
+
+Unknown speaker: Benefit from pricing, but it's kind of held on to the 72.5%, which is the best in the industry. Are there still incremental opportunities to expand that? I have one final one on use of cash.
+
+Unknown speaker: Sure. I would say yes, but what I would say is probably different is if you go trough to peak, we've gotten a significant benefit of driving utilizations up to more optimum levels than we would've been at the trough. I would say going forward, more of the incremental gross margin improvement will come from further mix change. At this point, we're about a 50% industrial business. At peak margins, we're between 53% and 54% industrial.
+
+Unknown speaker: Got it.
+
+Unknown speaker: I would say the two things that will do it will be mix and then just pure revenue growth, given the flow through economics and the fact that we have been growing at very high rates and been managing the cost curves pretty aggressively. I do think there is continued opportunity for accretion. I just don't expect increasing utilization to be one of those drivers. I think I mentioned that on the call.
+
+Unknown speaker: Got you. The last one, Rich, on just kind of use of cash. Analog Devices historically has done larger strategic M&A. It seems now the focus has shifted a little more to kind of tuck-ins and so forth. As you look over the next several years, do you think there is still opportunity for more industry consolidation, or we should expect Analog Devices to just kind of focus on kind of smaller tuck-in type deals?
+
+Unknown speaker: I think the large consolidations that you talk about continue to be more difficult just given the current concentration and regulatory environment. For us, and we've talked about this. We're focused on, one, the revenue synergies that we've been talking about. If you haven't heard me say this before, we're on track to deliver $1 billion as synergies by 2027. In fact, we did hundreds of millions in 2025, and we're going to do hundreds of millions more in 2026. I think that's really important. We are continuing to aggressively invest internally in software and digital capabilities and AI, and those will be areas we continue to look. That's an opportunity where we've talked about where if it can help us solve an existing problem, help us get to market faster, help us do more for customers. Those are the kind of acquisitions we're looking at.
+
+Unknown speaker: Empower's a good example, right?
+
+Unknown speaker: Right.
+
+Unknown speaker: It gave us a massive acceleration on a timeline for a technology that we think is going to be a really important technology for the power delivery going forward. That it will continue to be our core philosophy is make sure we get all those synergies and then evaluate digital software and AI opportunities as they come through.
+
+Unknown speaker: Got it. Terrific. Thank you so much, Rich. Really appreciate your time.
+
+Unknown speaker: All right. Thank you, Vivek.
+
+Unknown speaker: Thanks, everyone.
+
+Unknown speaker: Great to see you.
+
+Unknown speaker: Pleasure.
+
+Unknown speaker: Thanks, everyone.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: Analog Devices Investor Relations / LSEG StreetEvents
+SOURCE URL: https://investor.analog.com/static-files/74245ffb-8308-4b7d-bdc4-db7abf2ce11b
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Q2 2026 Analog Devices Inc Earnings Call
+SUMMARY: On the fiscal Q2 2026 earnings call, management supplemented its Q3 outlook with adjusted tax, capex, gross-margin, end-market growth, inventory, and longer-term capacity comments.
+
+FORWARD GUIDANCE:
+- METRIC: Revenue
+  GUIDANCE: $3.9 billion, plus or minus $100 million.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; revenue.
+- METRIC: Operating margin
+  GUIDANCE: 49%, plus or minus 100 basis points, at the midpoint.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Adjusted / non-GAAP.
+- METRIC: Tax rate
+  GUIDANCE: 12% to 14%.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; adjusted-tax-rate context used with adjusted EPS guidance.
+- METRIC: Adjusted EPS
+  GUIDANCE: $3.30, plus or minus $0.15.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Adjusted / non-GAAP.
+- METRIC: Capital expenditures
+  GUIDANCE: Within the long-term model of 4% to 6% of revenue.
+  TARGET PERIOD: Fiscal 2026
+  BASIS: Management expectation; capex as a percentage of revenue.
+- METRIC: Gross margin
+  GUIDANCE: About a 50-bps decline, largely from the absence of a one-time channel-repricing benefit; mix expected to be a slight tailwind and utilization fairly neutral.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management qualitative outlook; adjusted/non-GAAP call context.
+- METRIC: Industrial and Automotive revenue growth
+  GUIDANCE: Mid- to high-single-digit sequential growth.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; sequential growth.
+- METRIC: Communications revenue growth
+  GUIDANCE: Low- to mid-teens sequential growth; expected to be the fastest-growing end market.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; sequential growth.
+- METRIC: Consumer revenue growth
+  GUIDANCE: Down single digits sequentially.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; sequential growth.
+- METRIC: Channel inventory
+  GUIDANCE: Flat channel-inventory weeks assumed in the outlook.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management outlook; qualitative inventory assumption.
+- METRIC: Revenue capacity
+  GUIDANCE: Management said it was comfortable it has capacity to support up to $20 billion under its 2030 vision.
+  TARGET PERIOD: 2030
+  BASIS: Management long-term capacity outlook.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20
+SOURCE: U.S. Securities and Exchange Commission
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/6281/000000628126000050/adi-20260520.htm
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Form 8-K — Results of Operations and Financial Condition
+SUMMARY: ADI furnished its fiscal Q2 2026 earnings release as Exhibit 99.1 with the Form 8-K; the exhibit contains the company’s fiscal Q3 2026 outlook.
+
+FORWARD GUIDANCE:
+- METRIC: Revenue
+  GUIDANCE: $3.9 billion, +/- $100 million.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management forecast; reported revenue.
+- METRIC: Operating margin
+  GUIDANCE: Approximately 39.0%, +/- 150 bps, and adjusted operating margin of approximately 49.0%, +/- 100 bps, each at the midpoint of the revenue outlook.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Reported / GAAP and adjusted / non-GAAP, respectively.
+- METRIC: EPS
+  GUIDANCE: Reported EPS of $2.60, +/- $0.15, and adjusted EPS of $3.30, +/- $0.15.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Reported / GAAP and adjusted / non-GAAP, respectively.
+
+================================================================================================
+
+RELEASE DATE: 2026-05-20T11:01:00Z
+SOURCE: Analog Devices Investor Relations
+SOURCE URL: https://investor.analog.com/news-releases/news-release-details/analog-devices-reports-record-fiscal-second-quarter-2026
+SOURCE KIND: ONLINE FORWARD-GUIDANCE REPORT
+
+HEADLINE: Analog Devices Reports Record Fiscal Second Quarter 2026 Financial Results
+SUMMARY: In its fiscal Q2 2026 earnings release, ADI provided fiscal Q3 2026 revenue, reported and adjusted operating-margin, and reported and adjusted EPS outlook.
+
+FORWARD GUIDANCE:
+- METRIC: Revenue
+  GUIDANCE: $3.9 billion, +/- $100 million.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Management forecast; reported revenue.
+- METRIC: Operating margin
+  GUIDANCE: Approximately 39.0%, +/- 150 bps, at the midpoint of the revenue outlook.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Reported / GAAP.
+- METRIC: Operating margin
+  GUIDANCE: Approximately 49.0%, +/- 100 bps, at the midpoint of the revenue outlook.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Adjusted / non-GAAP.
+- METRIC: Diluted EPS
+  GUIDANCE: $2.60, +/- $0.15.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Reported / GAAP.
+- METRIC: Diluted EPS
+  GUIDANCE: $3.30, +/- $0.15.
+  TARGET PERIOD: Fiscal Q3 2026
+  BASIS: Adjusted / non-GAAP.

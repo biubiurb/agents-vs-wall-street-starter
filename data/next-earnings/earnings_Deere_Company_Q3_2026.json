@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-08-20",
+  "target_period": "Q3 2026",
+  "previous_report_date": "2026-05-21",
+  "previous_period": "Q2 2026",
+  "previous_actuals": [
+    {
+      "metric": "Worldwide net sales and revenues",
+      "unit": "USDm",
+      "value": 13369.0,
+      "source_url": "https://www.deere.com/assets/pdfs/common/news/deere-2q26-earnings-release.pdf"
+    },
+    {
+      "metric": "Diluted EPS (GAAP)",
+      "unit": "USD / share",
+      "value": 6.55,
+      "source_url": "https://www.deere.com/assets/pdfs/common/news/deere-2q26-earnings-release.pdf"
+    },
+    {
+      "metric": "Production & Precision Ag operating profit",
+      "unit": "USDm",
+      "value": 706.0,
+      "source_url": "https://www.deere.com/assets/pdfs/common/news/deere-2q26-earnings-release.pdf"
+    }
+  ]
+}

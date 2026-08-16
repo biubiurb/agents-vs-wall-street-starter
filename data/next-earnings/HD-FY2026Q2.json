@@ -1,0 +1,14 @@
+{
+  "Net sales": {
+    "predicted_value": 47088.0,
+    "unit": "USDm"
+  },
+  "Adjusted diluted EPS": {
+    "predicted_value": 4.791937686746988,
+    "unit": "USD / share"
+  },
+  "Comparable sales, total company": {
+    "predicted_value": 0.5,
+    "unit": "%"
+  }
+}

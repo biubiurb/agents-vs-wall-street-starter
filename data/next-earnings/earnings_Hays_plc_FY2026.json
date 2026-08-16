@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-08-20",
+  "target_period": "FY2026",
+  "previous_report_date": "2026-02-27",
+  "previous_period": "H1 2026",
+  "previous_actuals": [
+    {
+      "metric": "Net fees",
+      "unit": "GBPm",
+      "value": 453.3,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY26/H1%2026/Hays%20H1%2026%20-%20Combined%20Financial%20Statements.pdf"
+    },
+    {
+      "metric": "Pre-exceptional basic EPS",
+      "unit": "GBp",
+      "value": 0.46,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY26/H1%2026/Hays%20H1%2026%20-%20Combined%20Financial%20Statements.pdf"
+    },
+    {
+      "metric": "Pre-exceptional operating profit",
+      "unit": "GBPm",
+      "value": 20.1,
+      "source_url": "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY26/H1%2026/Hays%20H1%2026%20-%20Combined%20Financial%20Statements.pdf"
+    }
+  ]
+}

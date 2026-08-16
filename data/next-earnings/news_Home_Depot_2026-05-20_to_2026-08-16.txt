@@ -1,0 +1,169 @@
+EARNINGS-RELEVANT NEWS: Home Depot
+DATE RANGE: 2026-05-20 to 2026-08-16 (inclusive)
+
+RELEASE TIME: 2026-06-17T18:00:00Z
+NEWS SOURCE: Federal Reserve Board (government_regulator)
+SOURCE URL: https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260617.htm
+
+HEADLINE: Federal Reserve holds policy rate at 3.50%-3.75% at June meeting
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, operating income, interest expense, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The FOMC maintained a restrictive 3.50%-3.75% policy-rate range. Sustained elevated rates feed into mortgage affordability and housing turnover, a material demand driver for Home Depot’s DIY and Pro project spending; rates also affect the company’s future borrowing costs and interest expense, with downstream effects on operating income, cash flow and EPS.
+CONTENT (Summary from accessible article): The Federal Reserve left the federal-funds target range unchanged at 3.50% to 3.75% on June 17, 2026. Meeting materials and contemporaneous coverage indicated policymakers remained focused on inflation and that rate policy could remain restrictive.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-29T18:00:00Z
+NEWS SOURCE: Federal Reserve Board (government_regulator)
+SOURCE URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm
+
+HEADLINE: Federal Reserve holds policy rate at 3.50%-3.75% in July amid elevated inflation and energy supply shocks
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, gross profit, operating expense, interest expense, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The FOMC again kept rates at 3.50%-3.75% and specifically cited energy-related supply shocks as contributing to elevated inflation. Persistent high policy and mortgage rates can restrain housing turnover and discretionary project demand, while energy inflation can raise distribution and operating costs; the company’s financing costs also remain relevant for interest expense, cash flow and EPS.
+CONTENT (Summary from accessible article): The Federal Reserve maintained the 3.50% to 3.75% federal-funds target range on July 29, 2026. Its statement said inflation remained elevated in part because supply shocks had increased prices in certain sectors, including energy; three policymakers preferred a quarter-point increase.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-30
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://ir.homedepot.com/news-releases/2026/07-30-2026-210819756
+
+HEADLINE: The Home Depot announces organizational realignment focused on merchandising, loyalty, finance, Pro and technology
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, gross profit, selling, general and administrative expense, depreciation, inventory/working capital, capex, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: Home Depot combined key portfolios across merchandising, loyalty, finance, Pro and technology, and created an Office of Pro Acceleration to coordinate Home Depot Pro, HD Supply, SRS and Construction Resources. The changes directly target customer share, merchandising, CRM, catalog and fulfillment integration, giving them credible channels to alter sales, pricing/margin, labor and technology expense, capex/depreciation, inventory/working capital, operating income and EPS.
+CONTENT (Summary from accessible article): Home Depot announced a leadership and organizational realignment intended to improve the customer experience, accelerate innovation and capture market share. It unified private-brand and core merchandising, integrated customer experience/online/financial-services/loyalty functions, and established an Office of Pro Acceleration to coordinate shared Pro capabilities including CRM, a product catalog and fulfillment.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-20T10:00:00Z
+NEWS SOURCE: Lowe’s / SEC (official_company)
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/60667/000006066726000062/exhibit991-05012026.htm
+
+HEADLINE: Lowe’s reports first-quarter 2026 sales and earnings; affirms full-year outlook
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, COGS, operating income, EPS, working capital
+WHY IT COULD AFFECT EARNINGS: Lowe’s reported 0.6% comparable-sales growth, citing spring execution, online growth and strength in appliances, home services and Pro sales, and reaffirmed its full-year outlook. As Home Depot’s closest large-format competitor, this is a direct read-through on home-improvement demand, category mix and competitive intensity; it can affect Home Depot sales, gross margin/COGS through pricing and promotional responses, inventory/working capital, operating income and EPS.
+CONTENT (Summary from accessible article): Lowe’s reported first-quarter sales of $23.1 billion and comparable-sales growth of 0.6%. It attributed performance to spring execution, 15.5% online-sales growth and continued strength in appliances, home services and Pro sales, while affirming its fiscal-2026 outlook.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-21
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://ir.homedepot.com/news-releases/2026/05-21-2026-211314566
+
+HEADLINE: The Home Depot declares quarterly dividend of $2.33 per share
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): cash flow, cash and cash equivalents, retained earnings/shareholders' equity, financing cash flow
+WHY IT COULD AFFECT EARNINGS: The board declared a cash dividend of $2.33 per share, payable June 18. The declaration creates a direct capital-allocation cash outflow, reducing cash and retained earnings when paid and affecting financing cash flow; it may also influence funding capacity for debt repayment, capex and repurchases.
+CONTENT (Summary from accessible article): Home Depot declared a quarterly cash dividend of $2.33 per share, payable June 18, 2026, to shareholders of record on June 4, 2026.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-06
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://corporate.homedepot.com/news/company/home-depot-expands-pro-xtra-rewards
+
+HEADLINE: The Home Depot expands Pro Xtra Rewards with third-party business and lifestyle offers
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, COGS, selling, general and administrative expense, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: The expanded rewards program is aimed directly at retaining and increasing engagement with professional customers, a strategically significant customer segment. The offers can support Pro sales and share, while loyalty incentives, partner economics and marketing execution can affect gross margin/COGS and SG&A before any sales benefit reaches operating income and EPS.
+CONTENT (Summary from accessible article): Home Depot added Pro Xtra partner offers from 7-Eleven, Jimmy John’s, Tecovas and Rosie’s AI Answering Service. The company said the benefits are available to all members and refresh quarterly; it also said two-thirds of Pro online users regularly use its app.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-08
+NEWS SOURCE: The Home Depot (official_company)
+SOURCE URL: https://corporate.homedepot.com/news/company/home-depot-military-exchanges-delivery-expansion
+
+HEADLINE: The Home Depot launches APO/FPO delivery through military exchanges
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, fulfillment expense, selling, general and administrative expense, inventory/working capital, operating income
+WHY IT COULD AFFECT EARNINGS: The new exchange-channel arrangement opens Home Depot’s assortment to overseas military households and adds a new fulfillment route. It creates an identifiable incremental sales channel, while USPS shipping, exchange-partner economics, fulfillment and inventory allocation can affect COGS, SG&A/fulfillment expense, working capital and operating income.
+CONTENT (Summary from accessible article): Home Depot launched APO/FPO delivery through Army & Air Force Exchange Service and Navy Exchange partnerships. The program covers more than 20,000 products, more than 750 overseas bases in over 80 countries, and more than 250,000 overseas military families.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-24
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.investing.com/news/economic-indicators/trump-imposes-forced-labor-duties-on-60-trading-partners-as-10-us-tariffs-expire-4810447
+
+HEADLINE: U.S. imposes new 10% and 12.5% tariffs on imports from 60 trading partners
+CATEGORY: MACRO
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): COGS, gross profit, revenue/sales, inventory/working capital, operating expense, operating income, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The new duties cover 99.4% of U.S. imports, including goods from major Home Depot sourcing countries. The policy can raise landed merchandise costs and create supplier renegotiation, sourcing, pricing and inventory-timing effects; depending on pass-through, it can affect COGS, gross margin, sales demand, working capital, operating expense, cash flow, operating income and EPS.
+CONTENT (Summary from accessible article): Reuters reported that the United States imposed 10% and 12.5% tariffs on goods from 60 trading partners under Section 301 as a temporary 10% global tariff expired. The report said the duties cover 99.4% of U.S. imports, subject to listed exemptions.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-09
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.investing.com/news/economic-indicators/us-existing-home-sales-increase-more-than-expected-in-may-4733356
+
+HEADLINE: U.S. existing-home sales rise 3.2% in May despite higher mortgage rates
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, inventory/working capital, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: Existing-home sales rose to their highest pace since December, signaling more household moves and turnover. Home transactions commonly trigger repair, renovation and furnishing projects, providing a concrete volume and mix channel for Home Depot; however, elevated mortgage rates and tight inventory remained constraints, limiting the strength of the read-through.
+CONTENT (Summary from accessible article): Reuters reported that May U.S. existing-home sales rose 3.2% month over month to a 4.17 million seasonally adjusted annual rate. Sales rose year over year, but higher mortgage rates and tight inventory remained housing-market constraints.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-17
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.marketscreener.com/news/us-single-family-housing-starts-building-permits-fall-in-june-ce7f51dad88bf122
+
+HEADLINE: U.S. single-family starts and permits fall in June
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, inventory/working capital, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: Single-family starts and permits are forward indicators for construction and renovation-related demand from Home Depot’s Pro ecosystem. Declines in both measures can reduce future volumes in building materials and project categories, slow inventory turns and weigh on sales, gross profit, operating income and EPS.
+CONTENT (Summary from accessible article): Reuters reported that June single-family housing starts fell 0.2% to an annualized 895,000 rate and single-family permits fell 2.4% to 871,000. It attributed weakness to higher mortgage rates and inventory of unsold new homes.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-24
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.investing.com/news/economy-news/us-new-home-sales-pick-up-in-june-census-data-shows-4812093
+
+HEADLINE: U.S. new-home sales rise in June, but remain constrained by mortgage rates and affordability
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, inventory/working capital, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: New-home sales improved modestly, which supports demand for construction and move-in-related product categories, but were down year over year and constrained by mortgage rates and affordability. The mixed signal has a credible effect on Home Depot’s Pro and construction-adjacent demand, sales mix, inventory planning, gross profit, operating income and EPS.
+CONTENT (Summary from accessible article): Reuters reported that June new single-family home sales rose 1.6% month over month to a 628,000 annualized rate, but were 5.6% below the prior year. The report said higher mortgage rates and affordability continued to sideline potential buyers.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-09T14:01:24Z
+NEWS SOURCE: Associated Press (established_broadcaster)
+SOURCE URL: https://apnews.com/article/923d018ff5a61b54b238838ce3a254a2
+
+HEADLINE: U.S. existing-home sales fall 2.4% in June as prices reach a record and mortgage rates remain elevated
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, inventory/working capital, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: The June decline in existing-home sales, record home prices and elevated mortgage rates point to less housing turnover and deferred large projects. That is a direct headwind to Home Depot’s transaction volumes and big-ticket project mix, and can pressure sales, gross profit, inventory turns/working capital, operating income and EPS.
+CONTENT (Summary from accessible article): AP reported that U.S. existing-home sales fell 2.4% in June to a 4.09 million seasonally adjusted annual rate. The report cited record prices and elevated mortgage rates as affordability constraints.
+
+========================================================================================
+
+RELEASE TIME: 2026-08-14
+NEWS SOURCE: Associated Press (established_broadcaster)
+SOURCE URL: https://apnews.com/article/3e2bc5807d7396b8e6c5f599941cb2a9
+
+HEADLINE: U.S. retail sales fall in July, while building-material and garden-supply merchants post gains
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, gross profit, inventory/working capital, operating income, EPS
+WHY IT COULD AFFECT EARNINGS: The sector-specific gain at building-material and garden-supply merchants is a direct contemporaneous indicator of category demand relevant to Home Depot, despite broader retail-sales weakness. It can affect Home Depot sales and mix, gross profit and inventory turns, with follow-through to operating income and EPS.
+CONTENT (Summary from accessible article): AP reported that U.S. retail sales fell 0.6% in July, but building-material and garden-supply merchants were among the categories posting sales gains.

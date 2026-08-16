@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-08-19",
+  "target_period": "Q3 2026",
+  "previous_report_date": "2026-05-20",
+  "previous_period": "Q2 2026",
+  "previous_actuals": [
+    {
+      "metric": "Revenue",
+      "unit": "USDm",
+      "value": 3623.0,
+      "source_url": "https://investor.analog.com/static-files/23d426f9-1ce4-468a-ae3b-e8041b6e856f"
+    },
+    {
+      "metric": "Adjusted diluted EPS",
+      "unit": "USD / share",
+      "value": 3.09,
+      "source_url": "https://investor.analog.com/static-files/23d426f9-1ce4-468a-ae3b-e8041b6e856f"
+    },
+    {
+      "metric": "Adjusted gross margin",
+      "unit": "%",
+      "value": 73.0,
+      "source_url": "https://investor.analog.com/static-files/23d426f9-1ce4-468a-ae3b-e8041b6e856f"
+    }
+  ]
+}

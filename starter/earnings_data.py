@@ -28,7 +28,7 @@ from xml.sax.saxutils import escape, quoteattr
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DATA_DIR = REPO_ROOT / "data"
-DEFAULT_MODEL = "gpt-5.6-terra"
+DEFAULT_MODEL = "gpt-5.6-sol"
 SOURCE_CLASSES = {
     "official",
     "bloomberg",

@@ -1,0 +1,26 @@
+EARNINGS-RELEVANT NEWS: Analog Devices
+DATE RANGE: 2026-05-21 to 2026-08-16 (inclusive)
+
+RELEASE TIME: 2026-07-07T13:03:00Z
+NEWS SOURCE: Analog Devices, Inc. (official_company)
+SOURCE URL: https://investor.analog.com/news-releases/news-release-details/analog-devices-completes-acquisition-empower-semiconductor
+
+HEADLINE: Analog Devices Completes Acquisition of Empower Semiconductor
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating expense, depreciation, amortization, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: Closing makes Empower part of ADI’s consolidated operations. The acquired power-delivery business can add sales and associated COGS and working capital, while purchase accounting and integration can add amortization, depreciation and operating expense; the acquisition consideration affects investing cash flow and the combined effects can affect EPS.
+CONTENT (Summary from accessible article): ADI announced completion of its acquisition of Empower Semiconductor. ADI said the combination expands its AI-compute power-delivery capabilities and total addressable market; it also cautioned that integration costs, retention, unknown liabilities and realization of expected benefits remain risks.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-02
+NEWS SOURCE: U.S. Securities and Exchange Commission (government_regulator)
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/6281/000119312526294488/d112344d8k.htm
+
+HEADLINE: Analog Devices enters into $3.0 billion revolving credit facility
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): debt, interest expense, cash flow, liquidity, working capital
+WHY IT COULD AFFECT EARNINGS: ADI established a 364-day, $3.0 billion multicurrency revolving facility, creating committed borrowing capacity and obligating the company to pay facility fees. Any utilization would increase debt and interest expense and provide cash liquidity for operations, working capital, acquisitions or other corporate uses; even without drawings, the disclosed facility-fee commitment affects financing cash flow and interest-related expense.
+CONTENT (Summary from accessible article): ADI disclosed a July 2 credit agreement providing up to $3.0 billion of revolving borrowing capacity through July 1, 2027, with potential annual extensions. Borrowings may be priced at Term SOFR plus a ratings-based margin of 0.48% to 0.925%, and the company agreed to a ratings-based facility fee of 0.020% to 0.075% on commitments.

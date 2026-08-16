@@ -34,7 +34,7 @@ from xml.sax.saxutils import escape, quoteattr
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DATA_DIR = REPO_ROOT / "data"
 DEFAULT_OUTPUT_PATH = DEFAULT_DATA_DIR / "comparable.xlsx"
-DEFAULT_MODEL = "gpt-5.6-terra"
+DEFAULT_MODEL = "gpt-5.6-sol"
 METRIC_WEIGHTS = {"revenue": 0.30, "costs": 0.20, "eps": 0.25}
 OTHER_WEIGHTS = {"macro_similarity_score": 0.15, "business_similarity_score": 0.07,
                  "scale_similarity_score": 0.03}

@@ -25,7 +25,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_CONFIG = REPO_ROOT / "challenge" / "companies.json"
 DEFAULT_DOCUMENT_ROOT = REPO_ROOT / "challenge" / "offline-data"
 DEFAULT_DATA_DIR = REPO_ROOT / "data"
-DEFAULT_MODEL = "gpt-5.6-terra"
+DEFAULT_MODEL = "gpt-5.6-sol"
 DIVIDER = "=" * 96
 
 

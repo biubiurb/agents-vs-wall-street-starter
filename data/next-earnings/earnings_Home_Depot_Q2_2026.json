@@ -1,0 +1,26 @@
+{
+  "target_report_date": "2026-08-18",
+  "target_period": "Q2 2026",
+  "previous_report_date": "2026-05-19",
+  "previous_period": "Q1 2026",
+  "previous_actuals": [
+    {
+      "metric": "Net sales",
+      "unit": "USDm",
+      "value": 41765.0,
+      "source_url": "https://ir.homedepot.com/news-releases/2026/05-19-2026-110111934"
+    },
+    {
+      "metric": "Adjusted diluted EPS",
+      "unit": "USD / share",
+      "value": 3.43,
+      "source_url": "https://ir.homedepot.com/news-releases/2026/05-19-2026-110111934"
+    },
+    {
+      "metric": "Comparable sales, total company",
+      "unit": "%",
+      "value": 0.6,
+      "source_url": "https://ir.homedepot.com/news-releases/2026/05-19-2026-110111934"
+    }
+  ]
+}

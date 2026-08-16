@@ -1,0 +1,65 @@
+EARNINGS-RELEVANT NEWS: Deere & Company
+DATE RANGE: 2026-05-22 to 2026-08-16 (inclusive)
+
+RELEASE TIME: 2026-07-08
+NEWS SOURCE: Federal Trade Commission (government_regulator)
+SOURCE URL: https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair
+
+HEADLINE: FTC, States Secure Settlement with Deere & Company, Advancing Farmers’ Right to Repair
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, legal expense, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: The ten-year settlement requires Deere to make dealer-equivalent diagnostic and repair resources available to farmers and independent repair providers on fair and reasonable terms, with compliance reporting and oversight. This can create implementation and compliance costs and may affect the economics of Deere's repair-resource, parts and authorized-dealer service ecosystem; the source did not quantify the financial effect.
+CONTENT (Summary from accessible article): The FTC and five states settled their antitrust lawsuit against Deere. Under the stipulated order, Deere must provide farmers and independent repair providers repair resources equivalent to those available to authorized dealers, including specified software capabilities, and must make similar future resources available once they are provided to more than half of its U.S. authorized dealer network. The order runs for 10 years, subject to extension for violations.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-10
+NEWS SOURCE: U.S. Securities and Exchange Commission (official_company)
+SOURCE URL: https://www.sec.gov/Archives/edgar/data/315189/000110465926082725/tm2619892d3_fwp.htm
+
+HEADLINE: Deere Funding Canada Corporation 4.850% Notes due 2031
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): debt, cash flow, interest expense, working capital, cash and cash equivalents
+WHY IT COULD AFFECT EARNINGS: Deere Funding Canada Corporation agreed to issue $300 million of senior unsecured notes, fully and unconditionally guaranteed by Deere. The financing increases available cash for Canadian affiliated operations and general corporate funding while adding debt principal and future interest expense; it also affects financing cash flows and liquidity.
+CONTENT (Summary from accessible article): Deere Funding Canada Corporation, an indirect wholly owned subsidiary of Deere, agreed to sell $300 million aggregate principal amount of 4.850% notes due July 15, 2031. The notes were scheduled to settle July 15, 2026, are fully and unconditionally guaranteed by Deere & Company, and pay interest semiannually beginning January 15, 2027.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-02T16:59:20Z
+NEWS SOURCE: Associated Press (national_general_news)
+SOURCE URL: https://apnews.com/article/trump-tariffs-steel-aluminum-7ca5a76dbe13db7e732fa48462ccde92
+
+HEADLINE: Trump lowers tariffs on farming equipment, adjusts steel and aluminum imports
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating profit, EPS, working capital, cash flow
+WHY IT COULD AFFECT EARNINGS: The executive-order change reduced the tariff rate on specified agricultural equipment, including combines and harvesters, to 15% from 25%, and extended the 15% rate to certain mobile industrial equipment from countries with U.S. trade deals. For Deere, this can alter the delivered cost of imported equipment and the relative price position of imported competitors, affecting equipment pricing, unit volumes, inventory turns and production-cost absorption.
+CONTENT (Summary from accessible article): AP reported that President Trump reduced tariffs on specified agricultural equipment, including combines and harvesters, from 25% to 15%. The order also applied a 15% rate to certain imported mobile industrial equipment, such as bulldozers and forklifts, when imported from countries with U.S. trade deals.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-11T14:44:00Z
+NEWS SOURCE: Association of Equipment Manufacturers (established_trade_press)
+SOURCE URL: https://newsroom.aem.org/agricultural-tractor-and-combine-sales-see-declines-across-the-us-and-canada-in-may-2026/
+
+HEADLINE: Agricultural Tractor and Combine Sales See Declines Across the U.S. and Canada in May 2026
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating profit, inventory, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: AEM reported broad year-over-year deterioration in U.S. tractor and combine retail demand, including a steep decline in combines. As a major North American agricultural-equipment manufacturer, Deere faces a credible risk of lower dealer replenishment and shipment volumes, which can reduce sales and factory-cost absorption while increasing inventory and working-capital pressure.
+CONTENT (Summary from accessible article): AEM reported that U.S. agricultural-tractor sales fell 21.6% year over year in May 2026 and U.S. combine sales fell 56.1%. It characterized the results as reflecting continued market softness, farmer economic pressure, depressed commodity prices and uncertainty around trade and farm policy.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-13T11:30:00Z
+NEWS SOURCE: Association of Equipment Manufacturers (established_trade_press)
+SOURCE URL: https://newsroom.aem.org/us-and-canadian-sales-of-combines-see-slight-increase-in-june-2026/
+
+HEADLINE: U.S. and Canadian Sales of Combines See Slight Increase in June 2026
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating profit, inventory, working capital, cash flow, EPS
+WHY IT COULD AFFECT EARNINGS: June industry data showed an uneven recovery: combines improved modestly, but total tractor demand remained sharply below the prior year. The mixed pattern is relevant to Deere's Production & Precision Agriculture and Small Agriculture and Turf volumes, dealer inventory replenishment, manufacturing utilization and associated gross-margin absorption.
+CONTENT (Summary from accessible article): AEM reported that U.S. combine retail sales rose 3.9% year over year in June 2026, while total U.S. agricultural-tractor sales declined 18.4%. Through June, U.S. total tractor sales were down 13.6% and combines were down 11.4% from the comparable 2025 period.

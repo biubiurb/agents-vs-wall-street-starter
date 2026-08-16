@@ -1,0 +1,39 @@
+{
+  "company": "Hays plc",
+  "target_period": "FY2026",
+  "target_report_date": "2026-08-20",
+  "news_start_date": "2026-02-28",
+  "information_cutoff": "2026-08-16",
+  "completion_mode": "deterministic fallback after two OpenAI Responses API connections reset",
+  "transport_note": "The live impact stage did not return a complete response. This fallback uses the pipeline's already-collected official H1, Q3, and Q4 evidence and the same deterministic EPS bridge rules; it does not use post-cutoff information.",
+  "previous_actuals": {
+    "Net fees": 453.3,
+    "Pre-exceptional basic EPS": 0.46,
+    "Pre-exceptional operating profit": 20.1
+  },
+  "forecast_basis": {
+    "Net fees": "FY25 H2 net fees are FY25 net fees of GBP972.4m less H1 FY25 GBP496.0m, or GBP476.4m. Approximate Q3/Q4 seasonality of 49.5%/50.5% is adjusted by the subsequently reported actual-currency declines of 7% and 4%, then added to reported H1 FY26 GBP453.3m: 453.3 + 476.4 x (49.5% x 93% + 50.5% x 96%) = GBP903.6m.",
+    "Pre-exceptional operating profit": "Hays said on 10 July that FY26 pre-exceptional operating profit was expected at the top of the GBP37m-GBP46m company-compiled consensus range. The central forecast is therefore GBP46.0m.",
+    "Pre-exceptional basic EPS": "Derived rather than directly predicted: (GBP46.0m operating profit - GBP13.0m net finance charge) x (1 - 45% tax rate) / 1,595.7m weighted-average shares x 100 pence per pound = 1.1374p. Finance-cost and tax inputs are H1 management guidance; the share count is the H1 reported basic weighted average."
+  },
+  "earnings_bridge": {
+    "route": "operating_margin",
+    "linked_revenue_metric": "Net fees",
+    "linked_operating_income_metric": "Pre-exceptional operating profit",
+    "revenue": 903.6,
+    "operating_margin_percent": 5.090748118636565,
+    "operating_income": 46.0,
+    "net_nonoperating_expense": 13.0,
+    "pretax_income": 33.0,
+    "tax_rate_percent": 45.0,
+    "net_income": 18.15,
+    "diluted_shares": 1595.7,
+    "eps_unit_multiplier": 100.0,
+    "derived_eps": 1.1374255812496084
+  },
+  "evidence_urls": [
+    "https://www.haysplc.com/~/media/Files/H/Hays/results-centre/FY26/H1%2026/Hays%20H1%2026%20-%20Combined%20Financial%20Statements.pdf",
+    "https://www.rns-pdf.londonstockexchange.com/rns/6571A_1-2026-4-15.pdf",
+    "https://www.rns-pdf.londonstockexchange.com/rns/7888L_1-2026-7-9.pdf"
+  ]
+}

@@ -10,6 +10,7 @@ from forecast_agents.guidance_analysis import _guidance_prompt, guidance_analysi
 from forecast_agents.main import _validate_report_context, forecast_company
 from forecast_agents.news_analysis import (
     _calculate_derived_eps,
+    _impact_schema,
     _impact_prompt,
     _load_offline_context,
     _validate_impacts,
@@ -18,6 +19,16 @@ from forecast_agents.news_analysis import (
 
 
 class ForecastAnalysisTests(unittest.TestCase):
+    def test_impact_schema_restricts_contributions_to_single_known_event_id(self):
+        schema = _impact_schema(
+            [{"label": "Revenue", "unit": "USDm"}], ["E1", "E3", "GUIDANCE"]
+        )
+
+        event_id_schema = schema["properties"]["metric_impacts"]["items"]["properties"][
+            "event_contributions"
+        ]["items"]["properties"]["event_id"]
+        self.assertEqual(event_id_schema["enum"], ["E1", "E3", "GUIDANCE"])
+
     @staticmethod
     def _comparable_payload(report_date="2026-08-10", projected_change=2.0):
         direction = (
@@ -309,7 +320,7 @@ class ForecastAnalysisTests(unittest.TestCase):
                     "direction": "increase",
                     "metric_total_calculation": "Derived EPS 0.60 - prior EPS 0.50",
                     "event_contributions": [
-                        {"event_id": "GUIDANCE", "projected_change": 0.10}
+                        {"event_id": "GUIDANCE", "projected_change": 0.099}
                     ],
                     "earnings_bridge": bridge,
                 },

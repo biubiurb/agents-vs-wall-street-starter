@@ -1,0 +1,130 @@
+EARNINGS-RELEVANT NEWS: Hays plc
+DATE RANGE: 2026-02-28 to 2026-08-16 (inclusive)
+
+RELEASE TIME: 2026-07-10
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.rns-pdf.londonstockexchange.com/rns/7888L_1-2026-7-9.pdf
+
+HEADLINE: Fourth Quarter Trading Statement
+CATEGORY: COMPANY
+IMPACT SCORE: 5/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, operating profit, impairment, cash flow, cash, debt, EPS
+WHY IT COULD AFFECT EARNINGS: The update directly reported a 5% like-for-like decline in group net fees and softening permanent hiring, while indicating FY26 pre-exceptional operating profit would reach the top end of the £37m–£46m consensus range through productivity and cost actions. It also disclosed approximately £40m of exceptional restructuring charges and approximately £30m of right-of-use-asset impairment, which are unusually consequential relative to expected operating profit and directly affect reported profit, EPS and cash-flow presentation. Net cash of about £20m is material to liquidity and capital allocation.
+CONTENT (Summary from accessible article): Hays reported Q4 FY26 like-for-like net fees down 5%, with Temp & Contracting down 3% and Permanent down 7%. It expected FY26 pre-exceptional operating profit at the top end of the £37m–£46m consensus range, supported by 8% consultant productivity growth and about £50m of annualised cost savings secured in FY26. The company expected about £40m of exceptional restructuring costs and about £30m of right-of-use-asset impairment from global office consolidation, plus a modest non-cash loss on the six-country disposal. It ended June with about £20m net cash.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-16
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.rns-pdf.londonstockexchange.com/rns/6571A_1-2026-4-15.pdf
+
+HEADLINE: Third Quarter Trading Statement
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, operating profit, impairment, cash flow, working capital, debt
+WHY IT COULD AFFECT EARNINGS: Hays reported an 8% like-for-like net-fee decline, including a 12% fall in permanent-placement fees, directly reducing revenue. It had secured about £30m of annualised FY26 structural cost savings but expected a higher H2 exceptional restructuring charge, affecting operating expenses, operating profit and exceptional items. Net debt of about £15m also made cash conversion and working-capital timing material.
+CONTENT (Summary from accessible article): For Q3 FY26, Hays reported group like-for-like net fees down 8% year on year: Temp & Contracting down 6% and Permanent down 12%. It reiterated FY26 pre-exceptional operating profit guidance in line with then-consensus of £45.2m. The company said it had delivered about £30m of annualised cost savings in FY26 and expected an increased exceptional restructuring charge in H2. Enterprise Solutions net fees fell 5%, partly from prior contract losses in North America and Switzerland, although new contracts were expected to contribute in coming quarters.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-17
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/announcement/rns/hays--has/hays-announces-reshaping-of-country-portfolio/9621800
+
+HEADLINE: Hays announces reshaping of country portfolio
+CATEGORY: COMPANY
+IMPACT SCORE: 4/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating profit, impairment, cash flow, working capital, cash
+WHY IT COULD AFFECT EARNINGS: The completed sale removes six country operations from future reported revenue and profit, generates approximately £4m of net cash proceeds after costs and working-capital items, and creates a non-cash loss on sale. Hays also identified a further seven countries under strategic review; the 13 countries collectively generated about £85m of FY26 net fees but broadly break-even pre-exceptional operating profit, making the portfolio change material to reported sales mix, cash flow and exceptional charges.
+CONTENT (Summary from accessible article): Hays completed the sale of its Czech Republic, Denmark, Hungary, Luxembourg, Romania and Sweden operations to Meraki Capital on 16 June for approximately £4m of net cash proceeds after transaction costs, working-capital and other items. It expected a modest non-cash loss on disposal in H2 FY26. Hays was also exploring options for Belgium, Brazil, Greater China, Malaysia, the Netherlands, Singapore and the UAE, and said the 13 countries together were expected to generate about £85m of FY26 net fees with broadly break-even pre-exceptional operating profit.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-01
+NEWS SOURCE: Hays plc (official_company)
+SOURCE URL: https://www.investegate.co.uk/announcement/rns/hays--has/share-buyback-programme-/9593398
+
+HEADLINE: Share buyback programme
+CATEGORY: COMPANY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): cash flow, cash, debt, equity, EPS
+WHY IT COULD AFFECT EARNINGS: The programme commits up to £5m of cash to acquire treasury shares for employee share plans. It is a direct capital-allocation use of cash, reduces or avoids future dilution depending on share-plan settlement, and can affect net cash/debt, equity and diluted EPS.
+CONTENT (Summary from accessible article): Hays announced a treasury-share purchase programme of up to £5m, to run from 1 June through no later than 10 July 2026. Shares acquired would be held in treasury to satisfy employee share plans, with BNP Paribas executing purchases during open periods.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-30
+NEWS SOURCE: Bank of England (government_regulator)
+SOURCE URL: https://www.bankofengland.co.uk/monetary-policy-report/2026/july-2026
+
+HEADLINE: Monetary Policy Report - July 2026
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating profit, cash flow, interest
+WHY IT COULD AFFECT EARNINGS: The Bank said the energy shock and tighter financial conditions were causing greater employer caution and hiring delays, with a quarter of surveyed firms expecting lower employment because of the conflict. That provides a concrete earnings channel to Hays’ UK&I placement volumes, especially permanent recruitment. Higher market borrowing costs can also affect interest expense or interest income and clients’ hiring budgets, with follow-through to revenue, profit and cash flow.
+CONTENT (Summary from accessible article): The Bank of England held Bank Rate at 3.75% on 30 July. It said energy prices remained above pre-conflict levels and volatile, labour-market spare capacity persisted, and contacts reported that the Middle East conflict had increased caution in employment intentions and delayed hiring. Around one quarter of firms in the Bank’s July Decision Maker Panel expected employment to be lower because of the conflict.
+
+========================================================================================
+
+RELEASE TIME: 2026-04-30
+NEWS SOURCE: Reuters (major_newswire)
+SOURCE URL: https://www.marketscreener.com/news/german-unemployment-rises-above-3-million-mark-in-april-ce7f58dbda8eff22
+
+HEADLINE: German unemployment rises above 3 million mark in April
+CATEGORY: MACRO
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: Germany represented 32% of Hays Q3 group net fees and is its largest market. A weakening German labour market and reduced registered openings credibly imply less client hiring and lower permanent and contracting placement volumes, pressuring net-fee revenue and operating profit; fixed-cost absorption would also weaken.
+CONTENT (Summary from accessible article): Reuters reported that seasonally adjusted German unemployment rose by 20,000 in April to 3.006 million, above expectations, while the jobless rate remained 6.4%. Registered job openings were 5,000 lower than a year earlier, and the Federal Employment Agency said there was no sign of a labour-market turnaround.
+
+========================================================================================
+
+RELEASE TIME: 2026-03-09
+NEWS SOURCE: KPMG and Recruitment & Employment Confederation (established_trade_press)
+SOURCE URL: https://kpmg.com/uk/en/media/press-releases/2026/03/kpmg-rec-uk-job-report.html
+
+HEADLINE: Permanent placements close to stabilising in February
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: The UK&I business is a material Hays market. The survey indicated that UK permanent hiring was nearing stabilisation, while temporary billings fell only modestly and staff-demand contraction eased. This is a direct read-through to placement volumes and net-fee revenue, with operating-profit and cash-flow implications through operating leverage.
+CONTENT (Summary from accessible article): KPMG/REC’s February survey of UK recruiters found permanent placements declined at their slowest pace in nearly three years, temporary billings fell only modestly, and demand for staff fell at the slowest pace in nine months. Candidate availability increased and starting-salary and temporary-wage growth eased.
+
+========================================================================================
+
+RELEASE TIME: 2026-05-11
+NEWS SOURCE: KPMG and Recruitment & Employment Confederation (established_trade_press)
+SOURCE URL: https://kpmg.com/uk/en/media/press-releases/2026/05/kpmg-and-rec-uk-report-on-jobs.html
+
+HEADLINE: Permanent placements fall at quicker rate in April amid greater market uncertainty
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: The survey indicated that UK employers shifted from permanent hiring toward flexible staffing amid uncertainty and higher costs. That mix shift directly affects Hays UK&I permanent-placement fees and temporary/contracting billings, with the net impact flowing to revenue, operating profit and cash generation.
+CONTENT (Summary from accessible article): KPMG/REC reported a quicker decline in UK permanent placements in April, attributed to uncertainty related to the Iran war and higher business costs. Temporary billings rose slightly for the first time in three months as employers favoured flexible staff. Overall worker demand still declined and candidate availability rose markedly.
+
+========================================================================================
+
+RELEASE TIME: 2026-07-08
+NEWS SOURCE: KPMG and Recruitment & Employment Confederation (established_trade_press)
+SOURCE URL: https://kpmg.com/uk/en/media/press-releases/2026/07/kpmg-and-rec-uk-report-on-jobs-july-2026.html
+
+HEADLINE: KPMG and REC, UK report on jobs July 2026
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, COGS, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: The UK survey showed the strongest temporary-billings growth in over three years but continuing, albeit milder, permanent-placement contraction. Hays derives a substantial share of group net fees from Temp & Contracting and remains exposed to UK&I, so the sector shift is material to placement volume and revenue mix. Faster temporary-pay growth can also affect temporary placement economics and gross margin/COGS.
+CONTENT (Summary from accessible article): KPMG/REC’s June survey found UK temporary billings grew at the fastest rate since April 2023, while permanent placements declined only marginally. It attributed the preference for temporary staff to geopolitical uncertainty and cost considerations. Overall staff demand nevertheless fell at the quickest pace since January, mainly from lower permanent vacancies, while starting salaries and temporary wages rose faster.
+
+========================================================================================
+
+RELEASE TIME: 2026-06-26
+NEWS SOURCE: ifo Institute (local_or_other)
+SOURCE URL: https://www.ifo.de/en/facts/2026-06-26/companies-germany-cutting-more-jobs-june-2026
+
+HEADLINE: Companies in Germany Cutting More Jobs (June 2026)
+CATEGORY: INDUSTRY
+IMPACT SCORE: 3/5
+FINANCIAL STATEMENT LINE(S): revenue/sales, operating expense, operating profit, cash flow
+WHY IT COULD AFFECT EARNINGS: Hays' largest national market is Germany. The ifo employment indicator signalled more planned job cuts, which is a negative leading indicator for client recruitment demand and therefore Hays’ permanent-placement and contracting net fees. Sustained lower activity would also pressure operating-profit conversion and cash generation.
+CONTENT (Summary from accessible article): ifo reported that its German Employment Barometer fell to 92.3 points in June from 93.9 in May, indicating that companies were planning more job cuts. The institute described the German labour market as weak.
